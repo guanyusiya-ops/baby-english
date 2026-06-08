@@ -1,0 +1,129 @@
+{
+  "stage": "toddler",
+  "title": "Toddler",
+  "subtitle": "Listen & Recognize",
+  "description": "Can you recognize the words you learned? Let's find out!",
+  "units": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "🐾",
+      "words": [
+        { "word": "cat", "emoji": "🐱" },
+        { "word": "dog", "emoji": "🐶" },
+        { "word": "fish", "emoji": "🐟" },
+        { "word": "bird", "emoji": "🐦" },
+        { "word": "rabbit", "emoji": "🐰" },
+        { "word": "bear", "emoji": "🐻" },
+        { "word": "elephant", "emoji": "🐘" },
+        { "word": "monkey", "emoji": "🐵" },
+        { "word": "duck", "emoji": "🦆" },
+        { "word": "pig", "emoji": "🐷" },
+        { "word": "horse", "emoji": "🐴" },
+        { "word": "cow", "emoji": "🐮" }
+      ]
+    },
+    {
+      "id": "colors",
+      "name": "Colors",
+      "icon": "🎨",
+      "words": [
+        { "word": "red", "emoji": "🔴", "color": "#e74c3c" },
+        { "word": "blue", "emoji": "🔵", "color": "#3498db" },
+        { "word": "green", "emoji": "🟢", "color": "#2ecc71" },
+        { "word": "yellow", "emoji": "🟡", "color": "#f1c40f" },
+        { "word": "orange", "emoji": "🟠", "color": "#e67e22" },
+        { "word": "purple", "emoji": "🟣", "color": "#9b59b6" },
+        { "word": "pink", "emoji": "🩷", "color": "#ff69b4" },
+        { "word": "white", "emoji": "⚪", "color": "#ecf0f1" },
+        { "word": "black", "emoji": "⚫", "color": "#2c3e50" },
+        { "word": "brown", "emoji": "🟤", "color": "#8B4513" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "icon": "🔢",
+      "words": [
+        { "word": "one", "emoji": "1️⃣", "value": 1 },
+        { "word": "two", "emoji": "2️⃣", "value": 2 },
+        { "word": "three", "emoji": "3️⃣", "value": 3 },
+        { "word": "four", "emoji": "4️⃣", "value": 4 },
+        { "word": "five", "emoji": "5️⃣", "value": 5 },
+        { "word": "six", "emoji": "6️⃣", "value": 6 },
+        { "word": "seven", "emoji": "7️⃣", "value": 7 },
+        { "word": "eight", "emoji": "8️⃣", "value": 8 },
+        { "word": "nine", "emoji": "9️⃣", "value": 9 },
+        { "word": "ten", "emoji": "🔟", "value": 10 }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "icon": "🍽️",
+      "words": [
+        { "word": "apple", "emoji": "🍎" },
+        { "word": "banana", "emoji": "🍌" },
+        { "word": "bread", "emoji": "🍞" },
+        { "word": "rice", "emoji": "🍚" },
+        { "word": "egg", "emoji": "🥚" },
+        { "word": "milk", "emoji": "🥛" },
+        { "word": "water", "emoji": "💧" },
+        { "word": "cookie", "emoji": "🍪" },
+        { "word": "cake", "emoji": "🎂" },
+        { "word": "pizza", "emoji": "🍕" },
+        { "word": "ice cream", "emoji": "🍦" },
+        { "word": "grape", "emoji": "🍇" }
+      ]
+    },
+    {
+      "id": "body",
+      "name": "My Body",
+      "icon": "🫀",
+      "words": [
+        { "word": "head", "emoji": "🗣️" },
+        { "word": "eye", "emoji": "👁️" },
+        { "word": "nose", "emoji": "👃" },
+        { "word": "mouth", "emoji": "👄" },
+        { "word": "ear", "emoji": "👂" },
+        { "word": "hand", "emoji": "✋" },
+        { "word": "foot", "emoji": "🦶" },
+        { "word": "finger", "emoji": "👆" },
+        { "word": "heart", "emoji": "❤️" },
+        { "word": "teeth", "emoji": "🦷" }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "words": [
+        { "word": "mama", "emoji": "👩" },
+        { "word": "papa", "emoji": "👨" },
+        { "word": "baby", "emoji": "👶" },
+        { "word": "sister", "emoji": "👧" },
+        { "word": "brother", "emoji": "👦" },
+        { "word": "grandma", "emoji": "👵" },
+        { "word": "grandpa", "emoji": "👴" },
+        { "word": "family", "emoji": "👨‍👩‍👧‍👦" }
+      ]
+    }
+  ],
+  "exerciseTypes": [
+    {
+      "type": "listen_pick_image",
+      "instruction": "Listen and pick the right picture",
+      "optionCount": 4
+    },
+    {
+      "type": "see_pick_word",
+      "instruction": "Look at the picture and pick the right word",
+      "optionCount": 4
+    },
+    {
+      "type": "match_pairs",
+      "instruction": "Match the pairs",
+      "pairCount": 4
+    }
+  ]
+}

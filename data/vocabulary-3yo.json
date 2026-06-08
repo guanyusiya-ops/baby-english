@@ -1,0 +1,4279 @@
+{
+  "_meta": {
+    "title": "3岁儿童英语词汇与句子库",
+    "description": "基于CDI（MacArthur-Bates量表）22个词汇类别和儿童语言发展研究整理",
+    "references": [
+      "CDI Words & Sentences 完整680词/22类别对照审查 (2023版)",
+      "Fenson et al. (2007) MacArthur-Bates CDI: 680词/22类别",
+      "CDI-III (30-37个月): 中位数产出573个不同词汇",
+      "3岁儿童能说3-6个词的句子，75%可被熟悉者理解",
+      "Fry Sight Words: 最高频1000词覆盖90%日常文本"
+    ],
+    "totalWords": 721,
+    "totalSentences": 271,
+    "note": "emoji为可选字段，无emoji的词汇用文字卡片展示"
+  },
+  "scenes": [
+    {
+      "id": "morning",
+      "name": "Morning Routine",
+      "nameCN": "早晨起床",
+      "icon": "🌅",
+      "words": {
+        "nouns": [
+          {
+            "word": "morning",
+            "emoji": "🌅"
+          },
+          {
+            "word": "sun",
+            "emoji": "☀️"
+          },
+          {
+            "word": "bed",
+            "emoji": "🛏️"
+          },
+          {
+            "word": "pillow",
+            "emoji": "🛋️"
+          },
+          {
+            "word": "blanket",
+            "emoji": "🧣"
+          },
+          {
+            "word": "alarm",
+            "emoji": "⏰"
+          },
+          {
+            "word": "window",
+            "emoji": "🪟"
+          },
+          {
+            "word": "light",
+            "emoji": "💡"
+          },
+          {
+            "word": "toothbrush",
+            "emoji": "🪥"
+          },
+          {
+            "word": "toothpaste",
+            "emoji": "🦷"
+          },
+          {
+            "word": "towel",
+            "emoji": "🧴"
+          },
+          {
+            "word": "face",
+            "emoji": "😊"
+          },
+          {
+            "word": "water",
+            "emoji": "💧"
+          },
+          {
+            "word": "mirror",
+            "emoji": "🪞"
+          },
+          {
+            "word": "hair",
+            "emoji": "💇"
+          },
+          {
+            "word": "bathroom",
+            "emoji": "🚿"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "wake up",
+            "emoji": "😃"
+          },
+          {
+            "word": "get up",
+            "emoji": "🧍"
+          },
+          {
+            "word": "open",
+            "emoji": "👐"
+          },
+          {
+            "word": "close",
+            "emoji": "🤲"
+          },
+          {
+            "word": "brush",
+            "emoji": "🪥"
+          },
+          {
+            "word": "wash",
+            "emoji": "🧼"
+          },
+          {
+            "word": "stretch",
+            "emoji": "🤸"
+          },
+          {
+            "word": "yawn",
+            "emoji": "🥱"
+          },
+          {
+            "word": "wake"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "sleepy",
+            "emoji": "😴"
+          },
+          {
+            "word": "bright",
+            "emoji": "✨"
+          },
+          {
+            "word": "warm",
+            "emoji": "🌡️"
+          },
+          {
+            "word": "clean",
+            "emoji": "🧹"
+          },
+          {
+            "word": "allgone"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Good morning!",
+          "level": 1
+        },
+        {
+          "text": "Wake up!",
+          "level": 1
+        },
+        {
+          "text": "I am awake.",
+          "level": 1
+        },
+        {
+          "text": "Time to get up.",
+          "level": 2
+        },
+        {
+          "text": "Open the window.",
+          "level": 2
+        },
+        {
+          "text": "The sun is up.",
+          "level": 2
+        },
+        {
+          "text": "I need to brush my teeth.",
+          "level": 3
+        },
+        {
+          "text": "Wash your face.",
+          "level": 2
+        },
+        {
+          "text": "I want water.",
+          "level": 2
+        },
+        {
+          "text": "Good morning, Mama.",
+          "level": 2
+        },
+        {
+          "text": "I am still sleepy.",
+          "level": 3
+        },
+        {
+          "text": "Turn on the light.",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "meals",
+      "name": "Meals & Food",
+      "nameCN": "吃饭与食物",
+      "icon": "🍽️",
+      "words": {
+        "nouns": [
+          {
+            "word": "breakfast",
+            "emoji": "🥣"
+          },
+          {
+            "word": "lunch",
+            "emoji": "🥪"
+          },
+          {
+            "word": "dinner",
+            "emoji": "🍽️"
+          },
+          {
+            "word": "snack",
+            "emoji": "🍿"
+          },
+          {
+            "word": "milk",
+            "emoji": "🥛"
+          },
+          {
+            "word": "water",
+            "emoji": "💧"
+          },
+          {
+            "word": "juice",
+            "emoji": "🧃"
+          },
+          {
+            "word": "apple",
+            "emoji": "🍎"
+          },
+          {
+            "word": "banana",
+            "emoji": "🍌"
+          },
+          {
+            "word": "orange",
+            "emoji": "🍊"
+          },
+          {
+            "word": "grape",
+            "emoji": "🍇"
+          },
+          {
+            "word": "strawberry",
+            "emoji": "🍓"
+          },
+          {
+            "word": "bread",
+            "emoji": "🍞"
+          },
+          {
+            "word": "rice",
+            "emoji": "🍚"
+          },
+          {
+            "word": "noodle",
+            "emoji": "🍜"
+          },
+          {
+            "word": "egg",
+            "emoji": "🥚"
+          },
+          {
+            "word": "chicken",
+            "emoji": "🍗"
+          },
+          {
+            "word": "fish",
+            "emoji": "🐟"
+          },
+          {
+            "word": "meat",
+            "emoji": "🥩"
+          },
+          {
+            "word": "cheese",
+            "emoji": "🧀"
+          },
+          {
+            "word": "cookie",
+            "emoji": "🍪"
+          },
+          {
+            "word": "cake",
+            "emoji": "🎂"
+          },
+          {
+            "word": "candy",
+            "emoji": "🍬"
+          },
+          {
+            "word": "ice cream",
+            "emoji": "🍦"
+          },
+          {
+            "word": "pizza",
+            "emoji": "🍕"
+          },
+          {
+            "word": "soup",
+            "emoji": "🍲"
+          },
+          {
+            "word": "vegetable",
+            "emoji": "🥦"
+          },
+          {
+            "word": "carrot",
+            "emoji": "🥕"
+          },
+          {
+            "word": "tomato",
+            "emoji": "🍅"
+          },
+          {
+            "word": "potato",
+            "emoji": "🥔"
+          },
+          {
+            "word": "corn",
+            "emoji": "🌽"
+          },
+          {
+            "word": "cup",
+            "emoji": "☕"
+          },
+          {
+            "word": "plate",
+            "emoji": "🍽️"
+          },
+          {
+            "word": "bowl",
+            "emoji": "🥣"
+          },
+          {
+            "word": "spoon",
+            "emoji": "🥄"
+          },
+          {
+            "word": "fork",
+            "emoji": "🍴"
+          },
+          {
+            "word": "knife",
+            "emoji": "🔪"
+          },
+          {
+            "word": "table",
+            "emoji": "🪑"
+          },
+          {
+            "word": "chair",
+            "emoji": "💺"
+          },
+          {
+            "word": "bottle",
+            "emoji": "🍼"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "eat",
+            "emoji": "😋"
+          },
+          {
+            "word": "drink",
+            "emoji": "🥤"
+          },
+          {
+            "word": "bite",
+            "emoji": "😬"
+          },
+          {
+            "word": "chew",
+            "emoji": "😮"
+          },
+          {
+            "word": "swallow",
+            "emoji": "😌"
+          },
+          {
+            "word": "taste",
+            "emoji": "👅"
+          },
+          {
+            "word": "cook",
+            "emoji": "🧑‍🍳"
+          },
+          {
+            "word": "cut",
+            "emoji": "✂️"
+          },
+          {
+            "word": "pour",
+            "emoji": "🫗"
+          },
+          {
+            "word": "mix",
+            "emoji": "🥄"
+          },
+          {
+            "word": "share",
+            "emoji": "🤝"
+          },
+          {
+            "word": "spill",
+            "emoji": "💦"
+          },
+          {
+            "word": "lick"
+          },
+          {
+            "word": "have"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "hungry",
+            "emoji": "😋"
+          },
+          {
+            "word": "thirsty",
+            "emoji": "🥤"
+          },
+          {
+            "word": "full",
+            "emoji": "😌"
+          },
+          {
+            "word": "yummy",
+            "emoji": "😊"
+          },
+          {
+            "word": "yucky",
+            "emoji": "🤢"
+          },
+          {
+            "word": "hot",
+            "emoji": "🔥"
+          },
+          {
+            "word": "cold",
+            "emoji": "🧊"
+          },
+          {
+            "word": "sweet",
+            "emoji": "🍬"
+          },
+          {
+            "word": "sour",
+            "emoji": "🍋"
+          },
+          {
+            "word": "salty",
+            "emoji": "🧂"
+          },
+          {
+            "word": "delicious",
+            "emoji": "🤤"
+          },
+          {
+            "word": "more",
+            "emoji": "➕"
+          },
+          {
+            "word": "sticky"
+          },
+          {
+            "word": "hard"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "I am hungry.",
+          "level": 1
+        },
+        {
+          "text": "I am thirsty.",
+          "level": 1
+        },
+        {
+          "text": "I want milk.",
+          "level": 1
+        },
+        {
+          "text": "More, please.",
+          "level": 1
+        },
+        {
+          "text": "No more.",
+          "level": 1
+        },
+        {
+          "text": "I want apple.",
+          "level": 2
+        },
+        {
+          "text": "Can I have juice?",
+          "level": 2
+        },
+        {
+          "text": "This is yummy.",
+          "level": 2
+        },
+        {
+          "text": "I don't like it.",
+          "level": 2
+        },
+        {
+          "text": "It is too hot.",
+          "level": 2
+        },
+        {
+          "text": "I am full.",
+          "level": 2
+        },
+        {
+          "text": "Give me a spoon.",
+          "level": 2
+        },
+        {
+          "text": "I want more rice.",
+          "level": 2
+        },
+        {
+          "text": "Can I have a cookie?",
+          "level": 3
+        },
+        {
+          "text": "I want to eat banana.",
+          "level": 3
+        },
+        {
+          "text": "Mama, I am hungry.",
+          "level": 2
+        },
+        {
+          "text": "This is too sour.",
+          "level": 3
+        },
+        {
+          "text": "I like ice cream.",
+          "level": 2
+        },
+        {
+          "text": "Pour the milk, please.",
+          "level": 3
+        },
+        {
+          "text": "Let's eat together.",
+          "level": 3
+        },
+        {
+          "text": "What is for dinner?",
+          "level": 3
+        },
+        {
+          "text": "Thank you for the food.",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "dressing",
+      "name": "Getting Dressed",
+      "nameCN": "穿衣打扮",
+      "icon": "👕",
+      "words": {
+        "nouns": [
+          {
+            "word": "shirt",
+            "emoji": "👕"
+          },
+          {
+            "word": "pants",
+            "emoji": "👖"
+          },
+          {
+            "word": "dress",
+            "emoji": "👗"
+          },
+          {
+            "word": "skirt",
+            "emoji": "👗"
+          },
+          {
+            "word": "shoes",
+            "emoji": "👟"
+          },
+          {
+            "word": "socks",
+            "emoji": "🧦"
+          },
+          {
+            "word": "hat",
+            "emoji": "🧢"
+          },
+          {
+            "word": "coat",
+            "emoji": "🧥"
+          },
+          {
+            "word": "jacket",
+            "emoji": "🧥"
+          },
+          {
+            "word": "sweater",
+            "emoji": "🧶"
+          },
+          {
+            "word": "pajamas",
+            "emoji": "👘"
+          },
+          {
+            "word": "underwear",
+            "emoji": "🩲"
+          },
+          {
+            "word": "gloves",
+            "emoji": "🧤"
+          },
+          {
+            "word": "scarf",
+            "emoji": "🧣"
+          },
+          {
+            "word": "boots",
+            "emoji": "🥾"
+          },
+          {
+            "word": "button",
+            "emoji": "🔘"
+          },
+          {
+            "word": "zipper",
+            "emoji": "🤐"
+          },
+          {
+            "word": "pocket",
+            "emoji": "👖"
+          },
+          {
+            "word": "diaper",
+            "emoji": "🍼"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "put on",
+            "emoji": "👆"
+          },
+          {
+            "word": "take off",
+            "emoji": "👇"
+          },
+          {
+            "word": "wear",
+            "emoji": "👕"
+          },
+          {
+            "word": "zip",
+            "emoji": "🤐"
+          },
+          {
+            "word": "tie",
+            "emoji": "🎀"
+          },
+          {
+            "word": "change",
+            "emoji": "🔄"
+          },
+          {
+            "word": "buy",
+            "emoji": "🛒"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "new",
+            "emoji": "✨"
+          },
+          {
+            "word": "old",
+            "emoji": "👴"
+          },
+          {
+            "word": "pretty",
+            "emoji": "😍"
+          },
+          {
+            "word": "big",
+            "emoji": "📏"
+          },
+          {
+            "word": "small",
+            "emoji": "🤏"
+          },
+          {
+            "word": "tight",
+            "emoji": "😤"
+          },
+          {
+            "word": "soft",
+            "emoji": "🧸"
+          },
+          {
+            "word": "wet",
+            "emoji": "💦"
+          },
+          {
+            "word": "dry",
+            "emoji": "☀️"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Put on your shoes.",
+          "level": 2
+        },
+        {
+          "text": "Take off your coat.",
+          "level": 2
+        },
+        {
+          "text": "I can do it myself!",
+          "level": 3
+        },
+        {
+          "text": "This is my shirt.",
+          "level": 2
+        },
+        {
+          "text": "I want the red one.",
+          "level": 3
+        },
+        {
+          "text": "Help me, please.",
+          "level": 2
+        },
+        {
+          "text": "Where are my socks?",
+          "level": 3
+        },
+        {
+          "text": "These shoes are too big.",
+          "level": 3
+        },
+        {
+          "text": "I like this dress.",
+          "level": 2
+        },
+        {
+          "text": "It is cold. Wear a coat.",
+          "level": 3
+        },
+        {
+          "text": "My pants are wet.",
+          "level": 2
+        },
+        {
+          "text": "Zip up your jacket.",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "play",
+      "name": "Playing",
+      "nameCN": "玩耍",
+      "icon": "🎮",
+      "words": {
+        "nouns": [
+          {
+            "word": "toy",
+            "emoji": "🧸"
+          },
+          {
+            "word": "ball",
+            "emoji": "⚽"
+          },
+          {
+            "word": "doll",
+            "emoji": "🪆"
+          },
+          {
+            "word": "block",
+            "emoji": "🧱"
+          },
+          {
+            "word": "puzzle",
+            "emoji": "🧩"
+          },
+          {
+            "word": "book",
+            "emoji": "📖"
+          },
+          {
+            "word": "crayon",
+            "emoji": "🖍️"
+          },
+          {
+            "word": "paper",
+            "emoji": "📄"
+          },
+          {
+            "word": "color",
+            "emoji": "🎨"
+          },
+          {
+            "word": "picture",
+            "emoji": "🖼️"
+          },
+          {
+            "word": "balloon",
+            "emoji": "🎈"
+          },
+          {
+            "word": "bubble",
+            "emoji": "🫧"
+          },
+          {
+            "word": "game",
+            "emoji": "🎮"
+          },
+          {
+            "word": "story",
+            "emoji": "📚"
+          },
+          {
+            "word": "song",
+            "emoji": "🎵"
+          },
+          {
+            "word": "music",
+            "emoji": "🎶"
+          },
+          {
+            "word": "drum",
+            "emoji": "🥁"
+          },
+          {
+            "word": "star",
+            "emoji": "⭐"
+          },
+          {
+            "word": "sticker",
+            "emoji": "⭐"
+          },
+          {
+            "word": "train",
+            "emoji": "🚂"
+          },
+          {
+            "word": "car",
+            "emoji": "🚗"
+          },
+          {
+            "word": "truck",
+            "emoji": "🚚"
+          },
+          {
+            "word": "airplane",
+            "emoji": "✈️"
+          },
+          {
+            "word": "boat",
+            "emoji": "⛵"
+          },
+          {
+            "word": "bicycle",
+            "emoji": "🚲"
+          },
+          {
+            "word": "kite",
+            "emoji": "🪁"
+          },
+          {
+            "word": "sand",
+            "emoji": "🏖️"
+          },
+          {
+            "word": "slide",
+            "emoji": "🛝"
+          },
+          {
+            "word": "swing",
+            "emoji": "🎠"
+          },
+          {
+            "word": "friend",
+            "emoji": "👫"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "play",
+            "emoji": "🎮"
+          },
+          {
+            "word": "run",
+            "emoji": "🏃"
+          },
+          {
+            "word": "jump",
+            "emoji": "🤸"
+          },
+          {
+            "word": "throw",
+            "emoji": "🤾"
+          },
+          {
+            "word": "catch",
+            "emoji": "🧤"
+          },
+          {
+            "word": "kick",
+            "emoji": "🦵"
+          },
+          {
+            "word": "climb",
+            "emoji": "🧗"
+          },
+          {
+            "word": "dance",
+            "emoji": "💃"
+          },
+          {
+            "word": "sing",
+            "emoji": "🎤"
+          },
+          {
+            "word": "draw",
+            "emoji": "✏️"
+          },
+          {
+            "word": "paint",
+            "emoji": "🎨"
+          },
+          {
+            "word": "build",
+            "emoji": "🧱"
+          },
+          {
+            "word": "push",
+            "emoji": "👉"
+          },
+          {
+            "word": "pull",
+            "emoji": "👈"
+          },
+          {
+            "word": "hide",
+            "emoji": "🙈"
+          },
+          {
+            "word": "find",
+            "emoji": "🔍"
+          },
+          {
+            "word": "share",
+            "emoji": "🤝"
+          },
+          {
+            "word": "read",
+            "emoji": "📖"
+          },
+          {
+            "word": "slide",
+            "emoji": "🛝"
+          },
+          {
+            "word": "ride",
+            "emoji": "🚲"
+          },
+          {
+            "word": "fly",
+            "emoji": "🕊️"
+          },
+          {
+            "word": "swim",
+            "emoji": "🏊"
+          },
+          {
+            "word": "roll",
+            "emoji": "🔄"
+          },
+          {
+            "word": "bounce",
+            "emoji": "⚽"
+          },
+          {
+            "word": "chase",
+            "emoji": "🏃"
+          },
+          {
+            "word": "pretend",
+            "emoji": "🎭"
+          },
+          {
+            "word": "tickle",
+            "emoji": "😆"
+          },
+          {
+            "word": "hit"
+          },
+          {
+            "word": "hold"
+          },
+          {
+            "word": "make"
+          },
+          {
+            "word": "rip"
+          },
+          {
+            "word": "drop"
+          },
+          {
+            "word": "dump"
+          },
+          {
+            "word": "fit"
+          },
+          {
+            "word": "get"
+          },
+          {
+            "word": "tear"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "fun",
+            "emoji": "🎉"
+          },
+          {
+            "word": "fast",
+            "emoji": "⚡"
+          },
+          {
+            "word": "slow",
+            "emoji": "🐢"
+          },
+          {
+            "word": "high",
+            "emoji": "⬆️"
+          },
+          {
+            "word": "low",
+            "emoji": "⬇️"
+          },
+          {
+            "word": "loud",
+            "emoji": "📢"
+          },
+          {
+            "word": "quiet",
+            "emoji": "🤫"
+          },
+          {
+            "word": "funny",
+            "emoji": "😂"
+          },
+          {
+            "word": "scary",
+            "emoji": "😱"
+          },
+          {
+            "word": "broken",
+            "emoji": "💔"
+          },
+          {
+            "word": "stuck"
+          },
+          {
+            "word": "first"
+          },
+          {
+            "word": "last"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Let's play!",
+          "level": 1
+        },
+        {
+          "text": "My turn!",
+          "level": 1
+        },
+        {
+          "text": "Your turn.",
+          "level": 1
+        },
+        {
+          "text": "I want to play.",
+          "level": 2
+        },
+        {
+          "text": "Look at me!",
+          "level": 1
+        },
+        {
+          "text": "Watch me jump!",
+          "level": 2
+        },
+        {
+          "text": "Throw the ball.",
+          "level": 2
+        },
+        {
+          "text": "Catch it!",
+          "level": 1
+        },
+        {
+          "text": "I can run fast.",
+          "level": 2
+        },
+        {
+          "text": "Read me a story.",
+          "level": 2
+        },
+        {
+          "text": "Can I play too?",
+          "level": 2
+        },
+        {
+          "text": "Let's build a tower.",
+          "level": 3
+        },
+        {
+          "text": "I found it!",
+          "level": 2
+        },
+        {
+          "text": "Where did it go?",
+          "level": 3
+        },
+        {
+          "text": "I want to draw.",
+          "level": 2
+        },
+        {
+          "text": "Let's play hide and seek.",
+          "level": 3
+        },
+        {
+          "text": "This is fun!",
+          "level": 2
+        },
+        {
+          "text": "Push me on the swing.",
+          "level": 3
+        },
+        {
+          "text": "Can we go to the park?",
+          "level": 3
+        },
+        {
+          "text": "I am the winner!",
+          "level": 2
+        },
+        {
+          "text": "Don't break it.",
+          "level": 2
+        },
+        {
+          "text": "We can share.",
+          "level": 2
+        },
+        {
+          "text": "Sing a song with me.",
+          "level": 3
+        },
+        {
+          "text": "It is my toy.",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "outside",
+      "name": "Outside & Nature",
+      "nameCN": "户外与自然",
+      "icon": "🌳",
+      "words": {
+        "nouns": [
+          {
+            "word": "sky",
+            "emoji": "🌤️"
+          },
+          {
+            "word": "sun",
+            "emoji": "☀️"
+          },
+          {
+            "word": "moon",
+            "emoji": "🌙"
+          },
+          {
+            "word": "star",
+            "emoji": "⭐"
+          },
+          {
+            "word": "cloud",
+            "emoji": "☁️"
+          },
+          {
+            "word": "rain",
+            "emoji": "🌧️"
+          },
+          {
+            "word": "snow",
+            "emoji": "❄️"
+          },
+          {
+            "word": "wind",
+            "emoji": "💨"
+          },
+          {
+            "word": "rainbow",
+            "emoji": "🌈"
+          },
+          {
+            "word": "tree",
+            "emoji": "🌳"
+          },
+          {
+            "word": "flower",
+            "emoji": "🌸"
+          },
+          {
+            "word": "grass",
+            "emoji": "🌿"
+          },
+          {
+            "word": "leaf",
+            "emoji": "🍃"
+          },
+          {
+            "word": "rock",
+            "emoji": "🪨"
+          },
+          {
+            "word": "dirt",
+            "emoji": "🟤"
+          },
+          {
+            "word": "puddle",
+            "emoji": "💧"
+          },
+          {
+            "word": "bug",
+            "emoji": "🐛"
+          },
+          {
+            "word": "butterfly",
+            "emoji": "🦋"
+          },
+          {
+            "word": "bird",
+            "emoji": "🐦"
+          },
+          {
+            "word": "ant",
+            "emoji": "🐜"
+          },
+          {
+            "word": "bee",
+            "emoji": "🐝"
+          },
+          {
+            "word": "garden",
+            "emoji": "🌻"
+          },
+          {
+            "word": "park",
+            "emoji": "🏞️"
+          },
+          {
+            "word": "road",
+            "emoji": "🛤️"
+          },
+          {
+            "word": "bridge",
+            "emoji": "🌉"
+          },
+          {
+            "word": "river",
+            "emoji": "🏞️"
+          },
+          {
+            "word": "mountain",
+            "emoji": "⛰️"
+          },
+          {
+            "word": "beach",
+            "emoji": "🏖️"
+          },
+          {
+            "word": "sea",
+            "emoji": "🌊"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "walk",
+            "emoji": "🚶"
+          },
+          {
+            "word": "look",
+            "emoji": "👀"
+          },
+          {
+            "word": "see",
+            "emoji": "👁️"
+          },
+          {
+            "word": "hear",
+            "emoji": "👂"
+          },
+          {
+            "word": "smell",
+            "emoji": "👃"
+          },
+          {
+            "word": "touch",
+            "emoji": "🤚"
+          },
+          {
+            "word": "pick",
+            "emoji": "🌸"
+          },
+          {
+            "word": "dig",
+            "emoji": "⛏️"
+          },
+          {
+            "word": "blow",
+            "emoji": "💨"
+          },
+          {
+            "word": "rain",
+            "emoji": "🌧️"
+          },
+          {
+            "word": "grow",
+            "emoji": "🌱"
+          },
+          {
+            "word": "drive",
+            "emoji": "🚗"
+          },
+          {
+            "word": "fall"
+          },
+          {
+            "word": "skate",
+            "emoji": "⛸️"
+          },
+          {
+            "word": "bump"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "sunny",
+            "emoji": "☀️"
+          },
+          {
+            "word": "rainy",
+            "emoji": "🌧️"
+          },
+          {
+            "word": "windy",
+            "emoji": "💨"
+          },
+          {
+            "word": "snowy",
+            "emoji": "❄️"
+          },
+          {
+            "word": "cold",
+            "emoji": "🥶"
+          },
+          {
+            "word": "hot",
+            "emoji": "🥵"
+          },
+          {
+            "word": "beautiful",
+            "emoji": "😍"
+          },
+          {
+            "word": "tall",
+            "emoji": "🌲"
+          },
+          {
+            "word": "tiny",
+            "emoji": "🐜"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Look at the sky!",
+          "level": 2
+        },
+        {
+          "text": "It is raining.",
+          "level": 2
+        },
+        {
+          "text": "I see a bird.",
+          "level": 2
+        },
+        {
+          "text": "The sun is hot.",
+          "level": 2
+        },
+        {
+          "text": "Look, a rainbow!",
+          "level": 2
+        },
+        {
+          "text": "I found a bug.",
+          "level": 2
+        },
+        {
+          "text": "Let's go outside.",
+          "level": 2
+        },
+        {
+          "text": "Let's go to the park.",
+          "level": 3
+        },
+        {
+          "text": "The flower is pretty.",
+          "level": 2
+        },
+        {
+          "text": "I can hear the bird.",
+          "level": 3
+        },
+        {
+          "text": "It is snowing!",
+          "level": 2
+        },
+        {
+          "text": "Don't step in the puddle.",
+          "level": 3
+        },
+        {
+          "text": "The tree is very tall.",
+          "level": 3
+        },
+        {
+          "text": "I want to pick a flower.",
+          "level": 3
+        },
+        {
+          "text": "Where did the butterfly go?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "nameCN": "动物",
+      "icon": "🐾",
+      "words": {
+        "nouns": [
+          {
+            "word": "dog",
+            "emoji": "🐶",
+            "sound": "woof woof"
+          },
+          {
+            "word": "cat",
+            "emoji": "🐱",
+            "sound": "meow"
+          },
+          {
+            "word": "bird",
+            "emoji": "🐦",
+            "sound": "tweet tweet"
+          },
+          {
+            "word": "fish",
+            "emoji": "🐟",
+            "sound": "blub blub"
+          },
+          {
+            "word": "rabbit",
+            "emoji": "🐰"
+          },
+          {
+            "word": "bear",
+            "emoji": "🐻",
+            "sound": "roar"
+          },
+          {
+            "word": "monkey",
+            "emoji": "🐵",
+            "sound": "ooh ooh"
+          },
+          {
+            "word": "elephant",
+            "emoji": "🐘"
+          },
+          {
+            "word": "lion",
+            "emoji": "🦁",
+            "sound": "roar"
+          },
+          {
+            "word": "tiger",
+            "emoji": "🐯",
+            "sound": "roar"
+          },
+          {
+            "word": "cow",
+            "emoji": "🐮",
+            "sound": "moo"
+          },
+          {
+            "word": "pig",
+            "emoji": "🐷",
+            "sound": "oink"
+          },
+          {
+            "word": "horse",
+            "emoji": "🐴",
+            "sound": "neigh"
+          },
+          {
+            "word": "sheep",
+            "emoji": "🐑",
+            "sound": "baa"
+          },
+          {
+            "word": "duck",
+            "emoji": "🦆",
+            "sound": "quack"
+          },
+          {
+            "word": "chicken",
+            "emoji": "🐔",
+            "sound": "cluck"
+          },
+          {
+            "word": "frog",
+            "emoji": "🐸",
+            "sound": "ribbit"
+          },
+          {
+            "word": "snake",
+            "emoji": "🐍",
+            "sound": "hiss"
+          },
+          {
+            "word": "turtle",
+            "emoji": "🐢"
+          },
+          {
+            "word": "mouse",
+            "emoji": "🐭",
+            "sound": "squeak"
+          },
+          {
+            "word": "penguin",
+            "emoji": "🐧"
+          },
+          {
+            "word": "giraffe",
+            "emoji": "🦒"
+          },
+          {
+            "word": "zebra",
+            "emoji": "🦓"
+          },
+          {
+            "word": "whale",
+            "emoji": "🐋"
+          },
+          {
+            "word": "shark",
+            "emoji": "🦈"
+          },
+          {
+            "word": "dinosaur",
+            "emoji": "🦕"
+          },
+          {
+            "word": "spider",
+            "emoji": "🕷️"
+          },
+          {
+            "word": "ladybug",
+            "emoji": "🐞"
+          },
+          {
+            "word": "snail",
+            "emoji": "🐌"
+          },
+          {
+            "word": "owl",
+            "emoji": "🦉",
+            "sound": "hoot"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "bark",
+            "emoji": "🐶"
+          },
+          {
+            "word": "meow",
+            "emoji": "🐱"
+          },
+          {
+            "word": "fly",
+            "emoji": "🕊️"
+          },
+          {
+            "word": "swim",
+            "emoji": "🐟"
+          },
+          {
+            "word": "hop",
+            "emoji": "🐰"
+          },
+          {
+            "word": "crawl",
+            "emoji": "🐛"
+          },
+          {
+            "word": "bite",
+            "emoji": "🦷"
+          },
+          {
+            "word": "feed",
+            "emoji": "🍼"
+          },
+          {
+            "word": "pet",
+            "emoji": "🤚"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "cute",
+            "emoji": "🥰"
+          },
+          {
+            "word": "big",
+            "emoji": "🐘"
+          },
+          {
+            "word": "little",
+            "emoji": "🐭"
+          },
+          {
+            "word": "furry",
+            "emoji": "🧸"
+          },
+          {
+            "word": "scary",
+            "emoji": "😱"
+          },
+          {
+            "word": "friendly",
+            "emoji": "😊"
+          },
+          {
+            "word": "wild",
+            "emoji": "🦁"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "I like dogs.",
+          "level": 1
+        },
+        {
+          "text": "The cat says meow.",
+          "level": 2
+        },
+        {
+          "text": "Look, a bird!",
+          "level": 1
+        },
+        {
+          "text": "The dog is big.",
+          "level": 2
+        },
+        {
+          "text": "Can I pet the cat?",
+          "level": 3
+        },
+        {
+          "text": "The fish is swimming.",
+          "level": 2
+        },
+        {
+          "text": "I see a butterfly.",
+          "level": 2
+        },
+        {
+          "text": "The bear is sleeping.",
+          "level": 2
+        },
+        {
+          "text": "The frog can jump.",
+          "level": 2
+        },
+        {
+          "text": "I want a pet rabbit.",
+          "level": 3
+        },
+        {
+          "text": "What sound does a cow make?",
+          "level": 3
+        },
+        {
+          "text": "The elephant is very big.",
+          "level": 3
+        },
+        {
+          "text": "Don't touch the spider!",
+          "level": 3
+        },
+        {
+          "text": "The duck is in the water.",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "bath",
+      "name": "Bath Time",
+      "nameCN": "洗澡时间",
+      "icon": "🛁",
+      "words": {
+        "nouns": [
+          {
+            "word": "bath",
+            "emoji": "🛁"
+          },
+          {
+            "word": "shower",
+            "emoji": "🚿"
+          },
+          {
+            "word": "soap",
+            "emoji": "🧼"
+          },
+          {
+            "word": "shampoo",
+            "emoji": "🧴"
+          },
+          {
+            "word": "water",
+            "emoji": "💧"
+          },
+          {
+            "word": "towel",
+            "emoji": "🧴"
+          },
+          {
+            "word": "bubble",
+            "emoji": "🫧"
+          },
+          {
+            "word": "rubber duck",
+            "emoji": "🦆"
+          },
+          {
+            "word": "hair",
+            "emoji": "💇"
+          },
+          {
+            "word": "body",
+            "emoji": "🧍"
+          },
+          {
+            "word": "tummy",
+            "emoji": "🤰"
+          },
+          {
+            "word": "back",
+            "emoji": "🔙"
+          },
+          {
+            "word": "hand",
+            "emoji": "✋"
+          },
+          {
+            "word": "foot",
+            "emoji": "🦶"
+          },
+          {
+            "word": "potty",
+            "emoji": "🚽"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "wash",
+            "emoji": "🧼"
+          },
+          {
+            "word": "scrub",
+            "emoji": "🧽"
+          },
+          {
+            "word": "rinse",
+            "emoji": "🚿"
+          },
+          {
+            "word": "splash",
+            "emoji": "💦"
+          },
+          {
+            "word": "dry",
+            "emoji": "🏜️"
+          },
+          {
+            "word": "pour",
+            "emoji": "🫗"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "wet",
+            "emoji": "💦"
+          },
+          {
+            "word": "dry",
+            "emoji": "☀️"
+          },
+          {
+            "word": "warm",
+            "emoji": "🌡️"
+          },
+          {
+            "word": "cold",
+            "emoji": "🥶"
+          },
+          {
+            "word": "clean",
+            "emoji": "✨"
+          },
+          {
+            "word": "dirty",
+            "emoji": "🟤"
+          },
+          {
+            "word": "slippery",
+            "emoji": "🧼"
+          },
+          {
+            "word": "poor"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Bath time!",
+          "level": 1
+        },
+        {
+          "text": "The water is warm.",
+          "level": 2
+        },
+        {
+          "text": "Wash your hands.",
+          "level": 2
+        },
+        {
+          "text": "I like bubbles!",
+          "level": 2
+        },
+        {
+          "text": "Don't splash!",
+          "level": 2
+        },
+        {
+          "text": "Where is the soap?",
+          "level": 2
+        },
+        {
+          "text": "Wash your hair.",
+          "level": 2
+        },
+        {
+          "text": "I am all clean now.",
+          "level": 3
+        },
+        {
+          "text": "The water is too cold.",
+          "level": 3
+        },
+        {
+          "text": "Dry me with the towel.",
+          "level": 3
+        },
+        {
+          "text": "I need to go potty.",
+          "level": 2
+        },
+        {
+          "text": "My hands are dirty.",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "bedtime",
+      "name": "Bedtime",
+      "nameCN": "睡觉时间",
+      "icon": "🌙",
+      "words": {
+        "nouns": [
+          {
+            "word": "bed",
+            "emoji": "🛏️"
+          },
+          {
+            "word": "pillow",
+            "emoji": "🛋️"
+          },
+          {
+            "word": "blanket",
+            "emoji": "🧣"
+          },
+          {
+            "word": "pajamas",
+            "emoji": "👘"
+          },
+          {
+            "word": "teddy bear",
+            "emoji": "🧸"
+          },
+          {
+            "word": "story",
+            "emoji": "📖"
+          },
+          {
+            "word": "dream",
+            "emoji": "💭"
+          },
+          {
+            "word": "night",
+            "emoji": "🌙"
+          },
+          {
+            "word": "light",
+            "emoji": "💡"
+          },
+          {
+            "word": "dark",
+            "emoji": "🌑"
+          },
+          {
+            "word": "monster",
+            "emoji": "👹"
+          },
+          {
+            "word": "lullaby",
+            "emoji": "🎵"
+          },
+          {
+            "word": "kiss",
+            "emoji": "😘"
+          },
+          {
+            "word": "hug",
+            "emoji": "🤗"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "sleep",
+            "emoji": "😴"
+          },
+          {
+            "word": "dream",
+            "emoji": "💭"
+          },
+          {
+            "word": "close",
+            "emoji": "😑"
+          },
+          {
+            "word": "hug",
+            "emoji": "🤗"
+          },
+          {
+            "word": "kiss",
+            "emoji": "😘"
+          },
+          {
+            "word": "snore",
+            "emoji": "😪"
+          },
+          {
+            "word": "whisper",
+            "emoji": "🤫"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "sleepy",
+            "emoji": "😴"
+          },
+          {
+            "word": "tired",
+            "emoji": "🥱"
+          },
+          {
+            "word": "dark",
+            "emoji": "🌑"
+          },
+          {
+            "word": "quiet",
+            "emoji": "🤫"
+          },
+          {
+            "word": "scared",
+            "emoji": "😨"
+          },
+          {
+            "word": "cozy",
+            "emoji": "🧸"
+          },
+          {
+            "word": "safe",
+            "emoji": "🛡️"
+          },
+          {
+            "word": "asleep"
+          },
+          {
+            "word": "awake"
+          },
+          {
+            "word": "noisy"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Good night!",
+          "level": 1
+        },
+        {
+          "text": "I am sleepy.",
+          "level": 1
+        },
+        {
+          "text": "I am tired.",
+          "level": 1
+        },
+        {
+          "text": "Tell me a story.",
+          "level": 2
+        },
+        {
+          "text": "Read me a book.",
+          "level": 2
+        },
+        {
+          "text": "One more story, please.",
+          "level": 3
+        },
+        {
+          "text": "Turn off the light.",
+          "level": 2
+        },
+        {
+          "text": "I am scared of the dark.",
+          "level": 3
+        },
+        {
+          "text": "Where is my teddy bear?",
+          "level": 3
+        },
+        {
+          "text": "Give me a hug.",
+          "level": 2
+        },
+        {
+          "text": "Give me a kiss.",
+          "level": 2
+        },
+        {
+          "text": "I had a bad dream.",
+          "level": 3
+        },
+        {
+          "text": "Sleep tight.",
+          "level": 1
+        },
+        {
+          "text": "Sweet dreams.",
+          "level": 1
+        },
+        {
+          "text": "I don't want to sleep.",
+          "level": 3
+        },
+        {
+          "text": "Can I sleep with you?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family & People",
+      "nameCN": "家人与社交",
+      "icon": "👨‍👩‍👧‍👦",
+      "words": {
+        "nouns": [
+          {
+            "word": "mama",
+            "emoji": "👩"
+          },
+          {
+            "word": "papa",
+            "emoji": "👨"
+          },
+          {
+            "word": "mommy",
+            "emoji": "👩"
+          },
+          {
+            "word": "daddy",
+            "emoji": "👨"
+          },
+          {
+            "word": "baby",
+            "emoji": "👶"
+          },
+          {
+            "word": "brother",
+            "emoji": "👦"
+          },
+          {
+            "word": "sister",
+            "emoji": "👧"
+          },
+          {
+            "word": "grandma",
+            "emoji": "👵"
+          },
+          {
+            "word": "grandpa",
+            "emoji": "👴"
+          },
+          {
+            "word": "friend",
+            "emoji": "👫"
+          },
+          {
+            "word": "teacher",
+            "emoji": "👩‍🏫"
+          },
+          {
+            "word": "boy",
+            "emoji": "👦"
+          },
+          {
+            "word": "girl",
+            "emoji": "👧"
+          },
+          {
+            "word": "man",
+            "emoji": "👨"
+          },
+          {
+            "word": "woman",
+            "emoji": "👩"
+          },
+          {
+            "word": "people",
+            "emoji": "👥"
+          },
+          {
+            "word": "name",
+            "emoji": "📛"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "love",
+            "emoji": "❤️"
+          },
+          {
+            "word": "like",
+            "emoji": "👍"
+          },
+          {
+            "word": "hug",
+            "emoji": "🤗"
+          },
+          {
+            "word": "kiss",
+            "emoji": "😘"
+          },
+          {
+            "word": "help",
+            "emoji": "🤝"
+          },
+          {
+            "word": "call",
+            "emoji": "📞"
+          },
+          {
+            "word": "miss",
+            "emoji": "😢"
+          },
+          {
+            "word": "visit",
+            "emoji": "🏠"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "nice",
+            "emoji": "😊"
+          },
+          {
+            "word": "kind",
+            "emoji": "🤗"
+          },
+          {
+            "word": "mean",
+            "emoji": "😡"
+          },
+          {
+            "word": "silly",
+            "emoji": "🤪"
+          },
+          {
+            "word": "strong",
+            "emoji": "💪"
+          },
+          {
+            "word": "old",
+            "emoji": "👴"
+          },
+          {
+            "word": "young",
+            "emoji": "👶"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "I love you.",
+          "level": 1
+        },
+        {
+          "text": "I love Mama.",
+          "level": 1
+        },
+        {
+          "text": "Where is Daddy?",
+          "level": 2
+        },
+        {
+          "text": "This is my friend.",
+          "level": 2
+        },
+        {
+          "text": "Come here, please.",
+          "level": 2
+        },
+        {
+          "text": "Help me, Mama.",
+          "level": 2
+        },
+        {
+          "text": "I miss Grandma.",
+          "level": 2
+        },
+        {
+          "text": "What is your name?",
+          "level": 2
+        },
+        {
+          "text": "My name is...",
+          "level": 2
+        },
+        {
+          "text": "He is my brother.",
+          "level": 2
+        },
+        {
+          "text": "She is my sister.",
+          "level": 2
+        },
+        {
+          "text": "Can I call Grandpa?",
+          "level": 3
+        },
+        {
+          "text": "I want to play with my friend.",
+          "level": 3
+        },
+        {
+          "text": "You are nice.",
+          "level": 2
+        },
+        {
+          "text": "Don't be mean.",
+          "level": 2
+        },
+        {
+          "text": "I love my family.",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "feelings",
+      "name": "Feelings & Needs",
+      "nameCN": "情绪与需求",
+      "icon": "😊",
+      "words": {
+        "nouns": [
+          {
+            "word": "tears",
+            "emoji": "😢"
+          },
+          {
+            "word": "smile",
+            "emoji": "😊"
+          },
+          {
+            "word": "laugh",
+            "emoji": "😂"
+          },
+          {
+            "word": "boo-boo",
+            "emoji": "🩹"
+          },
+          {
+            "word": "owie",
+            "emoji": "🤕"
+          },
+          {
+            "word": "trouble",
+            "emoji": "😬"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "want",
+            "emoji": "🙋"
+          },
+          {
+            "word": "need",
+            "emoji": "❗"
+          },
+          {
+            "word": "like",
+            "emoji": "👍"
+          },
+          {
+            "word": "hate",
+            "emoji": "👎"
+          },
+          {
+            "word": "feel",
+            "emoji": "💓"
+          },
+          {
+            "word": "cry",
+            "emoji": "😢"
+          },
+          {
+            "word": "laugh",
+            "emoji": "😂"
+          },
+          {
+            "word": "smile",
+            "emoji": "😊"
+          },
+          {
+            "word": "hurt",
+            "emoji": "🤕"
+          },
+          {
+            "word": "scare",
+            "emoji": "😨"
+          },
+          {
+            "word": "try",
+            "emoji": "💪"
+          },
+          {
+            "word": "wait",
+            "emoji": "⏳"
+          },
+          {
+            "word": "stop",
+            "emoji": "🛑"
+          },
+          {
+            "word": "go",
+            "emoji": "🟢"
+          },
+          {
+            "word": "know",
+            "emoji": "🧠"
+          },
+          {
+            "word": "think",
+            "emoji": "🤔"
+          },
+          {
+            "word": "remember",
+            "emoji": "💭"
+          },
+          {
+            "word": "forget",
+            "emoji": "🫥"
+          },
+          {
+            "word": "wish"
+          },
+          {
+            "word": "talk",
+            "emoji": "💬"
+          },
+          {
+            "word": "hurry",
+            "emoji": "⏩"
+          },
+          {
+            "word": "stay"
+          },
+          {
+            "word": "write",
+            "emoji": "✏️"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "happy",
+            "emoji": "😊"
+          },
+          {
+            "word": "sad",
+            "emoji": "😢"
+          },
+          {
+            "word": "angry",
+            "emoji": "😡"
+          },
+          {
+            "word": "scared",
+            "emoji": "😨"
+          },
+          {
+            "word": "tired",
+            "emoji": "🥱"
+          },
+          {
+            "word": "sick",
+            "emoji": "🤒"
+          },
+          {
+            "word": "hungry",
+            "emoji": "😋"
+          },
+          {
+            "word": "thirsty",
+            "emoji": "🥤"
+          },
+          {
+            "word": "sorry",
+            "emoji": "😞"
+          },
+          {
+            "word": "excited",
+            "emoji": "🤩"
+          },
+          {
+            "word": "surprised",
+            "emoji": "😲"
+          },
+          {
+            "word": "shy",
+            "emoji": "🙈"
+          },
+          {
+            "word": "bored",
+            "emoji": "😐"
+          },
+          {
+            "word": "proud",
+            "emoji": "🏆"
+          },
+          {
+            "word": "lonely",
+            "emoji": "😔"
+          },
+          {
+            "word": "brave",
+            "emoji": "🦸"
+          },
+          {
+            "word": "okay",
+            "emoji": "👌"
+          },
+          {
+            "word": "better",
+            "emoji": "👍"
+          },
+          {
+            "word": "wrong",
+            "emoji": "❌"
+          },
+          {
+            "word": "right",
+            "emoji": "✅"
+          },
+          {
+            "word": "mad",
+            "emoji": "😡"
+          },
+          {
+            "word": "bad"
+          },
+          {
+            "word": "fine"
+          },
+          {
+            "word": "good",
+            "emoji": "👍"
+          },
+          {
+            "word": "careful"
+          },
+          {
+            "word": "gentle"
+          },
+          {
+            "word": "naughty"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "I am happy.",
+          "level": 1
+        },
+        {
+          "text": "I am sad.",
+          "level": 1
+        },
+        {
+          "text": "I am scared.",
+          "level": 1
+        },
+        {
+          "text": "I am angry.",
+          "level": 1
+        },
+        {
+          "text": "I don't want to.",
+          "level": 2
+        },
+        {
+          "text": "I need help.",
+          "level": 1
+        },
+        {
+          "text": "It hurts.",
+          "level": 1
+        },
+        {
+          "text": "I have a boo-boo.",
+          "level": 2
+        },
+        {
+          "text": "I am sorry.",
+          "level": 1
+        },
+        {
+          "text": "It's okay.",
+          "level": 1
+        },
+        {
+          "text": "Don't cry.",
+          "level": 1
+        },
+        {
+          "text": "I feel sick.",
+          "level": 2
+        },
+        {
+          "text": "I am tired.",
+          "level": 1
+        },
+        {
+          "text": "I don't like that.",
+          "level": 2
+        },
+        {
+          "text": "Please stop.",
+          "level": 1
+        },
+        {
+          "text": "I want Mama.",
+          "level": 1
+        },
+        {
+          "text": "Leave me alone.",
+          "level": 2
+        },
+        {
+          "text": "I can do it!",
+          "level": 2
+        },
+        {
+          "text": "I am so excited!",
+          "level": 2
+        },
+        {
+          "text": "Wait for me!",
+          "level": 2
+        },
+        {
+          "text": "That is not fair.",
+          "level": 3
+        },
+        {
+          "text": "I am proud of you.",
+          "level": 3
+        },
+        {
+          "text": "Are you okay?",
+          "level": 2
+        },
+        {
+          "text": "What is wrong?",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "name": "My Body",
+      "nameCN": "我的身体",
+      "icon": "🧍",
+      "words": {
+        "nouns": [
+          {
+            "word": "head",
+            "emoji": "🗣️"
+          },
+          {
+            "word": "hair",
+            "emoji": "💇"
+          },
+          {
+            "word": "face",
+            "emoji": "😊"
+          },
+          {
+            "word": "eye",
+            "emoji": "👁️"
+          },
+          {
+            "word": "ear",
+            "emoji": "👂"
+          },
+          {
+            "word": "nose",
+            "emoji": "👃"
+          },
+          {
+            "word": "mouth",
+            "emoji": "👄"
+          },
+          {
+            "word": "teeth",
+            "emoji": "🦷"
+          },
+          {
+            "word": "tongue",
+            "emoji": "👅"
+          },
+          {
+            "word": "chin",
+            "emoji": "🫦"
+          },
+          {
+            "word": "neck",
+            "emoji": "🦒"
+          },
+          {
+            "word": "shoulder",
+            "emoji": "💪"
+          },
+          {
+            "word": "arm",
+            "emoji": "💪"
+          },
+          {
+            "word": "hand",
+            "emoji": "✋"
+          },
+          {
+            "word": "finger",
+            "emoji": "👆"
+          },
+          {
+            "word": "thumb",
+            "emoji": "👍"
+          },
+          {
+            "word": "tummy",
+            "emoji": "🤰"
+          },
+          {
+            "word": "belly button",
+            "emoji": "⭕"
+          },
+          {
+            "word": "back",
+            "emoji": "🔙"
+          },
+          {
+            "word": "leg",
+            "emoji": "🦵"
+          },
+          {
+            "word": "knee",
+            "emoji": "🦵"
+          },
+          {
+            "word": "foot",
+            "emoji": "🦶"
+          },
+          {
+            "word": "toe",
+            "emoji": "🦶"
+          },
+          {
+            "word": "bottom",
+            "emoji": "🍑"
+          },
+          {
+            "word": "heart",
+            "emoji": "❤️"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "see",
+            "emoji": "👁️"
+          },
+          {
+            "word": "hear",
+            "emoji": "👂"
+          },
+          {
+            "word": "smell",
+            "emoji": "👃"
+          },
+          {
+            "word": "taste",
+            "emoji": "👅"
+          },
+          {
+            "word": "touch",
+            "emoji": "🤚"
+          },
+          {
+            "word": "clap",
+            "emoji": "👏"
+          },
+          {
+            "word": "wave",
+            "emoji": "👋"
+          },
+          {
+            "word": "point",
+            "emoji": "👆"
+          },
+          {
+            "word": "nod",
+            "emoji": "😊"
+          },
+          {
+            "word": "shake",
+            "emoji": "🙅"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "strong",
+            "emoji": "💪"
+          },
+          {
+            "word": "long",
+            "emoji": "📏"
+          },
+          {
+            "word": "short",
+            "emoji": "📐"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Touch your nose.",
+          "level": 2
+        },
+        {
+          "text": "Clap your hands.",
+          "level": 2
+        },
+        {
+          "text": "Stamp your feet.",
+          "level": 2
+        },
+        {
+          "text": "Close your eyes.",
+          "level": 2
+        },
+        {
+          "text": "Open your mouth.",
+          "level": 2
+        },
+        {
+          "text": "Wave your hand.",
+          "level": 2
+        },
+        {
+          "text": "I see with my eyes.",
+          "level": 3
+        },
+        {
+          "text": "I hear with my ears.",
+          "level": 3
+        },
+        {
+          "text": "My tummy hurts.",
+          "level": 2
+        },
+        {
+          "text": "I have two hands.",
+          "level": 2
+        },
+        {
+          "text": "Point to your head.",
+          "level": 2
+        },
+        {
+          "text": "Shake your head.",
+          "level": 2
+        },
+        {
+          "text": "My tooth fell out!",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Home & Rooms",
+      "nameCN": "家与房间",
+      "icon": "🏠",
+      "words": {
+        "nouns": [
+          {
+            "word": "house",
+            "emoji": "🏠"
+          },
+          {
+            "word": "home",
+            "emoji": "🏡"
+          },
+          {
+            "word": "room",
+            "emoji": "🚪"
+          },
+          {
+            "word": "door",
+            "emoji": "🚪"
+          },
+          {
+            "word": "window",
+            "emoji": "🪟"
+          },
+          {
+            "word": "wall",
+            "emoji": "🧱"
+          },
+          {
+            "word": "floor",
+            "emoji": "🟫"
+          },
+          {
+            "word": "stairs",
+            "emoji": "🪜"
+          },
+          {
+            "word": "kitchen",
+            "emoji": "🍳"
+          },
+          {
+            "word": "bedroom",
+            "emoji": "🛏️"
+          },
+          {
+            "word": "bathroom",
+            "emoji": "🛁"
+          },
+          {
+            "word": "living room",
+            "emoji": "🛋️"
+          },
+          {
+            "word": "sofa",
+            "emoji": "🛋️"
+          },
+          {
+            "word": "television",
+            "emoji": "📺"
+          },
+          {
+            "word": "phone",
+            "emoji": "📱"
+          },
+          {
+            "word": "computer",
+            "emoji": "💻"
+          },
+          {
+            "word": "clock",
+            "emoji": "🕐"
+          },
+          {
+            "word": "lamp",
+            "emoji": "💡"
+          },
+          {
+            "word": "trash",
+            "emoji": "🗑️"
+          },
+          {
+            "word": "key",
+            "emoji": "🔑"
+          },
+          {
+            "word": "box",
+            "emoji": "📦"
+          },
+          {
+            "word": "bag",
+            "emoji": "👜"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "open",
+            "emoji": "👐"
+          },
+          {
+            "word": "close",
+            "emoji": "🤲"
+          },
+          {
+            "word": "sit",
+            "emoji": "💺"
+          },
+          {
+            "word": "stand",
+            "emoji": "🧍"
+          },
+          {
+            "word": "lie down",
+            "emoji": "🛌"
+          },
+          {
+            "word": "clean",
+            "emoji": "🧹"
+          },
+          {
+            "word": "fix",
+            "emoji": "🔧"
+          },
+          {
+            "word": "carry",
+            "emoji": "📦"
+          },
+          {
+            "word": "move",
+            "emoji": "➡️"
+          },
+          {
+            "word": "bring",
+            "emoji": "🤲"
+          },
+          {
+            "word": "put",
+            "emoji": "👇"
+          },
+          {
+            "word": "take",
+            "emoji": "👆"
+          },
+          {
+            "word": "give",
+            "emoji": "🤝"
+          },
+          {
+            "word": "show",
+            "emoji": "👉"
+          },
+          {
+            "word": "turn on",
+            "emoji": "🔛"
+          },
+          {
+            "word": "turn off",
+            "emoji": "📴"
+          },
+          {
+            "word": "sweep",
+            "emoji": "🧹"
+          },
+          {
+            "word": "wipe"
+          },
+          {
+            "word": "knock",
+            "emoji": "🚪"
+          },
+          {
+            "word": "cover"
+          },
+          {
+            "word": "break"
+          },
+          {
+            "word": "watch",
+            "emoji": "📺"
+          },
+          {
+            "word": "work"
+          },
+          {
+            "word": "finish"
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "clean",
+            "emoji": "✨"
+          },
+          {
+            "word": "dirty",
+            "emoji": "🟤"
+          },
+          {
+            "word": "messy",
+            "emoji": "🗑️"
+          },
+          {
+            "word": "broken",
+            "emoji": "💔"
+          },
+          {
+            "word": "heavy",
+            "emoji": "🏋️"
+          },
+          {
+            "word": "empty",
+            "emoji": "📭"
+          },
+          {
+            "word": "full",
+            "emoji": "📬"
+          },
+          {
+            "word": "open",
+            "emoji": "🚪"
+          },
+          {
+            "word": "closed",
+            "emoji": "🔒"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Let's go home.",
+          "level": 2
+        },
+        {
+          "text": "Open the door.",
+          "level": 2
+        },
+        {
+          "text": "Close the door.",
+          "level": 2
+        },
+        {
+          "text": "Sit down, please.",
+          "level": 2
+        },
+        {
+          "text": "Stand up.",
+          "level": 1
+        },
+        {
+          "text": "Where is the remote?",
+          "level": 3
+        },
+        {
+          "text": "Turn on the TV.",
+          "level": 2
+        },
+        {
+          "text": "Turn off the light.",
+          "level": 2
+        },
+        {
+          "text": "I am going upstairs.",
+          "level": 3
+        },
+        {
+          "text": "Put it on the table.",
+          "level": 3
+        },
+        {
+          "text": "Give me the phone.",
+          "level": 2
+        },
+        {
+          "text": "It is in the box.",
+          "level": 2
+        },
+        {
+          "text": "This room is messy.",
+          "level": 3
+        },
+        {
+          "text": "Clean up your toys.",
+          "level": 3
+        },
+        {
+          "text": "Bring me the bag.",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "colors_numbers",
+      "name": "Colors, Numbers & Shapes",
+      "nameCN": "颜色、数字与形状",
+      "icon": "🎨",
+      "words": {
+        "nouns": [
+          {
+            "word": "red",
+            "emoji": "🔴",
+            "color": "#e74c3c"
+          },
+          {
+            "word": "blue",
+            "emoji": "🔵",
+            "color": "#3498db"
+          },
+          {
+            "word": "green",
+            "emoji": "🟢",
+            "color": "#2ecc71"
+          },
+          {
+            "word": "yellow",
+            "emoji": "🟡",
+            "color": "#f1c40f"
+          },
+          {
+            "word": "orange",
+            "emoji": "🟠",
+            "color": "#e67e22"
+          },
+          {
+            "word": "purple",
+            "emoji": "🟣",
+            "color": "#9b59b6"
+          },
+          {
+            "word": "pink",
+            "emoji": "🩷",
+            "color": "#ff69b4"
+          },
+          {
+            "word": "white",
+            "emoji": "⚪",
+            "color": "#ecf0f1"
+          },
+          {
+            "word": "black",
+            "emoji": "⚫",
+            "color": "#2c3e50"
+          },
+          {
+            "word": "brown",
+            "emoji": "🟤",
+            "color": "#8B4513"
+          },
+          {
+            "word": "gray",
+            "emoji": "⬜",
+            "color": "#95a5a6"
+          },
+          {
+            "word": "one",
+            "emoji": "1️⃣"
+          },
+          {
+            "word": "two",
+            "emoji": "2️⃣"
+          },
+          {
+            "word": "three",
+            "emoji": "3️⃣"
+          },
+          {
+            "word": "four",
+            "emoji": "4️⃣"
+          },
+          {
+            "word": "five",
+            "emoji": "5️⃣"
+          },
+          {
+            "word": "six",
+            "emoji": "6️⃣"
+          },
+          {
+            "word": "seven",
+            "emoji": "7️⃣"
+          },
+          {
+            "word": "eight",
+            "emoji": "8️⃣"
+          },
+          {
+            "word": "nine",
+            "emoji": "9️⃣"
+          },
+          {
+            "word": "ten",
+            "emoji": "🔟"
+          },
+          {
+            "word": "circle",
+            "emoji": "⭕"
+          },
+          {
+            "word": "square",
+            "emoji": "🟧"
+          },
+          {
+            "word": "triangle",
+            "emoji": "🔺"
+          },
+          {
+            "word": "star",
+            "emoji": "⭐"
+          },
+          {
+            "word": "heart",
+            "emoji": "❤️"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "I like blue.",
+          "level": 1
+        },
+        {
+          "text": "It is red.",
+          "level": 1
+        },
+        {
+          "text": "I see three birds.",
+          "level": 2
+        },
+        {
+          "text": "Give me two cookies.",
+          "level": 2
+        },
+        {
+          "text": "How many are there?",
+          "level": 3
+        },
+        {
+          "text": "I can count to ten.",
+          "level": 3
+        },
+        {
+          "text": "One, two, three!",
+          "level": 1
+        },
+        {
+          "text": "The ball is yellow.",
+          "level": 2
+        },
+        {
+          "text": "What color is it?",
+          "level": 2
+        },
+        {
+          "text": "This is a circle.",
+          "level": 2
+        },
+        {
+          "text": "I want the pink one.",
+          "level": 2
+        },
+        {
+          "text": "My favorite color is blue.",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "manners",
+      "name": "Manners & Routines",
+      "nameCN": "礼貌与日常",
+      "icon": "🤝",
+      "words": {
+        "nouns": [
+          {
+            "word": "hello",
+            "emoji": "👋"
+          },
+          {
+            "word": "goodbye",
+            "emoji": "👋"
+          },
+          {
+            "word": "please",
+            "emoji": "🙏"
+          },
+          {
+            "word": "thank you",
+            "emoji": "🙏"
+          },
+          {
+            "word": "sorry",
+            "emoji": "😞"
+          },
+          {
+            "word": "yes",
+            "emoji": "✅"
+          },
+          {
+            "word": "no",
+            "emoji": "❌"
+          }
+        ],
+        "verbs": [
+          {
+            "word": "say",
+            "emoji": "💬"
+          },
+          {
+            "word": "ask",
+            "emoji": "❓"
+          },
+          {
+            "word": "tell",
+            "emoji": "🗣️"
+          },
+          {
+            "word": "listen",
+            "emoji": "👂"
+          },
+          {
+            "word": "wait",
+            "emoji": "⏳"
+          },
+          {
+            "word": "share",
+            "emoji": "🤝"
+          },
+          {
+            "word": "thank",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Hello!",
+          "level": 1
+        },
+        {
+          "text": "Hi!",
+          "level": 1
+        },
+        {
+          "text": "Goodbye!",
+          "level": 1
+        },
+        {
+          "text": "Bye-bye!",
+          "level": 1
+        },
+        {
+          "text": "See you later!",
+          "level": 2
+        },
+        {
+          "text": "Please.",
+          "level": 1
+        },
+        {
+          "text": "Thank you.",
+          "level": 1
+        },
+        {
+          "text": "You're welcome.",
+          "level": 2
+        },
+        {
+          "text": "Sorry.",
+          "level": 1
+        },
+        {
+          "text": "Excuse me.",
+          "level": 2
+        },
+        {
+          "text": "Yes, please.",
+          "level": 1
+        },
+        {
+          "text": "No, thank you.",
+          "level": 2
+        },
+        {
+          "text": "May I have some?",
+          "level": 3
+        },
+        {
+          "text": "Can you help me?",
+          "level": 2
+        },
+        {
+          "text": "How are you?",
+          "level": 2
+        },
+        {
+          "text": "I am fine.",
+          "level": 1
+        },
+        {
+          "text": "Nice to meet you.",
+          "level": 3
+        },
+        {
+          "text": "Have a good day.",
+          "level": 3
+        },
+        {
+          "text": "Bless you!",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "time_place",
+      "name": "Time & Place",
+      "nameCN": "时间与方位",
+      "icon": "🕐",
+      "words": {
+        "nouns": [
+          {
+            "word": "today",
+            "emoji": "📅"
+          },
+          {
+            "word": "tomorrow",
+            "emoji": "➡️"
+          },
+          {
+            "word": "yesterday",
+            "emoji": "⬅️"
+          },
+          {
+            "word": "morning",
+            "emoji": "🌅"
+          },
+          {
+            "word": "afternoon",
+            "emoji": "☀️"
+          },
+          {
+            "word": "night",
+            "emoji": "🌙"
+          },
+          {
+            "word": "day",
+            "emoji": "🌤️"
+          },
+          {
+            "word": "now",
+            "emoji": "⏰"
+          },
+          {
+            "word": "later",
+            "emoji": "⏳"
+          },
+          {
+            "word": "time",
+            "emoji": "🕐"
+          },
+          {
+            "word": "school",
+            "emoji": "🏫"
+          },
+          {
+            "word": "store",
+            "emoji": "🏪"
+          },
+          {
+            "word": "park",
+            "emoji": "🏞️"
+          },
+          {
+            "word": "zoo",
+            "emoji": "🦁"
+          },
+          {
+            "word": "hospital",
+            "emoji": "🏥"
+          },
+          {
+            "word": "outside",
+            "emoji": "🌳"
+          },
+          {
+            "word": "inside",
+            "emoji": "🏠"
+          },
+          {
+            "word": "after"
+          },
+          {
+            "word": "before"
+          },
+          {
+            "word": "tonight",
+            "emoji": "🌙"
+          }
+        ],
+        "prepositions": [
+          {
+            "word": "in",
+            "emoji": "📦"
+          },
+          {
+            "word": "on",
+            "emoji": "🔛"
+          },
+          {
+            "word": "under",
+            "emoji": "⬇️"
+          },
+          {
+            "word": "behind",
+            "emoji": "🔙"
+          },
+          {
+            "word": "next to",
+            "emoji": "↔️"
+          },
+          {
+            "word": "between",
+            "emoji": "↔️"
+          },
+          {
+            "word": "up",
+            "emoji": "⬆️"
+          },
+          {
+            "word": "down",
+            "emoji": "⬇️"
+          },
+          {
+            "word": "here",
+            "emoji": "📍"
+          },
+          {
+            "word": "there",
+            "emoji": "👉"
+          },
+          {
+            "word": "left",
+            "emoji": "⬅️"
+          },
+          {
+            "word": "right",
+            "emoji": "➡️"
+          },
+          {
+            "word": "front",
+            "emoji": "🔜"
+          },
+          {
+            "word": "back",
+            "emoji": "🔙"
+          },
+          {
+            "word": "near",
+            "emoji": "📍"
+          },
+          {
+            "word": "far",
+            "emoji": "🏔️"
+          },
+          {
+            "word": "about"
+          },
+          {
+            "word": "above"
+          },
+          {
+            "word": "around"
+          },
+          {
+            "word": "at"
+          },
+          {
+            "word": "away"
+          },
+          {
+            "word": "beside"
+          },
+          {
+            "word": "by"
+          },
+          {
+            "word": "for"
+          },
+          {
+            "word": "into"
+          },
+          {
+            "word": "of"
+          },
+          {
+            "word": "off"
+          },
+          {
+            "word": "on top of"
+          },
+          {
+            "word": "out"
+          },
+          {
+            "word": "over"
+          },
+          {
+            "word": "to"
+          },
+          {
+            "word": "with"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "Not now.",
+          "level": 1
+        },
+        {
+          "text": "Right now!",
+          "level": 1
+        },
+        {
+          "text": "Come here.",
+          "level": 1
+        },
+        {
+          "text": "Go there.",
+          "level": 1
+        },
+        {
+          "text": "Where is it?",
+          "level": 2
+        },
+        {
+          "text": "It is here.",
+          "level": 1
+        },
+        {
+          "text": "It is under the bed.",
+          "level": 3
+        },
+        {
+          "text": "It is on the table.",
+          "level": 3
+        },
+        {
+          "text": "Put it in the box.",
+          "level": 3
+        },
+        {
+          "text": "Let's go to the store.",
+          "level": 3
+        },
+        {
+          "text": "I want to go to the zoo.",
+          "level": 3
+        },
+        {
+          "text": "We went to the park.",
+          "level": 3
+        },
+        {
+          "text": "Is it time to go?",
+          "level": 3
+        },
+        {
+          "text": "Go up the stairs.",
+          "level": 2
+        },
+        {
+          "text": "Look behind you.",
+          "level": 2
+        },
+        {
+          "text": "It is too far.",
+          "level": 2
+        },
+        {
+          "text": "Stay here.",
+          "level": 1
+        },
+        {
+          "text": "Wait here.",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "name": "Grammar Words",
+      "nameCN": "语法词汇",
+      "icon": "🧩",
+      "words": {
+        "pronouns": [
+          {
+            "word": "I"
+          },
+          {
+            "word": "me"
+          },
+          {
+            "word": "my"
+          },
+          {
+            "word": "mine"
+          },
+          {
+            "word": "myself"
+          },
+          {
+            "word": "you"
+          },
+          {
+            "word": "your"
+          },
+          {
+            "word": "yourself"
+          },
+          {
+            "word": "he"
+          },
+          {
+            "word": "him"
+          },
+          {
+            "word": "his"
+          },
+          {
+            "word": "she"
+          },
+          {
+            "word": "her"
+          },
+          {
+            "word": "hers"
+          },
+          {
+            "word": "it"
+          },
+          {
+            "word": "we"
+          },
+          {
+            "word": "us"
+          },
+          {
+            "word": "our"
+          },
+          {
+            "word": "they"
+          },
+          {
+            "word": "them"
+          },
+          {
+            "word": "their"
+          },
+          {
+            "word": "this"
+          },
+          {
+            "word": "that"
+          },
+          {
+            "word": "these"
+          },
+          {
+            "word": "those"
+          }
+        ],
+        "questionWords": [
+          {
+            "word": "what",
+            "emoji": "❓"
+          },
+          {
+            "word": "where",
+            "emoji": "📍"
+          },
+          {
+            "word": "who",
+            "emoji": "👤"
+          },
+          {
+            "word": "why",
+            "emoji": "🤔"
+          },
+          {
+            "word": "how"
+          },
+          {
+            "word": "when",
+            "emoji": "🕐"
+          },
+          {
+            "word": "which"
+          }
+        ],
+        "quantifiers": [
+          {
+            "word": "a"
+          },
+          {
+            "word": "an"
+          },
+          {
+            "word": "the"
+          },
+          {
+            "word": "all"
+          },
+          {
+            "word": "some"
+          },
+          {
+            "word": "any"
+          },
+          {
+            "word": "more",
+            "emoji": "➕"
+          },
+          {
+            "word": "much"
+          },
+          {
+            "word": "none"
+          },
+          {
+            "word": "not",
+            "emoji": "❌"
+          },
+          {
+            "word": "another"
+          },
+          {
+            "word": "other"
+          },
+          {
+            "word": "every"
+          },
+          {
+            "word": "each"
+          },
+          {
+            "word": "same"
+          },
+          {
+            "word": "a lot"
+          },
+          {
+            "word": "too"
+          }
+        ],
+        "helpingVerbs": [
+          {
+            "word": "is"
+          },
+          {
+            "word": "am"
+          },
+          {
+            "word": "are"
+          },
+          {
+            "word": "was"
+          },
+          {
+            "word": "were"
+          },
+          {
+            "word": "be"
+          },
+          {
+            "word": "do"
+          },
+          {
+            "word": "does"
+          },
+          {
+            "word": "did"
+          },
+          {
+            "word": "don't"
+          },
+          {
+            "word": "can"
+          },
+          {
+            "word": "could"
+          },
+          {
+            "word": "will"
+          },
+          {
+            "word": "would"
+          },
+          {
+            "word": "want to"
+          },
+          {
+            "word": "need to"
+          },
+          {
+            "word": "have to"
+          },
+          {
+            "word": "going to"
+          },
+          {
+            "word": "got to"
+          },
+          {
+            "word": "let me"
+          },
+          {
+            "word": "try to"
+          }
+        ],
+        "connectingWords": [
+          {
+            "word": "and"
+          },
+          {
+            "word": "but"
+          },
+          {
+            "word": "or"
+          },
+          {
+            "word": "because"
+          },
+          {
+            "word": "if"
+          },
+          {
+            "word": "so"
+          },
+          {
+            "word": "then"
+          }
+        ]
+      },
+      "sentences": [
+        {
+          "text": "What is this?",
+          "level": 1
+        },
+        {
+          "text": "Where is it?",
+          "level": 1
+        },
+        {
+          "text": "Who is that?",
+          "level": 1
+        },
+        {
+          "text": "Why not?",
+          "level": 1
+        },
+        {
+          "text": "How do you do it?",
+          "level": 3
+        },
+        {
+          "text": "When is dinner?",
+          "level": 2
+        },
+        {
+          "text": "Which one do you want?",
+          "level": 3
+        },
+        {
+          "text": "I want some more.",
+          "level": 2
+        },
+        {
+          "text": "It is not mine.",
+          "level": 2
+        },
+        {
+          "text": "Give me another one.",
+          "level": 3
+        },
+        {
+          "text": "They are all gone.",
+          "level": 3
+        },
+        {
+          "text": "I can do it.",
+          "level": 2
+        },
+        {
+          "text": "I don't want to.",
+          "level": 2
+        },
+        {
+          "text": "I will do it later.",
+          "level": 3
+        },
+        {
+          "text": "I need to go potty.",
+          "level": 3
+        },
+        {
+          "text": "He is my friend.",
+          "level": 2
+        },
+        {
+          "text": "She is sleeping.",
+          "level": 2
+        },
+        {
+          "text": "We are going to the park.",
+          "level": 3
+        },
+        {
+          "text": "This is mine.",
+          "level": 1
+        },
+        {
+          "text": "That is not yours.",
+          "level": 2
+        },
+        {
+          "text": "I like it because it is pretty.",
+          "level": 3
+        },
+        {
+          "text": "I want to but I can't.",
+          "level": 3
+        },
+        {
+          "text": "If you want, you can have some.",
+          "level": 3
+        },
+        {
+          "text": "I did it!",
+          "level": 1
+        },
+        {
+          "text": "I was sleeping.",
+          "level": 2
+        },
+        {
+          "text": "Let me try.",
+          "level": 2
+        },
+        {
+          "text": "Do you have more?",
+          "level": 2
+        }
+      ]
+    }
+  ],
+  "grammar": {
+    "pronouns": [
+      "I",
+      "me",
+      "my",
+      "mine",
+      "myself",
+      "you",
+      "your",
+      "yourself",
+      "he",
+      "him",
+      "his",
+      "she",
+      "her",
+      "hers",
+      "it",
+      "we",
+      "us",
+      "our",
+      "they",
+      "them",
+      "their",
+      "this",
+      "that",
+      "these",
+      "those"
+    ],
+    "questionWords": [
+      "what",
+      "where",
+      "who",
+      "why",
+      "how",
+      "when",
+      "which"
+    ],
+    "helpingVerbs": [
+      "is",
+      "am",
+      "are",
+      "was",
+      "were",
+      "be",
+      "do",
+      "does",
+      "did",
+      "don't",
+      "can",
+      "could",
+      "will",
+      "would",
+      "want to",
+      "need to",
+      "have to",
+      "going to",
+      "got to",
+      "let me",
+      "try to"
+    ],
+    "conjunctions": [
+      "and",
+      "but",
+      "or",
+      "because",
+      "if",
+      "so",
+      "then"
+    ],
+    "commonPatterns": [
+      {
+        "pattern": "I want ___.",
+        "example": "I want milk."
+      },
+      {
+        "pattern": "I like ___.",
+        "example": "I like dogs."
+      },
+      {
+        "pattern": "I don't like ___.",
+        "example": "I don't like it."
+      },
+      {
+        "pattern": "I am ___.",
+        "example": "I am happy."
+      },
+      {
+        "pattern": "I can ___.",
+        "example": "I can run."
+      },
+      {
+        "pattern": "I see ___.",
+        "example": "I see a bird."
+      },
+      {
+        "pattern": "It is ___.",
+        "example": "It is big."
+      },
+      {
+        "pattern": "This is ___.",
+        "example": "This is my toy."
+      },
+      {
+        "pattern": "Where is ___?",
+        "example": "Where is Mama?"
+      },
+      {
+        "pattern": "What is ___?",
+        "example": "What is that?"
+      },
+      {
+        "pattern": "Can I ___?",
+        "example": "Can I have some?"
+      },
+      {
+        "pattern": "Give me ___.",
+        "example": "Give me the ball."
+      },
+      {
+        "pattern": "Let's ___.",
+        "example": "Let's play!"
+      },
+      {
+        "pattern": "Don't ___.",
+        "example": "Don't touch it."
+      },
+      {
+        "pattern": "Look at ___.",
+        "example": "Look at me!"
+      },
+      {
+        "pattern": "I have ___.",
+        "example": "I have two."
+      }
+    ]
+  }
+}

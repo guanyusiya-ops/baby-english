@@ -1,0 +1,6015 @@
+{
+  "level": "12yo",
+  "levelName": "12岁级 · 流利对话",
+  "_meta": {
+    "description": "12岁级词汇和句子，覆盖学术、抽象概念、复杂表达等进阶场景",
+    "totalScenes": 13,
+    "totalWords": 292,
+    "totalSentences": 131
+  },
+  "scenes": [
+    {
+      "id": "academic",
+      "name": "Academic Words",
+      "nameCN": "学术词汇",
+      "icon": "🎓",
+      "groups": [
+        {
+          "title": "学术动词 Academic Verbs",
+          "words": [
+            {
+              "en": "analyze",
+              "cn": "分析",
+              "phonetic": "/ˈænəlaɪz/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Analyze the data.",
+                  "cn": "分析数据。"
+                },
+                {
+                  "en": "Let's analyze this problem.",
+                  "cn": "我们来分析这个问题。"
+                }
+              ],
+              "synonyms": [
+                "examine"
+              ]
+            },
+            {
+              "en": "summarize",
+              "cn": "总结",
+              "phonetic": "/ˈsʌməraɪz/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Summarize the story.",
+                  "cn": "总结这个故事。"
+                },
+                {
+                  "en": "Can you summarize it?",
+                  "cn": "你能总结一下吗？"
+                }
+              ]
+            },
+            {
+              "en": "evaluate",
+              "cn": "评价",
+              "phonetic": "/ɪˈvæljueɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Evaluate the results.",
+                  "cn": "评估结果。"
+                },
+                {
+                  "en": "How do you evaluate this?",
+                  "cn": "你怎么评价这个？"
+                }
+              ],
+              "synonyms": [
+                "assess",
+                "judge"
+              ]
+            },
+            {
+              "en": "conclude",
+              "cn": "得出结论",
+              "phonetic": "/kənˈkluːd/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "We can conclude that...",
+                  "cn": "我们可以得出结论..."
+                },
+                {
+                  "en": "To conclude, let me say...",
+                  "cn": "最后，让我说..."
+                }
+              ]
+            },
+            {
+              "en": "interpret",
+              "cn": "解读",
+              "phonetic": "/ɪnˈtɜːrprɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "How do you interpret this?",
+                  "cn": "你怎么解读这个？"
+                },
+                {
+                  "en": "Interpret the poem.",
+                  "cn": "解读这首诗。"
+                }
+              ],
+              "synonyms": [
+                "explain"
+              ]
+            },
+            {
+              "en": "identify",
+              "cn": "辨认/确认",
+              "phonetic": "/aɪˈdentɪfaɪ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Identify the problem.",
+                  "cn": "找出问题。"
+                },
+                {
+                  "en": "Can you identify this?",
+                  "cn": "你能辨认出这个吗？"
+                }
+              ],
+              "synonyms": [
+                "recognize"
+              ]
+            },
+            {
+              "en": "predict",
+              "cn": "预测",
+              "phonetic": "/prɪˈdɪkt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Predict what will happen.",
+                  "cn": "预测会发生什么。"
+                },
+                {
+                  "en": "I predict it will rain.",
+                  "cn": "我预测会下雨。"
+                }
+              ],
+              "synonyms": [
+                "forecast"
+              ]
+            },
+            {
+              "en": "estimate",
+              "cn": "估计",
+              "phonetic": "/ˈestɪmeɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Estimate the cost.",
+                  "cn": "估算费用。"
+                },
+                {
+                  "en": "I estimate about fifty.",
+                  "cn": "我估计大约五十。"
+                }
+              ],
+              "synonyms": [
+                "guess",
+                "approximate"
+              ]
+            },
+            {
+              "en": "demonstrate",
+              "cn": "展示/证明",
+              "phonetic": "/ˈdemənstreɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Demonstrate how it works.",
+                  "cn": "演示它怎么用。"
+                },
+                {
+                  "en": "Let me demonstrate.",
+                  "cn": "让我演示一下。"
+                }
+              ],
+              "synonyms": [
+                "show"
+              ]
+            },
+            {
+              "en": "investigate",
+              "cn": "调查/研究",
+              "phonetic": "/ɪnˈvestɪɡeɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Investigate the cause.",
+                  "cn": "调查原因。"
+                },
+                {
+                  "en": "The police are investigating.",
+                  "cn": "警察在调查。"
+                }
+              ],
+              "synonyms": [
+                "examine",
+                "look into"
+              ]
+            },
+            {
+              "en": "categorize",
+              "cn": "分类",
+              "phonetic": "/ˈkætəɡəraɪz/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Categorize the items.",
+                  "cn": "给这些物品分类。"
+                },
+                {
+                  "en": "How would you categorize this?",
+                  "cn": "你怎么分类这个？"
+                }
+              ],
+              "synonyms": [
+                "classify",
+                "sort"
+              ]
+            },
+            {
+              "en": "distinguish",
+              "cn": "区分",
+              "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Distinguish fact from opinion.",
+                  "cn": "区分事实和观点。"
+                },
+                {
+                  "en": "Can you distinguish them?",
+                  "cn": "你能区分它们吗？"
+                }
+              ],
+              "synonyms": [
+                "differentiate",
+                "tell apart"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Can you analyze this data?",
+              "cn": "你能分析这些数据吗？"
+            },
+            {
+              "en": "Let me summarize the main points.",
+              "cn": "让我总结一下要点。"
+            },
+            {
+              "en": "We need to evaluate our options.",
+              "cn": "我们需要评估我们的选择。"
+            },
+            {
+              "en": "What can you conclude from this?",
+              "cn": "你能从中得出什么结论？"
+            },
+            {
+              "en": "Try to predict what happens next.",
+              "cn": "试着预测接下来会发生什么。"
+            }
+          ]
+        },
+        {
+          "title": "学术名词 Academic Nouns",
+          "words": [
+            {
+              "en": "hypothesis",
+              "cn": "假设",
+              "phonetic": "/haɪˈpɒθəsɪs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Test the hypothesis.",
+                  "cn": "检验假说。"
+                },
+                {
+                  "en": "My hypothesis is correct.",
+                  "cn": "我的假设是对的。"
+                }
+              ],
+              "synonyms": [
+                "theory",
+                "assumption"
+              ]
+            },
+            {
+              "en": "evidence",
+              "cn": "证据",
+              "phonetic": "/ˈevɪdəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Show me the evidence.",
+                  "cn": "给我看证据。"
+                },
+                {
+                  "en": "There's strong evidence.",
+                  "cn": "有有力的证据。"
+                }
+              ],
+              "synonyms": [
+                "proof"
+              ]
+            },
+            {
+              "en": "conclusion",
+              "cn": "结论",
+              "phonetic": "/kənˈkluːʒən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's your conclusion?",
+                  "cn": "你的结论是什么？"
+                },
+                {
+                  "en": "In conclusion...",
+                  "cn": "总之..."
+                }
+              ]
+            },
+            {
+              "en": "experiment",
+              "cn": "实验",
+              "phonetic": "/ɪkˈsperɪmənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Do an experiment.",
+                  "cn": "做实验。"
+                },
+                {
+                  "en": "The experiment worked!",
+                  "cn": "实验成功了！"
+                }
+              ],
+              "synonyms": [
+                "test",
+                "trial"
+              ]
+            },
+            {
+              "en": "research",
+              "cn": "研究",
+              "phonetic": "/rɪˈsɜːrtʃ/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Do some research.",
+                  "cn": "做一些研究。"
+                },
+                {
+                  "en": "Research the topic.",
+                  "cn": "研究这个话题。"
+                }
+              ],
+              "synonyms": [
+                "study"
+              ]
+            },
+            {
+              "en": "theory",
+              "cn": "理论",
+              "phonetic": "/ˈθɪri/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A scientific theory.",
+                  "cn": "一个科学理论。"
+                },
+                {
+                  "en": "In theory, it should work.",
+                  "cn": "理论上应该行。"
+                }
+              ]
+            },
+            {
+              "en": "data",
+              "cn": "数据",
+              "phonetic": "/ˈdeɪtə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Collect the data.",
+                  "cn": "收集数据。"
+                },
+                {
+                  "en": "The data shows...",
+                  "cn": "数据显示..."
+                }
+              ],
+              "synonyms": [
+                "information"
+              ]
+            },
+            {
+              "en": "source",
+              "cn": "来源",
+              "phonetic": "/sɔːrs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's the source?",
+                  "cn": "来源是什么？"
+                },
+                {
+                  "en": "A reliable source.",
+                  "cn": "一个可靠的来源。"
+                }
+              ],
+              "synonyms": [
+                "origin"
+              ]
+            },
+            {
+              "en": "reference",
+              "cn": "参考",
+              "phonetic": "/ˈrefrəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use it as a reference.",
+                  "cn": "用它作参考。"
+                },
+                {
+                  "en": "List your references.",
+                  "cn": "列出你的参考资料。"
+                }
+              ]
+            },
+            {
+              "en": "method",
+              "cn": "方法",
+              "phonetic": "/ˈmeθəd/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use a different method.",
+                  "cn": "用不同的方法。"
+                },
+                {
+                  "en": "The method is simple.",
+                  "cn": "方法很简单。"
+                }
+              ],
+              "synonyms": [
+                "approach",
+                "way"
+              ]
+            },
+            {
+              "en": "process",
+              "cn": "过程",
+              "phonetic": "/ˈprɒses/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "It's a long process.",
+                  "cn": "这是一个长过程。"
+                },
+                {
+                  "en": "Follow the process.",
+                  "cn": "按流程来。"
+                }
+              ],
+              "synonyms": [
+                "procedure"
+              ]
+            },
+            {
+              "en": "result",
+              "cn": "结果",
+              "phonetic": "/rɪˈzʌlt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's the result?",
+                  "cn": "结果是什么？"
+                },
+                {
+                  "en": "The results are good.",
+                  "cn": "结果很好。"
+                }
+              ],
+              "synonyms": [
+                "outcome"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "What's your hypothesis?",
+              "cn": "你的假设是什么？"
+            },
+            {
+              "en": "We need more evidence.",
+              "cn": "我们需要更多证据。"
+            },
+            {
+              "en": "The experiment was successful.",
+              "cn": "实验成功了。"
+            },
+            {
+              "en": "What are the results?",
+              "cn": "结果是什么？"
+            },
+            {
+              "en": "Always check your sources.",
+              "cn": "一定要核实你的来源。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science_advanced",
+      "name": "Advanced Science",
+      "nameCN": "进阶科学",
+      "icon": "🔭",
+      "groups": [
+        {
+          "title": "物理基础 Basic Physics",
+          "words": [
+            {
+              "en": "energy",
+              "cn": "能量",
+              "phonetic": "/ˈenərdʒi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Solar energy.",
+                  "cn": "太阳能。"
+                },
+                {
+                  "en": "Save energy.",
+                  "cn": "节约能源。"
+                }
+              ],
+              "synonyms": [
+                "power"
+              ]
+            },
+            {
+              "en": "force",
+              "cn": "力",
+              "phonetic": "/fɔːrs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The force of gravity.",
+                  "cn": "重力。"
+                },
+                {
+                  "en": "Use force to push it.",
+                  "cn": "用力推它。"
+                }
+              ],
+              "synonyms": [
+                "power",
+                "strength"
+              ]
+            },
+            {
+              "en": "motion",
+              "cn": "运动",
+              "phonetic": "/ˈmoʊʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "An object in motion.",
+                  "cn": "运动中的物体。"
+                },
+                {
+                  "en": "Slow motion.",
+                  "cn": "慢动作。"
+                }
+              ],
+              "synonyms": [
+                "movement"
+              ]
+            },
+            {
+              "en": "velocity",
+              "cn": "速度",
+              "phonetic": "/vəˈlɒsəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The velocity of the car.",
+                  "cn": "汽车的速度。"
+                },
+                {
+                  "en": "High velocity.",
+                  "cn": "高速。"
+                }
+              ],
+              "synonyms": [
+                "speed"
+              ],
+              "synonymDiff": "velocity有方向，speed无方向"
+            },
+            {
+              "en": "friction",
+              "cn": "摩擦力",
+              "phonetic": "/ˈfrɪkʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Friction slows things down.",
+                  "cn": "摩擦力使物体减速。"
+                },
+                {
+                  "en": "Reduce friction.",
+                  "cn": "减少摩擦。"
+                }
+              ]
+            },
+            {
+              "en": "magnet",
+              "cn": "磁铁",
+              "emoji": "🧲",
+              "phonetic": "/ˈmæɡnɪt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A magnet attracts iron.",
+                  "cn": "磁铁吸铁。"
+                },
+                {
+                  "en": "This is a strong magnet.",
+                  "cn": "这是一块强磁铁。"
+                }
+              ]
+            },
+            {
+              "en": "electricity",
+              "cn": "电",
+              "emoji": "⚡",
+              "phonetic": "/ɪˌlekˈtrɪsəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Electricity powers our homes.",
+                  "cn": "电为我们的家供能。"
+                },
+                {
+                  "en": "Save electricity.",
+                  "cn": "节约用电。"
+                }
+              ],
+              "synonyms": [
+                "power"
+              ]
+            },
+            {
+              "en": "circuit",
+              "cn": "电路",
+              "phonetic": "/ˈsɜːrkɪt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Build a circuit.",
+                  "cn": "搭建电路。"
+                },
+                {
+                  "en": "A complete circuit.",
+                  "cn": "一个完整的电路。"
+                }
+              ]
+            },
+            {
+              "en": "wave",
+              "cn": "波",
+              "phonetic": "/weɪv/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Sound travels in waves.",
+                  "cn": "声音以波的形式传播。"
+                },
+                {
+                  "en": "A light wave.",
+                  "cn": "光波。"
+                }
+              ]
+            },
+            {
+              "en": "frequency",
+              "cn": "频率",
+              "phonetic": "/ˈfriːkwənsi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "High frequency.",
+                  "cn": "高频。"
+                },
+                {
+                  "en": "The frequency of the sound.",
+                  "cn": "声音的频率。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Energy cannot be created or destroyed.",
+              "cn": "能量不能被创造或毁灭。"
+            },
+            {
+              "en": "Friction slows things down.",
+              "cn": "摩擦力使物体减速。"
+            },
+            {
+              "en": "Magnets attract metal.",
+              "cn": "磁铁吸引金属。"
+            },
+            {
+              "en": "Electricity powers our homes.",
+              "cn": "电力为我们的家供能。"
+            }
+          ]
+        },
+        {
+          "title": "化学基础 Basic Chemistry",
+          "words": [
+            {
+              "en": "atom",
+              "cn": "原子",
+              "phonetic": "/ˈætəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Everything is made of atoms.",
+                  "cn": "万物由原子组成。"
+                },
+                {
+                  "en": "An atom is tiny.",
+                  "cn": "原子很小。"
+                }
+              ]
+            },
+            {
+              "en": "molecule",
+              "cn": "分子",
+              "phonetic": "/ˈmɒlɪkjuːl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A water molecule.",
+                  "cn": "一个水分子。"
+                },
+                {
+                  "en": "Molecules are made of atoms.",
+                  "cn": "分子由原子组成。"
+                }
+              ]
+            },
+            {
+              "en": "element",
+              "cn": "元素",
+              "phonetic": "/ˈelɪmənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Oxygen is an element.",
+                  "cn": "氧是一种元素。"
+                },
+                {
+                  "en": "The periodic table of elements.",
+                  "cn": "元素周期表。"
+                }
+              ]
+            },
+            {
+              "en": "compound",
+              "cn": "化合物",
+              "phonetic": "/ˈkɒmpaʊnd/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Water is a compound.",
+                  "cn": "水是一种化合物。"
+                },
+                {
+                  "en": "A chemical compound.",
+                  "cn": "一种化学化合物。"
+                }
+              ]
+            },
+            {
+              "en": "reaction",
+              "cn": "反应",
+              "phonetic": "/riˈækʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A chemical reaction.",
+                  "cn": "一个化学反应。"
+                },
+                {
+                  "en": "What was your reaction?",
+                  "cn": "你的反应是什么？"
+                }
+              ],
+              "synonyms": [
+                "response"
+              ]
+            },
+            {
+              "en": "solution",
+              "cn": "溶液/解决方案",
+              "phonetic": "/səˈluːʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Find a solution.",
+                  "cn": "找到解决方案。"
+                },
+                {
+                  "en": "A creative solution.",
+                  "cn": "一个有创意的解决方案。"
+                }
+              ]
+            },
+            {
+              "en": "mixture",
+              "cn": "混合物",
+              "phonetic": "/ˈmɪkstʃər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A mixture of colors.",
+                  "cn": "颜色的混合。"
+                },
+                {
+                  "en": "Mix into a mixture.",
+                  "cn": "混合成混合物。"
+                }
+              ],
+              "synonyms": [
+                "blend"
+              ]
+            },
+            {
+              "en": "liquid",
+              "cn": "液体",
+              "phonetic": "/ˈlɪkwɪd/",
+              "pos": "n./adj.",
+              "examples": [
+                {
+                  "en": "Water is a liquid.",
+                  "cn": "水是液体。"
+                },
+                {
+                  "en": "Liquid state.",
+                  "cn": "液态。"
+                }
+              ]
+            },
+            {
+              "en": "solid",
+              "cn": "固体",
+              "phonetic": "/ˈsɒlɪd/",
+              "pos": "n./adj.",
+              "examples": [
+                {
+                  "en": "Ice is solid water.",
+                  "cn": "冰是固态的水。"
+                },
+                {
+                  "en": "A solid object.",
+                  "cn": "一个固体物体。"
+                }
+              ]
+            },
+            {
+              "en": "gas",
+              "cn": "气体",
+              "phonetic": "/ɡæs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Steam is a gas.",
+                  "cn": "蒸汽是气体。"
+                },
+                {
+                  "en": "Gas fills the container.",
+                  "cn": "气体充满容器。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Everything is made of atoms.",
+              "cn": "一切都是由原子组成的。"
+            },
+            {
+              "en": "Water is a compound of hydrogen and oxygen.",
+              "cn": "水是氢和氧的化合物。"
+            },
+            {
+              "en": "Ice is a solid form of water.",
+              "cn": "冰是水的固态。"
+            },
+            {
+              "en": "A chemical reaction can produce heat.",
+              "cn": "化学反应可以产生热量。"
+            }
+          ]
+        },
+        {
+          "title": "生物基础 Basic Biology",
+          "words": [
+            {
+              "en": "cell",
+              "cn": "细胞",
+              "phonetic": "/sel/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A human cell.",
+                  "cn": "一个人体细胞。"
+                },
+                {
+                  "en": "Cells are very small.",
+                  "cn": "细胞非常小。"
+                }
+              ]
+            },
+            {
+              "en": "DNA",
+              "cn": "DNA/基因",
+              "phonetic": "/ˌdiːenˈeɪ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "DNA carries genetic information.",
+                  "cn": "DNA携带遗传信息。"
+                },
+                {
+                  "en": "Test the DNA.",
+                  "cn": "检测DNA。"
+                }
+              ]
+            },
+            {
+              "en": "organism",
+              "cn": "有机体/生物",
+              "phonetic": "/ˈɔːrɡənɪzəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A living organism.",
+                  "cn": "一个活的有机体。"
+                },
+                {
+                  "en": "Every organism needs water.",
+                  "cn": "每个生物都需要水。"
+                }
+              ],
+              "synonyms": [
+                "creature",
+                "living thing"
+              ]
+            },
+            {
+              "en": "evolution",
+              "cn": "进化",
+              "phonetic": "/ˌevəˈluːʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The theory of evolution.",
+                  "cn": "进化论。"
+                },
+                {
+                  "en": "Evolution takes time.",
+                  "cn": "进化需要时间。"
+                }
+              ]
+            },
+            {
+              "en": "ecosystem",
+              "cn": "生态系统",
+              "phonetic": "/ˈiːkoʊsɪstəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A healthy ecosystem.",
+                  "cn": "一个健康的生态系统。"
+                },
+                {
+                  "en": "Protect the ecosystem.",
+                  "cn": "保护生态系统。"
+                }
+              ]
+            },
+            {
+              "en": "photosynthesis",
+              "cn": "光合作用",
+              "phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Plants use photosynthesis.",
+                  "cn": "植物利用光合作用。"
+                },
+                {
+                  "en": "Photosynthesis needs sunlight.",
+                  "cn": "光合作用需要阳光。"
+                }
+              ]
+            },
+            {
+              "en": "bacteria",
+              "cn": "细菌",
+              "phonetic": "/bækˈtɪriə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Bacteria are everywhere.",
+                  "cn": "细菌无处不在。"
+                },
+                {
+                  "en": "Some bacteria are helpful.",
+                  "cn": "有些细菌是有益的。"
+                }
+              ],
+              "synonyms": [
+                "germs"
+              ]
+            },
+            {
+              "en": "virus",
+              "cn": "病毒",
+              "phonetic": "/ˈvaɪrəs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A computer virus.",
+                  "cn": "电脑病毒。"
+                },
+                {
+                  "en": "The virus spreads fast.",
+                  "cn": "病毒传播很快。"
+                }
+              ]
+            },
+            {
+              "en": "gene",
+              "cn": "基因",
+              "phonetic": "/dʒiːn/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Genes determine traits.",
+                  "cn": "基因决定特征。"
+                },
+                {
+                  "en": "A gene for eye color.",
+                  "cn": "决定眼睛颜色的基因。"
+                }
+              ]
+            },
+            {
+              "en": "protein",
+              "cn": "蛋白质",
+              "phonetic": "/ˈproʊtiːn/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Protein builds muscle.",
+                  "cn": "蛋白质帮助长肌肉。"
+                },
+                {
+                  "en": "Eat more protein.",
+                  "cn": "多吃蛋白质。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "All living things are made of cells.",
+              "cn": "所有生物都是由细胞组成的。"
+            },
+            {
+              "en": "Plants use photosynthesis to make food.",
+              "cn": "植物用光合作用制造食物。"
+            },
+            {
+              "en": "DNA carries genetic information.",
+              "cn": "DNA携带基因信息。"
+            },
+            {
+              "en": "Bacteria can be good or bad.",
+              "cn": "细菌有好有坏。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math_advanced",
+      "name": "Advanced Math",
+      "nameCN": "进阶数学",
+      "icon": "📐",
+      "groups": [
+        {
+          "title": "运算 Operations",
+          "words": [
+            {
+              "en": "multiply",
+              "cn": "乘",
+              "phonetic": "/ˈmʌltɪplaɪ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Multiply three by four.",
+                  "cn": "三乘以四。"
+                },
+                {
+                  "en": "Learn to multiply.",
+                  "cn": "学习乘法。"
+                }
+              ]
+            },
+            {
+              "en": "divide",
+              "cn": "除",
+              "phonetic": "/dɪˈvaɪd/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Divide ten by two.",
+                  "cn": "十除以二。"
+                },
+                {
+                  "en": "Divide into groups.",
+                  "cn": "分成小组。"
+                }
+              ],
+              "synonyms": [
+                "split"
+              ]
+            },
+            {
+              "en": "fraction",
+              "cn": "分数",
+              "phonetic": "/ˈfrækʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "One half is a fraction.",
+                  "cn": "二分之一是一个分数。"
+                },
+                {
+                  "en": "Add the fractions.",
+                  "cn": "把分数相加。"
+                }
+              ]
+            },
+            {
+              "en": "decimal",
+              "cn": "小数",
+              "phonetic": "/ˈdesɪməl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "0.5 is a decimal.",
+                  "cn": "0.5是一个小数。"
+                },
+                {
+                  "en": "Round to two decimal places.",
+                  "cn": "四舍五入到两位小数。"
+                }
+              ]
+            },
+            {
+              "en": "percent",
+              "cn": "百分比",
+              "phonetic": "/pərˈsent/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Fifty percent.",
+                  "cn": "百分之五十。"
+                },
+                {
+                  "en": "What percent is that?",
+                  "cn": "那是百分之多少？"
+                }
+              ],
+              "synonyms": [
+                "percentage"
+              ]
+            },
+            {
+              "en": "equation",
+              "cn": "方程式",
+              "phonetic": "/ɪˈkweɪʒən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Solve the equation.",
+                  "cn": "解方程。"
+                },
+                {
+                  "en": "A math equation.",
+                  "cn": "一道数学等式。"
+                }
+              ]
+            },
+            {
+              "en": "formula",
+              "cn": "公式",
+              "phonetic": "/ˈfɔːrmjələ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use the formula.",
+                  "cn": "用这个公式。"
+                },
+                {
+                  "en": "The formula for area.",
+                  "cn": "面积公式。"
+                }
+              ]
+            },
+            {
+              "en": "negative",
+              "cn": "负数",
+              "phonetic": "/ˈneɡətɪv/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "A negative number.",
+                  "cn": "一个负数。"
+                },
+                {
+                  "en": "Don't be negative.",
+                  "cn": "别那么消极。"
+                }
+              ],
+              "synonyms": [
+                "minus"
+              ]
+            },
+            {
+              "en": "positive",
+              "cn": "正数",
+              "phonetic": "/ˈpɒzətɪv/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "A positive number.",
+                  "cn": "一个正数。"
+                },
+                {
+                  "en": "Stay positive!",
+                  "cn": "保持积极！"
+                }
+              ]
+            },
+            {
+              "en": "average",
+              "cn": "平均",
+              "phonetic": "/ˈævərɪdʒ/",
+              "pos": "n./adj.",
+              "examples": [
+                {
+                  "en": "What's the average?",
+                  "cn": "平均数是多少？"
+                },
+                {
+                  "en": "Above average.",
+                  "cn": "高于平均。"
+                }
+              ],
+              "synonyms": [
+                "mean"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Three multiplied by four equals twelve.",
+              "cn": "三乘以四等于十二。"
+            },
+            {
+              "en": "What's the percentage?",
+              "cn": "百分比是多少？"
+            },
+            {
+              "en": "Solve this equation.",
+              "cn": "解这个方程式。"
+            },
+            {
+              "en": "The average score is eighty-five.",
+              "cn": "平均分是八十五。"
+            }
+          ]
+        },
+        {
+          "title": "几何 Geometry",
+          "words": [
+            {
+              "en": "angle",
+              "cn": "角度",
+              "phonetic": "/ˈæŋɡl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A right angle.",
+                  "cn": "一个直角。"
+                },
+                {
+                  "en": "Measure the angle.",
+                  "cn": "量角度。"
+                }
+              ]
+            },
+            {
+              "en": "area",
+              "cn": "面积",
+              "phonetic": "/ˈeriə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Calculate the area.",
+                  "cn": "计算面积。"
+                },
+                {
+                  "en": "A large area.",
+                  "cn": "一大片区域。"
+                }
+              ]
+            },
+            {
+              "en": "volume",
+              "cn": "体积",
+              "phonetic": "/ˈvɒljuːm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Calculate the volume.",
+                  "cn": "计算体积。"
+                },
+                {
+                  "en": "Turn up the volume.",
+                  "cn": "调大音量。"
+                }
+              ]
+            },
+            {
+              "en": "perimeter",
+              "cn": "周长",
+              "phonetic": "/pəˈrɪmɪtər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Find the perimeter.",
+                  "cn": "求周长。"
+                },
+                {
+                  "en": "The perimeter of the field.",
+                  "cn": "操场的周长。"
+                }
+              ]
+            },
+            {
+              "en": "diameter",
+              "cn": "直径",
+              "phonetic": "/daɪˈæmɪtər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The diameter of the circle.",
+                  "cn": "圆的直径。"
+                },
+                {
+                  "en": "Measure the diameter.",
+                  "cn": "量直径。"
+                }
+              ]
+            },
+            {
+              "en": "radius",
+              "cn": "半径",
+              "phonetic": "/ˈreɪdiəs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The radius is half the diameter.",
+                  "cn": "半径是直径的一半。"
+                },
+                {
+                  "en": "Draw a radius.",
+                  "cn": "画一条半径。"
+                }
+              ]
+            },
+            {
+              "en": "parallel",
+              "cn": "平行的",
+              "phonetic": "/ˈpærəlel/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Parallel lines never meet.",
+                  "cn": "平行线永不相交。"
+                },
+                {
+                  "en": "Draw two parallel lines.",
+                  "cn": "画两条平行线。"
+                }
+              ]
+            },
+            {
+              "en": "perpendicular",
+              "cn": "垂直的",
+              "phonetic": "/ˌpɜːrpənˈdɪkjələr/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Perpendicular lines form right angles.",
+                  "cn": "垂直线形成直角。"
+                },
+                {
+                  "en": "These lines are perpendicular.",
+                  "cn": "这些线是垂直的。"
+                }
+              ]
+            },
+            {
+              "en": "symmetry",
+              "cn": "对称",
+              "phonetic": "/ˈsɪmətri/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "This shape has symmetry.",
+                  "cn": "这个形状有对称性。"
+                },
+                {
+                  "en": "Perfect symmetry.",
+                  "cn": "完美的对称。"
+                }
+              ]
+            },
+            {
+              "en": "rectangle",
+              "cn": "长方形",
+              "phonetic": "/ˈrektæŋɡl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Draw a rectangle.",
+                  "cn": "画一个长方形。"
+                },
+                {
+                  "en": "A rectangle has four sides.",
+                  "cn": "长方形有四条边。"
+                }
+              ]
+            },
+            {
+              "en": "cube",
+              "cn": "正方体",
+              "phonetic": "/kjuːb/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A cube has six faces.",
+                  "cn": "正方体有六个面。"
+                },
+                {
+                  "en": "An ice cube.",
+                  "cn": "一块冰块。"
+                }
+              ]
+            },
+            {
+              "en": "sphere",
+              "cn": "球体",
+              "phonetic": "/sfɪr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A ball is a sphere.",
+                  "cn": "球是球体。"
+                },
+                {
+                  "en": "The earth is a sphere.",
+                  "cn": "地球是球体。"
+                }
+              ],
+              "synonyms": [
+                "globe",
+                "ball"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Calculate the area of this rectangle.",
+              "cn": "算出这个长方形的面积。"
+            },
+            {
+              "en": "A right angle is ninety degrees.",
+              "cn": "直角是九十度。"
+            },
+            {
+              "en": "These two lines are parallel.",
+              "cn": "这两条线是平行的。"
+            },
+            {
+              "en": "What's the volume of this cube?",
+              "cn": "这个正方体的体积是多少？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "literature",
+      "name": "Literature",
+      "nameCN": "文学与阅读",
+      "icon": "📚",
+      "groups": [
+        {
+          "title": "文学术语 Literary Terms",
+          "words": [
+            {
+              "en": "metaphor",
+              "cn": "隐喻",
+              "phonetic": "/ˈmetəfɔːr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Life is a journey — that's a metaphor.",
+                  "cn": "人生是一段旅程——这是隐喻。"
+                },
+                {
+                  "en": "Use a metaphor.",
+                  "cn": "用一个隐喻。"
+                }
+              ]
+            },
+            {
+              "en": "simile",
+              "cn": "明喻",
+              "phonetic": "/ˈsɪməli/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "As brave as a lion — that's a simile.",
+                  "cn": "像狮子一样勇敢——这是明喻。"
+                },
+                {
+                  "en": "Find the simile.",
+                  "cn": "找出明喻。"
+                }
+              ]
+            },
+            {
+              "en": "theme",
+              "cn": "主题",
+              "phonetic": "/θiːm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's the theme of the story?",
+                  "cn": "这个故事的主题是什么？"
+                },
+                {
+                  "en": "The main theme.",
+                  "cn": "主要主题。"
+                }
+              ],
+              "synonyms": [
+                "topic",
+                "subject"
+              ]
+            },
+            {
+              "en": "plot",
+              "cn": "情节",
+              "phonetic": "/plɒt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The plot is exciting.",
+                  "cn": "情节很精彩。"
+                },
+                {
+                  "en": "A plot twist.",
+                  "cn": "剧情反转。"
+                }
+              ],
+              "synonyms": [
+                "storyline"
+              ]
+            },
+            {
+              "en": "conflict",
+              "cn": "冲突",
+              "phonetic": "/ˈkɒnflɪkt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The main conflict in the story.",
+                  "cn": "故事中的主要冲突。"
+                },
+                {
+                  "en": "Resolve the conflict.",
+                  "cn": "解决冲突。"
+                }
+              ],
+              "synonyms": [
+                "struggle"
+              ]
+            },
+            {
+              "en": "resolution",
+              "cn": "解决/结局",
+              "phonetic": "/ˌrezəˈluːʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The resolution of the story.",
+                  "cn": "故事的结局。"
+                },
+                {
+                  "en": "A peaceful resolution.",
+                  "cn": "和平解决。"
+                }
+              ]
+            },
+            {
+              "en": "narrator",
+              "cn": "叙述者",
+              "phonetic": "/ˈnæreɪtər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Who is the narrator?",
+                  "cn": "叙述者是谁？"
+                },
+                {
+                  "en": "A first-person narrator.",
+                  "cn": "第一人称叙述者。"
+                }
+              ],
+              "synonyms": [
+                "storyteller"
+              ]
+            },
+            {
+              "en": "genre",
+              "cn": "体裁",
+              "phonetic": "/ˈʒɒnrə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What genre is this book?",
+                  "cn": "这本书是什么类型？"
+                },
+                {
+                  "en": "My favorite genre is fantasy.",
+                  "cn": "我最喜欢的类型是奇幻。"
+                }
+              ],
+              "synonyms": [
+                "type",
+                "category"
+              ]
+            },
+            {
+              "en": "fiction",
+              "cn": "虚构/小说",
+              "phonetic": "/ˈfɪkʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "This is fiction.",
+                  "cn": "这是虚构的。"
+                },
+                {
+                  "en": "I love science fiction.",
+                  "cn": "我爱科幻小说。"
+                }
+              ]
+            },
+            {
+              "en": "nonfiction",
+              "cn": "非虚构",
+              "phonetic": "/nɒnˈfɪkʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "This book is nonfiction.",
+                  "cn": "这本书是非虚构的。"
+                },
+                {
+                  "en": "I prefer nonfiction.",
+                  "cn": "我更喜欢非虚构类。"
+                }
+              ]
+            },
+            {
+              "en": "biography",
+              "cn": "传记",
+              "phonetic": "/baɪˈɒɡrəfi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Read a biography.",
+                  "cn": "读一本传记。"
+                },
+                {
+                  "en": "A biography of Einstein.",
+                  "cn": "爱因斯坦的传记。"
+                }
+              ],
+              "synonyms": [
+                "life story"
+              ]
+            },
+            {
+              "en": "novel",
+              "cn": "小说",
+              "phonetic": "/ˈnɒvəl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Write a novel.",
+                  "cn": "写一本小说。"
+                },
+                {
+                  "en": "My favorite novel.",
+                  "cn": "我最喜欢的小说。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "What's the theme of this story?",
+              "cn": "这个故事的主题是什么？"
+            },
+            {
+              "en": "The plot has an unexpected twist.",
+              "cn": "情节有一个出乎意料的转折。"
+            },
+            {
+              "en": "A simile compares two things using 'like' or 'as'.",
+              "cn": "明喻用'像'来比较两个事物。"
+            },
+            {
+              "en": "The conflict drives the story forward.",
+              "cn": "冲突推动故事向前发展。"
+            },
+            {
+              "en": "I prefer fiction over nonfiction.",
+              "cn": "比起非虚构，我更喜欢小说。"
+            }
+          ]
+        },
+        {
+          "title": "写作技巧 Writing Skills",
+          "words": [
+            {
+              "en": "essay",
+              "cn": "论文/作文",
+              "phonetic": "/ˈeseɪ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Write an essay.",
+                  "cn": "写一篇文章。"
+                },
+                {
+                  "en": "A five-paragraph essay.",
+                  "cn": "一篇五段式文章。"
+                }
+              ],
+              "synonyms": [
+                "composition"
+              ]
+            },
+            {
+              "en": "draft",
+              "cn": "草稿",
+              "phonetic": "/dræft/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Write a first draft.",
+                  "cn": "写初稿。"
+                },
+                {
+                  "en": "Draft your essay.",
+                  "cn": "起草你的文章。"
+                }
+              ]
+            },
+            {
+              "en": "edit",
+              "cn": "编辑",
+              "phonetic": "/ˈedɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Edit your work.",
+                  "cn": "编辑你的作品。"
+                },
+                {
+                  "en": "Edit the mistakes.",
+                  "cn": "修改错误。"
+                }
+              ],
+              "synonyms": [
+                "revise"
+              ]
+            },
+            {
+              "en": "revise",
+              "cn": "修改",
+              "phonetic": "/rɪˈvaɪz/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Revise your essay.",
+                  "cn": "修改你的文章。"
+                },
+                {
+                  "en": "Revise and improve.",
+                  "cn": "修改并改进。"
+                }
+              ],
+              "synonyms": [
+                "edit",
+                "modify"
+              ]
+            },
+            {
+              "en": "proofread",
+              "cn": "校对",
+              "phonetic": "/ˈpruːfriːd/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Proofread before submitting.",
+                  "cn": "提交前校对。"
+                },
+                {
+                  "en": "I need to proofread this.",
+                  "cn": "我需要校对这个。"
+                }
+              ],
+              "synonyms": [
+                "check"
+              ]
+            },
+            {
+              "en": "outline",
+              "cn": "大纲",
+              "phonetic": "/ˈaʊtlaɪn/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Make an outline.",
+                  "cn": "列大纲。"
+                },
+                {
+                  "en": "Outline your ideas.",
+                  "cn": "概述你的想法。"
+                }
+              ]
+            },
+            {
+              "en": "thesis",
+              "cn": "论点",
+              "phonetic": "/ˈθiːsɪs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "State your thesis.",
+                  "cn": "陈述你的论点。"
+                },
+                {
+                  "en": "A strong thesis statement.",
+                  "cn": "一个有力的论点陈述。"
+                }
+              ]
+            },
+            {
+              "en": "argument",
+              "cn": "论证",
+              "phonetic": "/ˈɑːrɡjumənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Make a strong argument.",
+                  "cn": "提出有力的论据。"
+                },
+                {
+                  "en": "Support your argument.",
+                  "cn": "支持你的论点。"
+                }
+              ]
+            },
+            {
+              "en": "persuade",
+              "cn": "说服",
+              "phonetic": "/pərˈsweɪd/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Persuade me.",
+                  "cn": "说服我。"
+                },
+                {
+                  "en": "Try to persuade them.",
+                  "cn": "试着说服他们。"
+                }
+              ],
+              "synonyms": [
+                "convince"
+              ]
+            },
+            {
+              "en": "perspective",
+              "cn": "视角/观点",
+              "phonetic": "/pərˈspektɪv/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "From my perspective...",
+                  "cn": "从我的角度看..."
+                },
+                {
+                  "en": "A different perspective.",
+                  "cn": "不同的视角。"
+                }
+              ],
+              "synonyms": [
+                "viewpoint",
+                "point of view"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Write a draft first.",
+              "cn": "先写一个草稿。"
+            },
+            {
+              "en": "Make sure to proofread your essay.",
+              "cn": "确保校对你的作文。"
+            },
+            {
+              "en": "What's your thesis statement?",
+              "cn": "你的论点是什么？"
+            },
+            {
+              "en": "Try to see it from a different perspective.",
+              "cn": "试着从不同的角度去看。"
+            },
+            {
+              "en": "Your argument needs more evidence.",
+              "cn": "你的论证需要更多证据。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abstract_concepts",
+      "name": "Abstract Concepts",
+      "nameCN": "抽象概念",
+      "icon": "💡",
+      "groups": [
+        {
+          "title": "价值观 Values",
+          "words": [
+            {
+              "en": "freedom",
+              "cn": "自由",
+              "phonetic": "/ˈfriːdəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Freedom is important.",
+                  "cn": "自由很重要。"
+                },
+                {
+                  "en": "The freedom to choose.",
+                  "cn": "选择的自由。"
+                }
+              ],
+              "synonyms": [
+                "liberty"
+              ]
+            },
+            {
+              "en": "justice",
+              "cn": "公正",
+              "phonetic": "/ˈdʒʌstɪs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Fight for justice.",
+                  "cn": "为正义而战。"
+                },
+                {
+                  "en": "Justice must be served.",
+                  "cn": "正义必须得到伸张。"
+                }
+              ],
+              "synonyms": [
+                "fairness"
+              ]
+            },
+            {
+              "en": "equality",
+              "cn": "平等",
+              "phonetic": "/ɪˈkwɒləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Equality for all.",
+                  "cn": "人人平等。"
+                },
+                {
+                  "en": "Equality is a right.",
+                  "cn": "平等是一项权利。"
+                }
+              ]
+            },
+            {
+              "en": "responsibility",
+              "cn": "责任",
+              "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Take responsibility.",
+                  "cn": "承担责任。"
+                },
+                {
+                  "en": "It's your responsibility.",
+                  "cn": "这是你的责任。"
+                }
+              ],
+              "synonyms": [
+                "duty"
+              ]
+            },
+            {
+              "en": "consequence",
+              "cn": "后果",
+              "phonetic": "/ˈkɒnsɪkwəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Face the consequences.",
+                  "cn": "面对后果。"
+                },
+                {
+                  "en": "Every action has consequences.",
+                  "cn": "每个行为都有后果。"
+                }
+              ],
+              "synonyms": [
+                "result",
+                "outcome"
+              ]
+            },
+            {
+              "en": "opportunity",
+              "cn": "机会",
+              "phonetic": "/ˌɒpərˈtjuːnəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A great opportunity.",
+                  "cn": "一个好机会。"
+                },
+                {
+                  "en": "Don't miss this opportunity.",
+                  "cn": "别错过这个机会。"
+                }
+              ],
+              "synonyms": [
+                "chance"
+              ]
+            },
+            {
+              "en": "integrity",
+              "cn": "正直",
+              "phonetic": "/ɪnˈteɡrəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A person of integrity.",
+                  "cn": "一个正直的人。"
+                },
+                {
+                  "en": "Act with integrity.",
+                  "cn": "行事正直。"
+                }
+              ],
+              "synonyms": [
+                "honesty"
+              ]
+            },
+            {
+              "en": "courage",
+              "cn": "勇气",
+              "phonetic": "/ˈkɜːrɪdʒ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Have courage.",
+                  "cn": "要有勇气。"
+                },
+                {
+                  "en": "It takes courage.",
+                  "cn": "这需要勇气。"
+                }
+              ],
+              "synonyms": [
+                "bravery"
+              ]
+            },
+            {
+              "en": "wisdom",
+              "cn": "智慧",
+              "phonetic": "/ˈwɪzdəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Wisdom comes with age.",
+                  "cn": "智慧随年龄增长。"
+                },
+                {
+                  "en": "Words of wisdom.",
+                  "cn": "至理名言。"
+                }
+              ]
+            },
+            {
+              "en": "empathy",
+              "cn": "共情",
+              "phonetic": "/ˈempəθi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Show empathy.",
+                  "cn": "表示同理心。"
+                },
+                {
+                  "en": "Empathy is important.",
+                  "cn": "同理心很重要。"
+                }
+              ],
+              "synonyms": [
+                "understanding",
+                "compassion"
+              ]
+            },
+            {
+              "en": "dignity",
+              "cn": "尊严",
+              "phonetic": "/ˈdɪɡnəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Treat people with dignity.",
+                  "cn": "有尊严地对待人们。"
+                },
+                {
+                  "en": "Human dignity.",
+                  "cn": "人的尊严。"
+                }
+              ]
+            },
+            {
+              "en": "tolerance",
+              "cn": "包容",
+              "phonetic": "/ˈtɒlərəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Practice tolerance.",
+                  "cn": "实践包容。"
+                },
+                {
+                  "en": "Tolerance of differences.",
+                  "cn": "对差异的包容。"
+                }
+              ],
+              "synonyms": [
+                "acceptance"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Freedom comes with responsibility.",
+              "cn": "自由伴随着责任。"
+            },
+            {
+              "en": "Justice means treating everyone fairly.",
+              "cn": "公正意味着公平对待每个人。"
+            },
+            {
+              "en": "Every action has a consequence.",
+              "cn": "每个行为都有后果。"
+            },
+            {
+              "en": "It takes courage to stand up for what's right.",
+              "cn": "坚持正确需要勇气。"
+            },
+            {
+              "en": "Try to have empathy for others.",
+              "cn": "试着对别人有共情心。"
+            }
+          ]
+        },
+        {
+          "title": "思考与推理 Thinking & Reasoning",
+          "words": [
+            {
+              "en": "logic",
+              "cn": "逻辑",
+              "phonetic": "/ˈlɒdʒɪk/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use logic.",
+                  "cn": "运用逻辑。"
+                },
+                {
+                  "en": "That's good logic.",
+                  "cn": "那是好的逻辑。"
+                }
+              ],
+              "synonyms": [
+                "reasoning"
+              ]
+            },
+            {
+              "en": "assumption",
+              "cn": "假定",
+              "phonetic": "/əˈsʌmpʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Don't make assumptions.",
+                  "cn": "别做假设。"
+                },
+                {
+                  "en": "A wrong assumption.",
+                  "cn": "一个错误的假设。"
+                }
+              ],
+              "synonyms": [
+                "presumption"
+              ]
+            },
+            {
+              "en": "bias",
+              "cn": "偏见",
+              "phonetic": "/ˈbaɪəs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Avoid bias.",
+                  "cn": "避免偏见。"
+                },
+                {
+                  "en": "Everyone has biases.",
+                  "cn": "每个人都有偏见。"
+                }
+              ],
+              "synonyms": [
+                "prejudice"
+              ]
+            },
+            {
+              "en": "objective",
+              "cn": "客观的/目标",
+              "phonetic": "/əbˈdʒektɪv/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Be objective.",
+                  "cn": "要客观。"
+                },
+                {
+                  "en": "An objective opinion.",
+                  "cn": "客观的意见。"
+                }
+              ]
+            },
+            {
+              "en": "subjective",
+              "cn": "主观的",
+              "phonetic": "/səbˈdʒektɪv/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "That's subjective.",
+                  "cn": "那是主观的。"
+                },
+                {
+                  "en": "A subjective view.",
+                  "cn": "一个主观的看法。"
+                }
+              ]
+            },
+            {
+              "en": "critical thinking",
+              "cn": "批判性思维",
+              "phonetic": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use critical thinking.",
+                  "cn": "运用批判性思维。"
+                },
+                {
+                  "en": "Critical thinking is a skill.",
+                  "cn": "批判性思维是一种技能。"
+                }
+              ]
+            },
+            {
+              "en": "creativity",
+              "cn": "创造力",
+              "phonetic": "/ˌkriːeɪˈtɪvəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Show your creativity.",
+                  "cn": "展示你的创造力。"
+                },
+                {
+                  "en": "Creativity is important.",
+                  "cn": "创造力很重要。"
+                }
+              ],
+              "synonyms": [
+                "imagination"
+              ]
+            },
+            {
+              "en": "innovation",
+              "cn": "创新",
+              "phonetic": "/ˌɪnəˈveɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Technology and innovation.",
+                  "cn": "技术与创新。"
+                },
+                {
+                  "en": "Drive innovation.",
+                  "cn": "推动创新。"
+                }
+              ]
+            },
+            {
+              "en": "solution",
+              "cn": "解决方案",
+              "phonetic": "/səˈluːʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Find a solution.",
+                  "cn": "找到解决方案。"
+                },
+                {
+                  "en": "A creative solution.",
+                  "cn": "一个有创意的解决方案。"
+                }
+              ]
+            },
+            {
+              "en": "strategy",
+              "cn": "策略",
+              "phonetic": "/ˈstrætədʒi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's your strategy?",
+                  "cn": "你的策略是什么？"
+                },
+                {
+                  "en": "A winning strategy.",
+                  "cn": "制胜策略。"
+                }
+              ],
+              "synonyms": [
+                "plan",
+                "approach"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Use logic to solve the problem.",
+              "cn": "用逻辑来解决问题。"
+            },
+            {
+              "en": "Don't make assumptions.",
+              "cn": "不要做假定。"
+            },
+            {
+              "en": "Everyone has biases.",
+              "cn": "每个人都有偏见。"
+            },
+            {
+              "en": "Critical thinking is important.",
+              "cn": "批判性思维很重要。"
+            },
+            {
+              "en": "What's your strategy?",
+              "cn": "你的策略是什么？"
+            }
+          ]
+        },
+        {
+          "title": "社会概念 Social Concepts",
+          "words": [
+            {
+              "en": "democracy",
+              "cn": "民主",
+              "phonetic": "/dɪˈmɒkrəsi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Democracy means people vote.",
+                  "cn": "民主意味着人们投票。"
+                },
+                {
+                  "en": "A democratic country.",
+                  "cn": "一个民主国家。"
+                }
+              ]
+            },
+            {
+              "en": "government",
+              "cn": "政府",
+              "phonetic": "/ˈɡʌvərnmənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The government makes laws.",
+                  "cn": "政府制定法律。"
+                },
+                {
+                  "en": "Local government.",
+                  "cn": "地方政府。"
+                }
+              ]
+            },
+            {
+              "en": "economy",
+              "cn": "经济",
+              "phonetic": "/ɪˈkɒnəmi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The economy is growing.",
+                  "cn": "经济在增长。"
+                },
+                {
+                  "en": "A strong economy.",
+                  "cn": "强大的经济。"
+                }
+              ]
+            },
+            {
+              "en": "society",
+              "cn": "社会",
+              "phonetic": "/səˈsaɪəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Modern society.",
+                  "cn": "现代社会。"
+                },
+                {
+                  "en": "Society is changing.",
+                  "cn": "社会在变化。"
+                }
+              ]
+            },
+            {
+              "en": "citizen",
+              "cn": "公民",
+              "phonetic": "/ˈsɪtɪzən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A good citizen.",
+                  "cn": "一个好公民。"
+                },
+                {
+                  "en": "Every citizen has rights.",
+                  "cn": "每个公民都有权利。"
+                }
+              ]
+            },
+            {
+              "en": "vote",
+              "cn": "投票",
+              "phonetic": "/voʊt/",
+              "pos": "v./n.",
+              "examples": [
+                {
+                  "en": "Vote for your choice.",
+                  "cn": "投票给你的选择。"
+                },
+                {
+                  "en": "Every vote counts.",
+                  "cn": "每一票都重要。"
+                }
+              ]
+            },
+            {
+              "en": "law",
+              "cn": "法律",
+              "phonetic": "/lɔː/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Obey the law.",
+                  "cn": "遵守法律。"
+                },
+                {
+                  "en": "The law protects everyone.",
+                  "cn": "法律保护每个人。"
+                }
+              ],
+              "synonyms": [
+                "rule",
+                "regulation"
+              ]
+            },
+            {
+              "en": "rights",
+              "cn": "权利",
+              "phonetic": "/raɪts/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Human rights.",
+                  "cn": "人权。"
+                },
+                {
+                  "en": "Know your rights.",
+                  "cn": "了解你的权利。"
+                }
+              ]
+            },
+            {
+              "en": "community",
+              "cn": "社区",
+              "phonetic": "/kəˈmjuːnəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Help your community.",
+                  "cn": "帮助你的社区。"
+                },
+                {
+                  "en": "A strong community.",
+                  "cn": "一个强大的社区。"
+                }
+              ]
+            },
+            {
+              "en": "volunteer",
+              "cn": "志愿者",
+              "phonetic": "/ˌvɒlənˈtɪr/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "I volunteer at the shelter.",
+                  "cn": "我在收容所做志愿者。"
+                },
+                {
+                  "en": "Volunteer to help.",
+                  "cn": "志愿去帮忙。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "In a democracy, people can vote.",
+              "cn": "在民主社会中，人们可以投票。"
+            },
+            {
+              "en": "Everyone has rights and responsibilities.",
+              "cn": "每个人都有权利和责任。"
+            },
+            {
+              "en": "The economy affects everyone.",
+              "cn": "经济影响着每个人。"
+            },
+            {
+              "en": "Laws are made to protect people.",
+              "cn": "法律是为了保护人民而制定的。"
+            },
+            {
+              "en": "Volunteering helps the community.",
+              "cn": "做志愿者帮助社区。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emotions_advanced",
+      "name": "Advanced Emotions",
+      "nameCN": "高级情感表达",
+      "icon": "🎭",
+      "groups": [
+        {
+          "title": "复杂情感 Complex Emotions",
+          "words": [
+            {
+              "en": "anxiety",
+              "cn": "焦虑",
+              "phonetic": "/æŋˈzaɪəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I have anxiety about the test.",
+                  "cn": "我对考试感到焦虑。"
+                },
+                {
+                  "en": "Manage your anxiety.",
+                  "cn": "管理你的焦虑。"
+                }
+              ],
+              "synonyms": [
+                "worry",
+                "nervousness"
+              ]
+            },
+            {
+              "en": "resilience",
+              "cn": "韧性/复原力",
+              "phonetic": "/rɪˈzɪliəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Show resilience.",
+                  "cn": "展现韧性。"
+                },
+                {
+                  "en": "Build resilience.",
+                  "cn": "培养韧性。"
+                }
+              ]
+            },
+            {
+              "en": "compassion",
+              "cn": "同情心",
+              "phonetic": "/kəmˈpæʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Show compassion.",
+                  "cn": "表示同情心。"
+                },
+                {
+                  "en": "Have compassion for others.",
+                  "cn": "对别人有同情心。"
+                }
+              ],
+              "synonyms": [
+                "empathy",
+                "sympathy"
+              ]
+            },
+            {
+              "en": "humility",
+              "cn": "谦逊",
+              "phonetic": "/hjuːˈmɪləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Practice humility.",
+                  "cn": "保持谦虚。"
+                },
+                {
+                  "en": "Humility is a virtue.",
+                  "cn": "谦虚是美德。"
+                }
+              ],
+              "synonyms": [
+                "modesty"
+              ]
+            },
+            {
+              "en": "nostalgia",
+              "cn": "怀旧",
+              "phonetic": "/nɒˈstældʒə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I feel nostalgia.",
+                  "cn": "我感到怀旧。"
+                },
+                {
+                  "en": "Nostalgia for childhood.",
+                  "cn": "对童年的怀念。"
+                }
+              ]
+            },
+            {
+              "en": "regret",
+              "cn": "后悔",
+              "phonetic": "/rɪˈɡret/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "I have no regret.",
+                  "cn": "我不后悔。"
+                },
+                {
+                  "en": "Don't regret your choice.",
+                  "cn": "别后悔你的选择。"
+                }
+              ],
+              "synonyms": [
+                "remorse"
+              ]
+            },
+            {
+              "en": "admiration",
+              "cn": "钦佩",
+              "phonetic": "/ˌædməˈreɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I have great admiration.",
+                  "cn": "我非常钦佩。"
+                },
+                {
+                  "en": "Look with admiration.",
+                  "cn": "带着钦佩看。"
+                }
+              ],
+              "synonyms": [
+                "respect"
+              ]
+            },
+            {
+              "en": "envy",
+              "cn": "羡慕/嫉妒",
+              "phonetic": "/ˈenvi/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Don't envy others.",
+                  "cn": "别嫉妒别人。"
+                },
+                {
+                  "en": "Green with envy.",
+                  "cn": "嫉妒得发绿。"
+                }
+              ],
+              "synonyms": [
+                "jealousy"
+              ]
+            },
+            {
+              "en": "relief",
+              "cn": "如释重负",
+              "phonetic": "/rɪˈliːf/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What a relief!",
+                  "cn": "真是松了一口气！"
+                },
+                {
+                  "en": "I felt relief.",
+                  "cn": "我感到欣慰。"
+                }
+              ]
+            },
+            {
+              "en": "overwhelmed",
+              "cn": "不堪重负",
+              "phonetic": "/ˌoʊvərˈwelmd/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "I feel overwhelmed.",
+                  "cn": "我感到不堪重负。"
+                },
+                {
+                  "en": "Don't get overwhelmed.",
+                  "cn": "别被压垮。"
+                }
+              ]
+            },
+            {
+              "en": "inspired",
+              "cn": "受到启发",
+              "phonetic": "/ɪnˈspaɪərd/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "I feel inspired.",
+                  "cn": "我感到受到启发。"
+                },
+                {
+                  "en": "She inspired me.",
+                  "cn": "她启发了我。"
+                }
+              ],
+              "synonyms": [
+                "motivated"
+              ]
+            },
+            {
+              "en": "content",
+              "cn": "满足的",
+              "phonetic": "/kənˈtent/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "I feel content.",
+                  "cn": "我感到满足。"
+                },
+                {
+                  "en": "A content life.",
+                  "cn": "满足的生活。"
+                }
+              ],
+              "synonyms": [
+                "satisfied"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "I feel anxious about the exam.",
+              "cn": "我对考试感到焦虑。"
+            },
+            {
+              "en": "She showed great resilience.",
+              "cn": "她展现了极大的韧性。"
+            },
+            {
+              "en": "Have compassion for those in need.",
+              "cn": "对有需要的人怀有同情心。"
+            },
+            {
+              "en": "I have no regrets.",
+              "cn": "我没有遗憾。"
+            },
+            {
+              "en": "What a relief!",
+              "cn": "终于松了口气！"
+            },
+            {
+              "en": "I feel inspired by her story.",
+              "cn": "她的故事让我受到启发。"
+            }
+          ]
+        },
+        {
+          "title": "心理健康 Mental Health",
+          "words": [
+            {
+              "en": "stress",
+              "cn": "压力",
+              "phonetic": "/stres/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Reduce stress.",
+                  "cn": "减少压力。"
+                },
+                {
+                  "en": "I'm under stress.",
+                  "cn": "我压力很大。"
+                }
+              ],
+              "synonyms": [
+                "pressure"
+              ]
+            },
+            {
+              "en": "self-esteem",
+              "cn": "自尊",
+              "phonetic": "/ˌself ɪˈstiːm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Build self-esteem.",
+                  "cn": "建立自尊。"
+                },
+                {
+                  "en": "High self-esteem.",
+                  "cn": "高自尊。"
+                }
+              ],
+              "synonyms": [
+                "self-worth"
+              ]
+            },
+            {
+              "en": "confidence",
+              "cn": "信心",
+              "phonetic": "/ˈkɒnfɪdəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Have confidence.",
+                  "cn": "要有信心。"
+                },
+                {
+                  "en": "Build your confidence.",
+                  "cn": "建立你的信心。"
+                }
+              ]
+            },
+            {
+              "en": "mindfulness",
+              "cn": "正念",
+              "phonetic": "/ˈmaɪndfəlnəs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Practice mindfulness.",
+                  "cn": "练习正念。"
+                },
+                {
+                  "en": "Mindfulness helps focus.",
+                  "cn": "正念有助于专注。"
+                }
+              ]
+            },
+            {
+              "en": "meditation",
+              "cn": "冥想",
+              "phonetic": "/ˌmedɪˈteɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Try meditation.",
+                  "cn": "试试冥想。"
+                },
+                {
+                  "en": "Meditation is calming.",
+                  "cn": "冥想令人平静。"
+                }
+              ]
+            },
+            {
+              "en": "therapy",
+              "cn": "治疗",
+              "phonetic": "/ˈθerəpi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Go to therapy.",
+                  "cn": "去做治疗。"
+                },
+                {
+                  "en": "Art therapy is fun.",
+                  "cn": "艺术治疗很有趣。"
+                }
+              ],
+              "synonyms": [
+                "counseling"
+              ]
+            },
+            {
+              "en": "support",
+              "cn": "支持",
+              "phonetic": "/səˈpɔːrt/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "I support you.",
+                  "cn": "我支持你。"
+                },
+                {
+                  "en": "Get support.",
+                  "cn": "获得支持。"
+                }
+              ],
+              "synonyms": [
+                "help"
+              ]
+            },
+            {
+              "en": "boundary",
+              "cn": "边界/界限",
+              "phonetic": "/ˈbaʊndəri/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Set boundaries.",
+                  "cn": "设定界限。"
+                },
+                {
+                  "en": "Respect boundaries.",
+                  "cn": "尊重界限。"
+                }
+              ],
+              "synonyms": [
+                "limit"
+              ]
+            },
+            {
+              "en": "emotion",
+              "cn": "情绪",
+              "phonetic": "/ɪˈmoʊʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Express your emotions.",
+                  "cn": "表达你的情感。"
+                },
+                {
+                  "en": "Mixed emotions.",
+                  "cn": "复杂的情感。"
+                }
+              ],
+              "synonyms": [
+                "feeling"
+              ]
+            },
+            {
+              "en": "self-care",
+              "cn": "自我关怀",
+              "phonetic": "/ˌself ˈkɛr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Practice self-care.",
+                  "cn": "做好自我关爱。"
+                },
+                {
+                  "en": "Self-care is important.",
+                  "cn": "自我关爱很重要。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "It's important to manage stress.",
+              "cn": "管理压力很重要。"
+            },
+            {
+              "en": "Believe in yourself.",
+              "cn": "相信你自己。"
+            },
+            {
+              "en": "It's okay to ask for support.",
+              "cn": "寻求支持没关系。"
+            },
+            {
+              "en": "Set healthy boundaries.",
+              "cn": "设立健康的边界。"
+            },
+            {
+              "en": "Practice self-care every day.",
+              "cn": "每天练习自我关怀。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech_advanced",
+      "name": "Advanced Technology",
+      "nameCN": "科技进阶",
+      "icon": "🤖",
+      "groups": [
+        {
+          "title": "编程基础 Basic Programming",
+          "words": [
+            {
+              "en": "code",
+              "cn": "代码/编程",
+              "phonetic": "/koʊd/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Write code.",
+                  "cn": "写代码。"
+                },
+                {
+                  "en": "Learn to code.",
+                  "cn": "学习编程。"
+                }
+              ],
+              "synonyms": [
+                "program"
+              ]
+            },
+            {
+              "en": "program",
+              "cn": "程序",
+              "phonetic": "/ˈproʊɡræm/",
+              "pos": "n./v.",
+              "examples": [
+                {
+                  "en": "Write a program.",
+                  "cn": "写一个程序。"
+                },
+                {
+                  "en": "Program the computer.",
+                  "cn": "给电脑编程。"
+                }
+              ]
+            },
+            {
+              "en": "algorithm",
+              "cn": "算法",
+              "phonetic": "/ˈælɡərɪðəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Follow the algorithm.",
+                  "cn": "按照算法来。"
+                },
+                {
+                  "en": "A sorting algorithm.",
+                  "cn": "一个排序算法。"
+                }
+              ]
+            },
+            {
+              "en": "software",
+              "cn": "软件",
+              "phonetic": "/ˈsɒftwɛr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Install the software.",
+                  "cn": "安装软件。"
+                },
+                {
+                  "en": "Software development.",
+                  "cn": "软件开发。"
+                }
+              ]
+            },
+            {
+              "en": "hardware",
+              "cn": "硬件",
+              "phonetic": "/ˈhɑːrdwɛr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Computer hardware.",
+                  "cn": "电脑硬件。"
+                },
+                {
+                  "en": "Upgrade the hardware.",
+                  "cn": "升级硬件。"
+                }
+              ]
+            },
+            {
+              "en": "debug",
+              "cn": "调试",
+              "phonetic": "/ˌdiːˈbʌɡ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Debug the code.",
+                  "cn": "调试代码。"
+                },
+                {
+                  "en": "I need to debug this.",
+                  "cn": "我需要调试这个。"
+                }
+              ],
+              "synonyms": [
+                "fix"
+              ]
+            },
+            {
+              "en": "variable",
+              "cn": "变量",
+              "phonetic": "/ˈveriəbl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Define a variable.",
+                  "cn": "定义一个变量。"
+                },
+                {
+                  "en": "The variable changes.",
+                  "cn": "变量会改变。"
+                }
+              ]
+            },
+            {
+              "en": "function",
+              "cn": "函数",
+              "phonetic": "/ˈfʌŋkʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Call the function.",
+                  "cn": "调用这个函数。"
+                },
+                {
+                  "en": "Write a function.",
+                  "cn": "写一个函数。"
+                }
+              ]
+            },
+            {
+              "en": "loop",
+              "cn": "循环",
+              "phonetic": "/luːp/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A for loop.",
+                  "cn": "一个for循环。"
+                },
+                {
+                  "en": "The loop runs ten times.",
+                  "cn": "循环运行十次。"
+                }
+              ]
+            },
+            {
+              "en": "database",
+              "cn": "数据库",
+              "phonetic": "/ˈdeɪtəbeɪs/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Store data in a database.",
+                  "cn": "把数据存在数据库里。"
+                },
+                {
+                  "en": "Query the database.",
+                  "cn": "查询数据库。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "I'm learning to code.",
+              "cn": "我在学编程。"
+            },
+            {
+              "en": "An algorithm is a set of steps.",
+              "cn": "算法是一组步骤。"
+            },
+            {
+              "en": "We need to debug this program.",
+              "cn": "我们需要调试这个程序。"
+            },
+            {
+              "en": "Software runs on hardware.",
+              "cn": "软件运行在硬件上。"
+            }
+          ]
+        },
+        {
+          "title": "人工智能 Artificial Intelligence",
+          "words": [
+            {
+              "en": "artificial intelligence",
+              "cn": "人工智能",
+              "phonetic": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "AI stands for artificial intelligence.",
+                  "cn": "AI代表人工智能。"
+                },
+                {
+                  "en": "Artificial intelligence is the future.",
+                  "cn": "人工智能是未来。"
+                }
+              ],
+              "synonyms": [
+                "AI"
+              ]
+            },
+            {
+              "en": "machine learning",
+              "cn": "机器学习",
+              "phonetic": "/məˈʃiːn ˈlɜːrnɪŋ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Machine learning can predict.",
+                  "cn": "机器学习可以预测。"
+                },
+                {
+                  "en": "Study machine learning.",
+                  "cn": "学习机器学习。"
+                }
+              ],
+              "synonyms": [
+                "ML"
+              ]
+            },
+            {
+              "en": "robot",
+              "cn": "机器人",
+              "emoji": "🤖",
+              "phonetic": "/ˈroʊbɒt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Build a robot.",
+                  "cn": "造一个机器人。"
+                },
+                {
+                  "en": "Robots can help us.",
+                  "cn": "机器人可以帮助我们。"
+                }
+              ]
+            },
+            {
+              "en": "automation",
+              "cn": "自动化",
+              "phonetic": "/ˌɔːtəˈmeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Factory automation.",
+                  "cn": "工厂自动化。"
+                },
+                {
+                  "en": "Automation saves time.",
+                  "cn": "自动化节省时间。"
+                }
+              ]
+            },
+            {
+              "en": "virtual reality",
+              "cn": "虚拟现实",
+              "phonetic": "/ˌvɜːrtʃuəl riˈæləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Try virtual reality.",
+                  "cn": "试试虚拟现实。"
+                },
+                {
+                  "en": "VR is virtual reality.",
+                  "cn": "VR是虚拟现实。"
+                }
+              ],
+              "synonyms": [
+                "VR"
+              ]
+            },
+            {
+              "en": "augmented reality",
+              "cn": "增强现实",
+              "phonetic": "/ɔːɡˌmentɪd riˈæləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Augmented reality mixes real and digital.",
+                  "cn": "增强现实混合了真实和数字。"
+                },
+                {
+                  "en": "AR games are fun.",
+                  "cn": "AR游戏很有趣。"
+                }
+              ],
+              "synonyms": [
+                "AR"
+              ]
+            },
+            {
+              "en": "neural network",
+              "cn": "神经网络",
+              "phonetic": "/ˈnjʊrəl ˈnetwɜːrk/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Train a neural network.",
+                  "cn": "训练一个神经网络。"
+                },
+                {
+                  "en": "Neural networks learn from data.",
+                  "cn": "神经网络从数据中学习。"
+                }
+              ]
+            },
+            {
+              "en": "smart",
+              "cn": "智能的",
+              "phonetic": "/smɑːrt/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "A smart phone.",
+                  "cn": "一个智能手机。"
+                },
+                {
+                  "en": "Smart technology.",
+                  "cn": "智能技术。"
+                }
+              ],
+              "synonyms": [
+                "intelligent"
+              ]
+            },
+            {
+              "en": "sensor",
+              "cn": "传感器",
+              "phonetic": "/ˈsensər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The sensor detects motion.",
+                  "cn": "传感器检测运动。"
+                },
+                {
+                  "en": "Temperature sensor.",
+                  "cn": "温度传感器。"
+                }
+              ],
+              "synonyms": [
+                "detector"
+              ]
+            },
+            {
+              "en": "autonomous",
+              "cn": "自主的",
+              "phonetic": "/ɔːˈtɒnəməs/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "An autonomous car.",
+                  "cn": "一辆自动驾驶汽车。"
+                },
+                {
+                  "en": "Autonomous robots.",
+                  "cn": "自主机器人。"
+                }
+              ],
+              "synonyms": [
+                "self-driving"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "AI can help us solve complex problems.",
+              "cn": "人工智能可以帮我们解决复杂问题。"
+            },
+            {
+              "en": "Robots are becoming more common.",
+              "cn": "机器人变得越来越常见。"
+            },
+            {
+              "en": "Virtual reality is very immersive.",
+              "cn": "虚拟现实非常沉浸。"
+            },
+            {
+              "en": "Machine learning improves over time.",
+              "cn": "机器学习会随时间改进。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "debate",
+      "name": "Debate & Discussion",
+      "nameCN": "讨论与辩论",
+      "icon": "🗣️",
+      "groups": [
+        {
+          "title": "表达观点 Expressing Views",
+          "words": [
+            {
+              "en": "in my opinion",
+              "cn": "在我看来",
+              "phonetic": "/ɪn maɪ əˈpɪnjən/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "In my opinion, this is wrong.",
+                  "cn": "在我看来，这是错的。"
+                },
+                {
+                  "en": "In my opinion, we should go.",
+                  "cn": "我认为我们应该去。"
+                }
+              ],
+              "synonyms": [
+                "I think",
+                "I believe"
+              ]
+            },
+            {
+              "en": "according to",
+              "cn": "根据",
+              "phonetic": "/əˈkɔːrdɪŋ tuː/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "According to the report...",
+                  "cn": "根据报告..."
+                },
+                {
+                  "en": "According to the teacher...",
+                  "cn": "根据老师说的..."
+                }
+              ]
+            },
+            {
+              "en": "on the other hand",
+              "cn": "另一方面",
+              "phonetic": "/ɒn ðə ˈʌðər hænd/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "On the other hand, it's risky.",
+                  "cn": "另一方面，这有风险。"
+                },
+                {
+                  "en": "On the other hand, it could work.",
+                  "cn": "另一方面，它可能行。"
+                }
+              ]
+            },
+            {
+              "en": "for example",
+              "cn": "例如",
+              "phonetic": "/fɔːr ɪɡˈzæmpl/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "For example, cats are pets.",
+                  "cn": "比如，猫是宠物。"
+                },
+                {
+                  "en": "For example, think about this.",
+                  "cn": "比如，想想这个。"
+                }
+              ],
+              "synonyms": [
+                "for instance"
+              ]
+            },
+            {
+              "en": "in conclusion",
+              "cn": "总之",
+              "phonetic": "/ɪn kənˈkluːʒən/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "In conclusion, we agree.",
+                  "cn": "总之，我们同意。"
+                },
+                {
+                  "en": "In conclusion, it works.",
+                  "cn": "总之，它有效。"
+                }
+              ],
+              "synonyms": [
+                "to sum up"
+              ]
+            },
+            {
+              "en": "furthermore",
+              "cn": "此外",
+              "phonetic": "/ˌfɜːrðərˈmɔːr/",
+              "pos": "adv.",
+              "examples": [
+                {
+                  "en": "Furthermore, the data shows...",
+                  "cn": "此外，数据显示..."
+                },
+                {
+                  "en": "Furthermore, we need more time.",
+                  "cn": "此外，我们需要更多时间。"
+                }
+              ],
+              "synonyms": [
+                "moreover",
+                "additionally"
+              ]
+            },
+            {
+              "en": "nevertheless",
+              "cn": "然而",
+              "phonetic": "/ˌnevərðəˈles/",
+              "pos": "adv.",
+              "examples": [
+                {
+                  "en": "It's hard. Nevertheless, I'll try.",
+                  "cn": "很难。然而，我会试。"
+                },
+                {
+                  "en": "Nevertheless, we succeeded.",
+                  "cn": "然而，我们成功了。"
+                }
+              ],
+              "synonyms": [
+                "however",
+                "still"
+              ]
+            },
+            {
+              "en": "moreover",
+              "cn": "而且",
+              "phonetic": "/mɔːrˈoʊvər/",
+              "pos": "adv.",
+              "examples": [
+                {
+                  "en": "Moreover, it's affordable.",
+                  "cn": "而且，它很实惠。"
+                },
+                {
+                  "en": "Moreover, the results are good.",
+                  "cn": "而且，结果很好。"
+                }
+              ],
+              "synonyms": [
+                "furthermore",
+                "besides"
+              ]
+            },
+            {
+              "en": "consequently",
+              "cn": "因此",
+              "phonetic": "/ˈkɒnsɪkwəntli/",
+              "pos": "adv.",
+              "examples": [
+                {
+                  "en": "He was late. Consequently, he missed it.",
+                  "cn": "他迟到了。因此他错过了。"
+                },
+                {
+                  "en": "Consequently, we changed plans.",
+                  "cn": "因此，我们改变了计划。"
+                }
+              ],
+              "synonyms": [
+                "therefore",
+                "as a result"
+              ]
+            },
+            {
+              "en": "in addition",
+              "cn": "另外",
+              "phonetic": "/ɪn əˈdɪʃən/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "In addition, we need supplies.",
+                  "cn": "此外，我们需要物资。"
+                },
+                {
+                  "en": "In addition to studying...",
+                  "cn": "除了学习之外..."
+                }
+              ],
+              "synonyms": [
+                "also",
+                "besides"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "In my opinion, reading is important.",
+              "cn": "在我看来，阅读很重要。"
+            },
+            {
+              "en": "On the other hand, it could be wrong.",
+              "cn": "另一方面，这可能是错的。"
+            },
+            {
+              "en": "Furthermore, the data supports this.",
+              "cn": "此外，数据支持了这一点。"
+            },
+            {
+              "en": "In conclusion, we need to act now.",
+              "cn": "总之，我们需要现在行动。"
+            },
+            {
+              "en": "Nevertheless, there are risks.",
+              "cn": "然而，仍有风险。"
+            }
+          ]
+        },
+        {
+          "title": "辩论技巧 Debate Skills",
+          "words": [
+            {
+              "en": "claim",
+              "cn": "主张/断言",
+              "phonetic": "/kleɪm/",
+              "pos": "v./n.",
+              "examples": [
+                {
+                  "en": "I claim this is true.",
+                  "cn": "我声称这是真的。"
+                },
+                {
+                  "en": "Support your claim.",
+                  "cn": "支持你的主张。"
+                }
+              ],
+              "synonyms": [
+                "assert",
+                "state"
+              ]
+            },
+            {
+              "en": "counterargument",
+              "cn": "反驳",
+              "phonetic": "/ˈkaʊntərˌɑːrɡjumənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Present a counterargument.",
+                  "cn": "提出反驳意见。"
+                },
+                {
+                  "en": "A strong counterargument.",
+                  "cn": "一个有力的反驳。"
+                }
+              ],
+              "synonyms": [
+                "objection"
+              ]
+            },
+            {
+              "en": "rebuttal",
+              "cn": "反驳/辩驳",
+              "phonetic": "/rɪˈbʌtl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Give a rebuttal.",
+                  "cn": "进行反驳。"
+                },
+                {
+                  "en": "A strong rebuttal.",
+                  "cn": "有力的反驳。"
+                }
+              ],
+              "synonyms": [
+                "response",
+                "refutation"
+              ]
+            },
+            {
+              "en": "concede",
+              "cn": "承认/让步",
+              "phonetic": "/kənˈsiːd/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "I concede that point.",
+                  "cn": "我承认那一点。"
+                },
+                {
+                  "en": "He conceded the argument.",
+                  "cn": "他承认了论点。"
+                }
+              ],
+              "synonyms": [
+                "admit",
+                "acknowledge"
+              ]
+            },
+            {
+              "en": "acknowledge",
+              "cn": "承认",
+              "phonetic": "/əkˈnɒlɪdʒ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "I acknowledge my mistake.",
+                  "cn": "我承认我的错误。"
+                },
+                {
+                  "en": "Acknowledge the facts.",
+                  "cn": "承认事实。"
+                }
+              ],
+              "synonyms": [
+                "admit",
+                "recognize"
+              ]
+            },
+            {
+              "en": "clarify",
+              "cn": "澄清",
+              "phonetic": "/ˈklærɪfaɪ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Let me clarify.",
+                  "cn": "让我澄清一下。"
+                },
+                {
+                  "en": "Can you clarify?",
+                  "cn": "你能澄清一下吗？"
+                }
+              ],
+              "synonyms": [
+                "explain"
+              ]
+            },
+            {
+              "en": "elaborate",
+              "cn": "详细说明",
+              "phonetic": "/ɪˈlæbəreɪt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Can you elaborate?",
+                  "cn": "你能详细说明吗？"
+                },
+                {
+                  "en": "Let me elaborate.",
+                  "cn": "让我详细说明。"
+                }
+              ],
+              "synonyms": [
+                "expand",
+                "explain"
+              ]
+            },
+            {
+              "en": "justify",
+              "cn": "证明...合理",
+              "phonetic": "/ˈdʒʌstɪfaɪ/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Justify your answer.",
+                  "cn": "为你的答案辩护。"
+                },
+                {
+                  "en": "How do you justify this?",
+                  "cn": "你怎么为这辩护？"
+                }
+              ],
+              "synonyms": [
+                "explain",
+                "defend"
+              ]
+            },
+            {
+              "en": "contradict",
+              "cn": "反驳/矛盾",
+              "phonetic": "/ˌkɒntrəˈdɪkt/",
+              "pos": "v.",
+              "examples": [
+                {
+                  "en": "Don't contradict yourself.",
+                  "cn": "别自相矛盾。"
+                },
+                {
+                  "en": "The facts contradict your claim.",
+                  "cn": "事实与你的说法矛盾。"
+                }
+              ],
+              "synonyms": [
+                "oppose"
+              ]
+            },
+            {
+              "en": "valid",
+              "cn": "有效的/合理的",
+              "phonetic": "/ˈvælɪd/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "A valid point.",
+                  "cn": "一个有效的观点。"
+                },
+                {
+                  "en": "Is this valid?",
+                  "cn": "这有效吗？"
+                }
+              ],
+              "synonyms": [
+                "legitimate"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "That's a valid point.",
+              "cn": "这是一个有效的观点。"
+            },
+            {
+              "en": "I acknowledge your concern.",
+              "cn": "我承认你的担忧。"
+            },
+            {
+              "en": "Can you clarify what you mean?",
+              "cn": "你能澄清一下你的意思吗？"
+            },
+            {
+              "en": "Could you elaborate on that?",
+              "cn": "你能详细说说吗？"
+            },
+            {
+              "en": "I'd like to present a counterargument.",
+              "cn": "我想提出一个反驳。"
+            },
+            {
+              "en": "How can you justify that decision?",
+              "cn": "你怎么证明那个决定是合理的？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world_cultures",
+      "name": "World Cultures",
+      "nameCN": "世界文化",
+      "icon": "🌐",
+      "groups": [
+        {
+          "title": "文化概念 Cultural Concepts",
+          "words": [
+            {
+              "en": "diversity",
+              "cn": "多样性",
+              "phonetic": "/daɪˈvɜːrsəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Celebrate diversity.",
+                  "cn": "庆祝多样性。"
+                },
+                {
+                  "en": "Cultural diversity.",
+                  "cn": "文化多样性。"
+                }
+              ],
+              "synonyms": [
+                "variety"
+              ]
+            },
+            {
+              "en": "heritage",
+              "cn": "遗产",
+              "phonetic": "/ˈherɪtɪdʒ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Cultural heritage.",
+                  "cn": "文化遗产。"
+                },
+                {
+                  "en": "Protect our heritage.",
+                  "cn": "保护我们的遗产。"
+                }
+              ],
+              "synonyms": [
+                "legacy"
+              ]
+            },
+            {
+              "en": "custom",
+              "cn": "习俗",
+              "phonetic": "/ˈkʌstəm/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A local custom.",
+                  "cn": "当地习俗。"
+                },
+                {
+                  "en": "Respect their customs.",
+                  "cn": "尊重他们的习俗。"
+                }
+              ],
+              "synonyms": [
+                "tradition"
+              ]
+            },
+            {
+              "en": "ceremony",
+              "cn": "仪式",
+              "phonetic": "/ˈserəmoʊni/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A wedding ceremony.",
+                  "cn": "婚礼。"
+                },
+                {
+                  "en": "The opening ceremony.",
+                  "cn": "开幕式。"
+                }
+              ]
+            },
+            {
+              "en": "ritual",
+              "cn": "礼仪/仪式",
+              "phonetic": "/ˈrɪtʃuəl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A morning ritual.",
+                  "cn": "早晨的例行活动。"
+                },
+                {
+                  "en": "A religious ritual.",
+                  "cn": "宗教仪式。"
+                }
+              ],
+              "synonyms": [
+                "ceremony"
+              ]
+            },
+            {
+              "en": "mythology",
+              "cn": "神话",
+              "phonetic": "/mɪˈθɒlədʒi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Greek mythology.",
+                  "cn": "希腊神话。"
+                },
+                {
+                  "en": "Study mythology.",
+                  "cn": "学习神话。"
+                }
+              ]
+            },
+            {
+              "en": "legend",
+              "cn": "传说",
+              "phonetic": "/ˈledʒənd/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "An ancient legend.",
+                  "cn": "一个古老的传说。"
+                },
+                {
+                  "en": "She's a legend.",
+                  "cn": "她是一个传奇。"
+                }
+              ],
+              "synonyms": [
+                "myth"
+              ]
+            },
+            {
+              "en": "philosophy",
+              "cn": "哲学",
+              "phonetic": "/fɪˈlɒsəfi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Study philosophy.",
+                  "cn": "学习哲学。"
+                },
+                {
+                  "en": "My philosophy of life.",
+                  "cn": "我的人生哲学。"
+                }
+              ]
+            },
+            {
+              "en": "religion",
+              "cn": "宗教",
+              "phonetic": "/rɪˈlɪdʒən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Respect all religions.",
+                  "cn": "尊重所有宗教。"
+                },
+                {
+                  "en": "What's your religion?",
+                  "cn": "你的宗教信仰是什么？"
+                }
+              ],
+              "synonyms": [
+                "faith",
+                "belief"
+              ]
+            },
+            {
+              "en": "ethnic",
+              "cn": "民族的",
+              "phonetic": "/ˈeθnɪk/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Ethnic diversity.",
+                  "cn": "民族多样性。"
+                },
+                {
+                  "en": "Ethnic food.",
+                  "cn": "民族美食。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Cultural diversity makes the world interesting.",
+              "cn": "文化多样性让世界变得有趣。"
+            },
+            {
+              "en": "We should respect different customs.",
+              "cn": "我们应该尊重不同的习俗。"
+            },
+            {
+              "en": "Every culture has its own legends.",
+              "cn": "每个文化都有自己的传说。"
+            },
+            {
+              "en": "Heritage sites should be preserved.",
+              "cn": "遗产地应该被保护。"
+            }
+          ]
+        },
+        {
+          "title": "历史概念 History Concepts",
+          "words": [
+            {
+              "en": "civilization",
+              "cn": "文明",
+              "phonetic": "/ˌsɪvɪlaɪˈzeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Ancient civilization.",
+                  "cn": "古代文明。"
+                },
+                {
+                  "en": "Chinese civilization.",
+                  "cn": "中华文明。"
+                }
+              ]
+            },
+            {
+              "en": "revolution",
+              "cn": "革命",
+              "phonetic": "/ˌrevəˈluːʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The Industrial Revolution.",
+                  "cn": "工业革命。"
+                },
+                {
+                  "en": "A revolution in technology.",
+                  "cn": "技术革命。"
+                }
+              ]
+            },
+            {
+              "en": "empire",
+              "cn": "帝国",
+              "phonetic": "/ˈempaɪər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The Roman Empire.",
+                  "cn": "罗马帝国。"
+                },
+                {
+                  "en": "Build an empire.",
+                  "cn": "建立帝国。"
+                }
+              ]
+            },
+            {
+              "en": "dynasty",
+              "cn": "朝代",
+              "phonetic": "/ˈdaɪnəsti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The Tang Dynasty.",
+                  "cn": "唐朝。"
+                },
+                {
+                  "en": "A powerful dynasty.",
+                  "cn": "一个强大的王朝。"
+                }
+              ]
+            },
+            {
+              "en": "ancient",
+              "cn": "古代的",
+              "phonetic": "/ˈeɪnʃənt/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Ancient history.",
+                  "cn": "古代历史。"
+                },
+                {
+                  "en": "An ancient building.",
+                  "cn": "一座古老的建筑。"
+                }
+              ],
+              "synonyms": [
+                "old"
+              ]
+            },
+            {
+              "en": "medieval",
+              "cn": "中世纪的",
+              "phonetic": "/ˌmediˈiːvəl/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Medieval times.",
+                  "cn": "中世纪时代。"
+                },
+                {
+                  "en": "A medieval castle.",
+                  "cn": "一座中世纪城堡。"
+                }
+              ]
+            },
+            {
+              "en": "modern",
+              "cn": "现代的",
+              "phonetic": "/ˈmɒdərn/",
+              "pos": "adj.",
+              "examples": [
+                {
+                  "en": "Modern technology.",
+                  "cn": "现代技术。"
+                },
+                {
+                  "en": "The modern world.",
+                  "cn": "现代世界。"
+                }
+              ],
+              "synonyms": [
+                "contemporary"
+              ]
+            },
+            {
+              "en": "independence",
+              "cn": "独立",
+              "phonetic": "/ˌɪndɪˈpendəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Fight for independence.",
+                  "cn": "为独立而战。"
+                },
+                {
+                  "en": "Independence Day.",
+                  "cn": "独立日。"
+                }
+              ]
+            },
+            {
+              "en": "colonization",
+              "cn": "殖民",
+              "phonetic": "/ˌkɒlənɪˈzeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The history of colonization.",
+                  "cn": "殖民化的历史。"
+                },
+                {
+                  "en": "Colonization changed the world.",
+                  "cn": "殖民化改变了世界。"
+                }
+              ]
+            },
+            {
+              "en": "era",
+              "cn": "时代",
+              "phonetic": "/ˈɪrə/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A new era.",
+                  "cn": "一个新时代。"
+                },
+                {
+                  "en": "The digital era.",
+                  "cn": "数字时代。"
+                }
+              ],
+              "synonyms": [
+                "age",
+                "period"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "China has an ancient civilization.",
+              "cn": "中国有古老的文明。"
+            },
+            {
+              "en": "The Tang Dynasty was a golden era.",
+              "cn": "唐朝是一个黄金时代。"
+            },
+            {
+              "en": "Many countries fought for independence.",
+              "cn": "很多国家为独立而斗争。"
+            },
+            {
+              "en": "We live in the modern era.",
+              "cn": "我们生活在现代。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "nameCN": "沟通技巧",
+      "icon": "💬",
+      "groups": [
+        {
+          "title": "正式表达 Formal Expressions",
+          "words": [
+            {
+              "en": "would you mind",
+              "cn": "你介意吗",
+              "phonetic": "/wʊd juː maɪnd/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Would you mind helping me?",
+                  "cn": "你介意帮我吗？"
+                },
+                {
+                  "en": "Would you mind waiting?",
+                  "cn": "你介意等一下吗？"
+                }
+              ]
+            },
+            {
+              "en": "I appreciate",
+              "cn": "我感激",
+              "phonetic": "/aɪ əˈpriːʃieɪt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I appreciate your help.",
+                  "cn": "我感谢你的帮助。"
+                },
+                {
+                  "en": "I really appreciate it.",
+                  "cn": "我真的很感激。"
+                }
+              ],
+              "synonyms": [
+                "I'm grateful"
+              ]
+            },
+            {
+              "en": "I apologize",
+              "cn": "我道歉",
+              "phonetic": "/aɪ əˈpɒlədʒaɪz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I apologize for being late.",
+                  "cn": "我为迟到道歉。"
+                },
+                {
+                  "en": "I sincerely apologize.",
+                  "cn": "我真诚地道歉。"
+                }
+              ],
+              "synonyms": [
+                "I'm sorry"
+              ]
+            },
+            {
+              "en": "may I",
+              "cn": "我可以...吗",
+              "phonetic": "/meɪ aɪ/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "May I ask a question?",
+                  "cn": "我可以问个问题吗？"
+                },
+                {
+                  "en": "May I come in?",
+                  "cn": "我可以进来吗？"
+                }
+              ],
+              "synonyms": [
+                "can I"
+              ]
+            },
+            {
+              "en": "it seems that",
+              "cn": "似乎",
+              "phonetic": "/ɪt siːmz ðæt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "It seems that he's right.",
+                  "cn": "看起来他是对的。"
+                },
+                {
+                  "en": "It seems that it's raining.",
+                  "cn": "好像在下雨。"
+                }
+              ],
+              "synonyms": [
+                "it appears"
+              ]
+            },
+            {
+              "en": "I wonder if",
+              "cn": "我想知道是否",
+              "phonetic": "/aɪ ˈwʌndər ɪf/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I wonder if you can help.",
+                  "cn": "不知道你能不能帮忙。"
+                },
+                {
+                  "en": "I wonder if it's true.",
+                  "cn": "我想知道是不是真的。"
+                }
+              ]
+            },
+            {
+              "en": "regarding",
+              "cn": "关于",
+              "phonetic": "/rɪˈɡɑːrdɪŋ/",
+              "pos": "prep.",
+              "examples": [
+                {
+                  "en": "Regarding your question...",
+                  "cn": "关于你的问题..."
+                },
+                {
+                  "en": "Regarding this matter...",
+                  "cn": "关于这件事..."
+                }
+              ],
+              "synonyms": [
+                "about",
+                "concerning"
+              ]
+            },
+            {
+              "en": "as a matter of fact",
+              "cn": "事实上",
+              "phonetic": "/æz ə ˈmætər əv fækt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "As a matter of fact, I agree.",
+                  "cn": "事实上，我同意。"
+                },
+                {
+                  "en": "As a matter of fact, it's true.",
+                  "cn": "事实上，这是真的。"
+                }
+              ],
+              "synonyms": [
+                "actually",
+                "in fact"
+              ]
+            },
+            {
+              "en": "to be honest",
+              "cn": "说实话",
+              "phonetic": "/tuː biː ˈɒnɪst/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "To be honest, I don't know.",
+                  "cn": "说实话，我不知道。"
+                },
+                {
+                  "en": "To be honest, I'm worried.",
+                  "cn": "说实话，我担心。"
+                }
+              ],
+              "synonyms": [
+                "honestly",
+                "frankly"
+              ]
+            },
+            {
+              "en": "in other words",
+              "cn": "换句话说",
+              "phonetic": "/ɪn ˈʌðər wɜːrdz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "In other words, we failed.",
+                  "cn": "换句话说，我们失败了。"
+                },
+                {
+                  "en": "In other words, it's over.",
+                  "cn": "换句话说，结束了。"
+                }
+              ],
+              "synonyms": [
+                "that is to say"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Would you mind closing the door?",
+              "cn": "你介意关门吗？"
+            },
+            {
+              "en": "I appreciate your patience.",
+              "cn": "感谢你的耐心。"
+            },
+            {
+              "en": "May I ask you a question?",
+              "cn": "我可以问你一个问题吗？"
+            },
+            {
+              "en": "To be honest, I disagree.",
+              "cn": "说实话，我不同意。"
+            },
+            {
+              "en": "In other words, we need more time.",
+              "cn": "换句话说，我们需要更多时间。"
+            }
+          ]
+        },
+        {
+          "title": "日常口语进阶 Advanced Daily Phrases",
+          "words": [
+            {
+              "en": "hang on",
+              "cn": "等一下",
+              "phonetic": "/hæŋ ɒn/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Hang on a minute.",
+                  "cn": "等一下。"
+                },
+                {
+                  "en": "Hang on, I'm coming!",
+                  "cn": "等等，我来了！"
+                }
+              ],
+              "synonyms": [
+                "wait",
+                "hold on"
+              ]
+            },
+            {
+              "en": "figure out",
+              "cn": "弄明白",
+              "phonetic": "/ˈfɪɡər aʊt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I'll figure it out.",
+                  "cn": "我会想出来的。"
+                },
+                {
+                  "en": "Can you figure out the answer?",
+                  "cn": "你能想出答案吗？"
+                }
+              ],
+              "synonyms": [
+                "solve",
+                "work out"
+              ]
+            },
+            {
+              "en": "look forward to",
+              "cn": "期待",
+              "phonetic": "/lʊk ˈfɔːrwərd tuː/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I look forward to seeing you.",
+                  "cn": "我期待见到你。"
+                },
+                {
+                  "en": "I look forward to summer.",
+                  "cn": "我期待夏天。"
+                }
+              ],
+              "synonyms": [
+                "anticipate"
+              ]
+            },
+            {
+              "en": "keep up with",
+              "cn": "跟上",
+              "phonetic": "/kiːp ʌp wɪð/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Keep up with the class.",
+                  "cn": "跟上课堂进度。"
+                },
+                {
+                  "en": "I can't keep up with you.",
+                  "cn": "我跟不上你。"
+                }
+              ]
+            },
+            {
+              "en": "run out of",
+              "cn": "用完",
+              "phonetic": "/rʌn aʊt əv/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "We ran out of milk.",
+                  "cn": "我们的牛奶喝完了。"
+                },
+                {
+                  "en": "Don't run out of time.",
+                  "cn": "别没时间了。"
+                }
+              ]
+            },
+            {
+              "en": "come up with",
+              "cn": "想出",
+              "phonetic": "/kʌm ʌp wɪð/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Come up with an idea.",
+                  "cn": "想出一个主意。"
+                },
+                {
+                  "en": "I came up with a plan.",
+                  "cn": "我想出了一个计划。"
+                }
+              ],
+              "synonyms": [
+                "think of",
+                "create"
+              ]
+            },
+            {
+              "en": "give up",
+              "cn": "放弃",
+              "phonetic": "/ɡɪv ʌp/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Never give up!",
+                  "cn": "永不放弃！"
+                },
+                {
+                  "en": "Don't give up.",
+                  "cn": "别放弃。"
+                }
+              ],
+              "synonyms": [
+                "quit",
+                "surrender"
+              ]
+            },
+            {
+              "en": "turn out",
+              "cn": "结果是",
+              "phonetic": "/tɜːrn aʊt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "It turned out well.",
+                  "cn": "结果很好。"
+                },
+                {
+                  "en": "How did it turn out?",
+                  "cn": "结果怎么样？"
+                }
+              ]
+            },
+            {
+              "en": "make sense",
+              "cn": "有道理",
+              "phonetic": "/meɪk sens/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Does that make sense?",
+                  "cn": "那有道理吗？"
+                },
+                {
+                  "en": "It doesn't make sense.",
+                  "cn": "这没有道理。"
+                }
+              ]
+            },
+            {
+              "en": "take for granted",
+              "cn": "视为理所当然",
+              "phonetic": "/teɪk fɔːr ˈɡræntɪd/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Don't take it for granted.",
+                  "cn": "别把它当做理所当然。"
+                },
+                {
+                  "en": "We take water for granted.",
+                  "cn": "我们把水当做理所当然。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Hang on, let me check.",
+              "cn": "等一下，让我看看。"
+            },
+            {
+              "en": "I can't figure it out.",
+              "cn": "我搞不明白。"
+            },
+            {
+              "en": "I look forward to seeing you.",
+              "cn": "我期待见到你。"
+            },
+            {
+              "en": "Never give up!",
+              "cn": "永远别放弃！"
+            },
+            {
+              "en": "That makes sense.",
+              "cn": "这有道理。"
+            },
+            {
+              "en": "Don't take things for granted.",
+              "cn": "不要视一切为理所当然。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "name": "Idioms & Phrases",
+      "nameCN": "习语与惯用语",
+      "icon": "🧩",
+      "groups": [
+        {
+          "title": "常见习语 Common Idioms",
+          "words": [
+            {
+              "en": "break the ice",
+              "cn": "打破僵局",
+              "phonetic": "/breɪk ðə aɪs/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Tell a joke to break the ice.",
+                  "cn": "讲个笑话来打破僵局。"
+                },
+                {
+                  "en": "Let me break the ice.",
+                  "cn": "让我来打破僵局。"
+                }
+              ]
+            },
+            {
+              "en": "piece of cake",
+              "cn": "小菜一碟",
+              "phonetic": "/piːs əv keɪk/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "The test was a piece of cake.",
+                  "cn": "考试很简单。"
+                },
+                {
+                  "en": "It's a piece of cake!",
+                  "cn": "小菜一碟！"
+                }
+              ],
+              "synonyms": [
+                "easy"
+              ]
+            },
+            {
+              "en": "hit the nail on the head",
+              "cn": "一针见血",
+              "phonetic": "/hɪt ðə neɪl ɒn ðə hed/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "You hit the nail on the head!",
+                  "cn": "你说得太对了！"
+                },
+                {
+                  "en": "She hit the nail on the head.",
+                  "cn": "她说到点子上了。"
+                }
+              ],
+              "synonyms": [
+                "exactly right"
+              ]
+            },
+            {
+              "en": "once in a blue moon",
+              "cn": "难得一次",
+              "phonetic": "/wʌns ɪn ə bluː muːn/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I eat out once in a blue moon.",
+                  "cn": "我很少外出吃饭。"
+                },
+                {
+                  "en": "That happens once in a blue moon.",
+                  "cn": "那种事非常少见。"
+                }
+              ],
+              "synonyms": [
+                "rarely",
+                "seldom"
+              ]
+            },
+            {
+              "en": "raining cats and dogs",
+              "cn": "倾盆大雨",
+              "phonetic": "/ˈreɪnɪŋ kæts ænd dɒɡz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "It's raining cats and dogs!",
+                  "cn": "大雨倾盆！"
+                },
+                {
+                  "en": "Don't go out — it's raining cats and dogs.",
+                  "cn": "别出去——下暴雨了。"
+                }
+              ],
+              "synonyms": [
+                "pouring"
+              ]
+            },
+            {
+              "en": "spill the beans",
+              "cn": "泄露秘密",
+              "phonetic": "/spɪl ðə biːnz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Don't spill the beans!",
+                  "cn": "别泄密！"
+                },
+                {
+                  "en": "Who spilled the beans?",
+                  "cn": "谁泄露了秘密？"
+                }
+              ],
+              "synonyms": [
+                "reveal the secret"
+              ]
+            },
+            {
+              "en": "under the weather",
+              "cn": "身体不舒服",
+              "phonetic": "/ˈʌndər ðə ˈweðər/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I'm feeling under the weather.",
+                  "cn": "我感觉不舒服。"
+                },
+                {
+                  "en": "She's a bit under the weather.",
+                  "cn": "她有点不舒服。"
+                }
+              ],
+              "synonyms": [
+                "sick",
+                "unwell"
+              ]
+            },
+            {
+              "en": "the last straw",
+              "cn": "最后一根稻草",
+              "phonetic": "/ðə lɑːst strɔː/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "That was the last straw.",
+                  "cn": "那是最后一根稻草。"
+                },
+                {
+                  "en": "The last straw broke me.",
+                  "cn": "最后一根稻草压垮了我。"
+                }
+              ]
+            },
+            {
+              "en": "a blessing in disguise",
+              "cn": "因祸得福",
+              "phonetic": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "It was a blessing in disguise.",
+                  "cn": "塞翁失马，焉知非福。"
+                },
+                {
+                  "en": "Losing the job was a blessing in disguise.",
+                  "cn": "失业反倒是件好事。"
+                }
+              ]
+            },
+            {
+              "en": "kill two birds with one stone",
+              "cn": "一石二鸟",
+              "phonetic": "/kɪl tuː bɜːrdz wɪð wʌn stoʊn/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Let's kill two birds with one stone.",
+                  "cn": "我们一举两得吧。"
+                },
+                {
+                  "en": "We killed two birds with one stone.",
+                  "cn": "我们一举两得了。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "The test was a piece of cake!",
+              "cn": "这次考试简直小菜一碟！"
+            },
+            {
+              "en": "Let me break the ice.",
+              "cn": "让我来打破僵局。"
+            },
+            {
+              "en": "It's raining cats and dogs outside.",
+              "cn": "外面下着倾盆大雨。"
+            },
+            {
+              "en": "Don't spill the beans about the surprise.",
+              "cn": "不要泄露惊喜的秘密。"
+            },
+            {
+              "en": "I'm feeling under the weather today.",
+              "cn": "我今天感觉不太舒服。"
+            }
+          ]
+        },
+        {
+          "title": "更多惯用语 More Phrases",
+          "words": [
+            {
+              "en": "get cold feet",
+              "cn": "临阵退缩",
+              "phonetic": "/ɡet koʊld fiːt/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I got cold feet before the speech.",
+                  "cn": "演讲前我退缩了。"
+                },
+                {
+                  "en": "Don't get cold feet.",
+                  "cn": "别退缩。"
+                }
+              ],
+              "synonyms": [
+                "lose nerve"
+              ]
+            },
+            {
+              "en": "on the same page",
+              "cn": "达成共识",
+              "phonetic": "/ɒn ðə seɪm peɪdʒ/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Are we on the same page?",
+                  "cn": "我们意见一致吗？"
+                },
+                {
+                  "en": "Let's make sure we're on the same page.",
+                  "cn": "确保我们达成共识。"
+                }
+              ],
+              "synonyms": [
+                "in agreement"
+              ]
+            },
+            {
+              "en": "think outside the box",
+              "cn": "跳出固有思维",
+              "phonetic": "/θɪŋk aʊtˈsaɪd ðə bɒks/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Think outside the box.",
+                  "cn": "跳出框架思考。"
+                },
+                {
+                  "en": "We need to think outside the box.",
+                  "cn": "我们需要创新思维。"
+                }
+              ]
+            },
+            {
+              "en": "let the cat out of the bag",
+              "cn": "无意中说漏嘴",
+              "phonetic": "/let ðə kæt aʊt əv ðə bæɡ/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "She let the cat out of the bag.",
+                  "cn": "她泄露了秘密。"
+                },
+                {
+                  "en": "Don't let the cat out of the bag!",
+                  "cn": "别泄露秘密！"
+                }
+              ],
+              "synonyms": [
+                "reveal a secret"
+              ]
+            },
+            {
+              "en": "bite off more than you can chew",
+              "cn": "自不量力",
+              "phonetic": "/baɪt ɒf mɔːr ðæn juː kæn tʃuː/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Don't bite off more than you can chew.",
+                  "cn": "别贪多嚼不烂。"
+                },
+                {
+                  "en": "I bit off more than I could chew.",
+                  "cn": "我揽了太多事。"
+                }
+              ]
+            },
+            {
+              "en": "burn the midnight oil",
+              "cn": "挑灯夜战",
+              "phonetic": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "I burned the midnight oil studying.",
+                  "cn": "我熬夜学习了。"
+                },
+                {
+                  "en": "Time to burn the midnight oil.",
+                  "cn": "是时候熬夜了。"
+                }
+              ],
+              "synonyms": [
+                "stay up late"
+              ]
+            },
+            {
+              "en": "cost an arm and a leg",
+              "cn": "非常贵",
+              "phonetic": "/kɒst ən ɑːrm ænd ə leɡ/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "That car costs an arm and a leg.",
+                  "cn": "那辆车贵得要命。"
+                },
+                {
+                  "en": "It cost an arm and a leg.",
+                  "cn": "贵得离谱。"
+                }
+              ],
+              "synonyms": [
+                "very expensive"
+              ]
+            },
+            {
+              "en": "go the extra mile",
+              "cn": "加倍努力",
+              "phonetic": "/ɡoʊ ðə ˈekstrə maɪl/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "She always goes the extra mile.",
+                  "cn": "她总是格外努力。"
+                },
+                {
+                  "en": "Go the extra mile to help.",
+                  "cn": "多付出一些去帮忙。"
+                }
+              ]
+            },
+            {
+              "en": "read between the lines",
+              "cn": "读出言外之意",
+              "phonetic": "/riːd bɪˈtwiːn ðə laɪnz/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "Read between the lines.",
+                  "cn": "读出字里行间的含义。"
+                },
+                {
+                  "en": "You have to read between the lines.",
+                  "cn": "你得读出言外之意。"
+                }
+              ]
+            },
+            {
+              "en": "the tip of the iceberg",
+              "cn": "冰山一角",
+              "phonetic": "/ðə tɪp əv ðə ˈaɪsbɜːrɡ/",
+              "pos": "phrase",
+              "examples": [
+                {
+                  "en": "That's just the tip of the iceberg.",
+                  "cn": "那只是冰山一角。"
+                },
+                {
+                  "en": "We've only seen the tip of the iceberg.",
+                  "cn": "我们只看到了冰山一角。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "We need to think outside the box.",
+              "cn": "我们需要跳出固有思维。"
+            },
+            {
+              "en": "Are we on the same page?",
+              "cn": "我们达成共识了吗？"
+            },
+            {
+              "en": "She always goes the extra mile.",
+              "cn": "她总是加倍努力。"
+            },
+            {
+              "en": "That's just the tip of the iceberg.",
+              "cn": "这只是冰山一角。"
+            },
+            {
+              "en": "Don't bite off more than you can chew.",
+              "cn": "不要自不量力。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "careers",
+      "name": "Careers & Future",
+      "nameCN": "职业与未来",
+      "icon": "🚀",
+      "groups": [
+        {
+          "title": "职业规划 Career Planning",
+          "words": [
+            {
+              "en": "career",
+              "cn": "职业生涯",
+              "phonetic": "/kəˈrɪr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Plan your career.",
+                  "cn": "规划你的职业。"
+                },
+                {
+                  "en": "A career in science.",
+                  "cn": "科学领域的职业。"
+                }
+              ],
+              "synonyms": [
+                "profession",
+                "occupation"
+              ]
+            },
+            {
+              "en": "profession",
+              "cn": "职业",
+              "phonetic": "/prəˈfeʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What's your profession?",
+                  "cn": "你的职业是什么？"
+                },
+                {
+                  "en": "The medical profession.",
+                  "cn": "医疗行业。"
+                }
+              ],
+              "synonyms": [
+                "career",
+                "occupation"
+              ]
+            },
+            {
+              "en": "skill",
+              "cn": "技能",
+              "phonetic": "/skɪl/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Learn new skills.",
+                  "cn": "学习新技能。"
+                },
+                {
+                  "en": "A useful skill.",
+                  "cn": "一个有用的技能。"
+                }
+              ],
+              "synonyms": [
+                "ability"
+              ]
+            },
+            {
+              "en": "experience",
+              "cn": "经验",
+              "phonetic": "/ɪkˈspɪriəns/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Gain experience.",
+                  "cn": "积累经验。"
+                },
+                {
+                  "en": "Work experience.",
+                  "cn": "工作经验。"
+                }
+              ]
+            },
+            {
+              "en": "qualification",
+              "cn": "资质",
+              "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "What qualifications do you have?",
+                  "cn": "你有什么资格证？"
+                },
+                {
+                  "en": "A teaching qualification.",
+                  "cn": "教学资格。"
+                }
+              ]
+            },
+            {
+              "en": "internship",
+              "cn": "实习",
+              "phonetic": "/ˈɪntɜːrnʃɪp/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Apply for an internship.",
+                  "cn": "申请实习。"
+                },
+                {
+                  "en": "A summer internship.",
+                  "cn": "暑期实习。"
+                }
+              ]
+            },
+            {
+              "en": "resume",
+              "cn": "简历",
+              "phonetic": "/ˈrezjuːmeɪ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Update your resume.",
+                  "cn": "更新你的简历。"
+                },
+                {
+                  "en": "Send your resume.",
+                  "cn": "发送你的简历。"
+                }
+              ],
+              "synonyms": [
+                "CV"
+              ]
+            },
+            {
+              "en": "interview",
+              "cn": "面试",
+              "phonetic": "/ˈɪntərvjuː/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A job interview.",
+                  "cn": "一场工作面试。"
+                },
+                {
+                  "en": "Prepare for the interview.",
+                  "cn": "为面试做准备。"
+                }
+              ]
+            },
+            {
+              "en": "salary",
+              "cn": "薪水",
+              "phonetic": "/ˈsæləri/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A good salary.",
+                  "cn": "一份好薪水。"
+                },
+                {
+                  "en": "Negotiate the salary.",
+                  "cn": "商议薪水。"
+                }
+              ],
+              "synonyms": [
+                "pay",
+                "wage"
+              ]
+            },
+            {
+              "en": "promotion",
+              "cn": "晋升",
+              "phonetic": "/prəˈmoʊʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I got a promotion!",
+                  "cn": "我升职了！"
+                },
+                {
+                  "en": "Work for a promotion.",
+                  "cn": "为升职努力。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "What career interests you?",
+              "cn": "你对什么职业感兴趣？"
+            },
+            {
+              "en": "Skills are important for your career.",
+              "cn": "技能对你的职业很重要。"
+            },
+            {
+              "en": "Practice makes you gain experience.",
+              "cn": "练习让你获得经验。"
+            },
+            {
+              "en": "Prepare well for the interview.",
+              "cn": "好好准备面试。"
+            }
+          ]
+        },
+        {
+          "title": "更多职业 More Professions",
+          "words": [
+            {
+              "en": "architect",
+              "cn": "建筑师",
+              "phonetic": "/ˈɑːrkɪtekt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I want to be an architect.",
+                  "cn": "我想当建筑师。"
+                },
+                {
+                  "en": "The architect designed it.",
+                  "cn": "建筑师设计了它。"
+                }
+              ]
+            },
+            {
+              "en": "journalist",
+              "cn": "记者",
+              "phonetic": "/ˈdʒɜːrnəlɪst/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A journalist writes news.",
+                  "cn": "记者写新闻。"
+                },
+                {
+                  "en": "I want to be a journalist.",
+                  "cn": "我想当记者。"
+                }
+              ],
+              "synonyms": [
+                "reporter"
+              ]
+            },
+            {
+              "en": "psychologist",
+              "cn": "心理学家",
+              "phonetic": "/saɪˈkɒlədʒɪst/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "See a psychologist.",
+                  "cn": "看心理医生。"
+                },
+                {
+                  "en": "She's a psychologist.",
+                  "cn": "她是心理学家。"
+                }
+              ]
+            },
+            {
+              "en": "programmer",
+              "cn": "程序员",
+              "phonetic": "/ˈproʊɡræmər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A computer programmer.",
+                  "cn": "一个程序员。"
+                },
+                {
+                  "en": "I'm a programmer.",
+                  "cn": "我是程序员。"
+                }
+              ],
+              "synonyms": [
+                "developer",
+                "coder"
+              ]
+            },
+            {
+              "en": "translator",
+              "cn": "翻译",
+              "phonetic": "/trænzˈleɪtər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "She works as a translator.",
+                  "cn": "她当翻译。"
+                },
+                {
+                  "en": "I need a translator.",
+                  "cn": "我需要翻译。"
+                }
+              ],
+              "synonyms": [
+                "interpreter"
+              ],
+              "synonymDiff": "translator笔译，interpreter口译"
+            },
+            {
+              "en": "entrepreneur",
+              "cn": "企业家",
+              "phonetic": "/ˌɒntrəprəˈnɜːr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A successful entrepreneur.",
+                  "cn": "一个成功的企业家。"
+                },
+                {
+                  "en": "She's an entrepreneur.",
+                  "cn": "她是企业家。"
+                }
+              ],
+              "synonyms": [
+                "business owner"
+              ]
+            },
+            {
+              "en": "researcher",
+              "cn": "研究员",
+              "phonetic": "/rɪˈsɜːrtʃər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A medical researcher.",
+                  "cn": "一个医学研究员。"
+                },
+                {
+                  "en": "She's a researcher.",
+                  "cn": "她是研究员。"
+                }
+              ],
+              "synonyms": [
+                "scientist"
+              ]
+            },
+            {
+              "en": "accountant",
+              "cn": "会计",
+              "phonetic": "/əˈkaʊntənt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Hire an accountant.",
+                  "cn": "请一个会计。"
+                },
+                {
+                  "en": "She's an accountant.",
+                  "cn": "她是会计。"
+                }
+              ]
+            },
+            {
+              "en": "lawyer",
+              "cn": "律师",
+              "phonetic": "/ˈlɔːjər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "I need a lawyer.",
+                  "cn": "我需要律师。"
+                },
+                {
+                  "en": "She's a lawyer.",
+                  "cn": "她是律师。"
+                }
+              ],
+              "synonyms": [
+                "attorney"
+              ]
+            },
+            {
+              "en": "surgeon",
+              "cn": "外科医生",
+              "phonetic": "/ˈsɜːrdʒən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "A skilled surgeon.",
+                  "cn": "一个技术精湛的外科医生。"
+                },
+                {
+                  "en": "The surgeon saved his life.",
+                  "cn": "外科医生救了他的命。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "She wants to be a journalist.",
+              "cn": "她想当记者。"
+            },
+            {
+              "en": "Programmers write code.",
+              "cn": "程序员写代码。"
+            },
+            {
+              "en": "An entrepreneur starts a business.",
+              "cn": "企业家创办企业。"
+            },
+            {
+              "en": "The lawyer defended his client.",
+              "cn": "律师为他的委托人辩护。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "global_issues",
+      "name": "Global Issues",
+      "nameCN": "全球议题",
+      "icon": "🌏",
+      "groups": [
+        {
+          "title": "环境问题 Environmental Issues",
+          "words": [
+            {
+              "en": "global warming",
+              "cn": "全球变暖",
+              "phonetic": "/ˈɡloʊbəl ˈwɔːrmɪŋ/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Fight global warming.",
+                  "cn": "对抗全球变暖。"
+                },
+                {
+                  "en": "Global warming is real.",
+                  "cn": "全球变暖是真实的。"
+                }
+              ],
+              "synonyms": [
+                "climate change"
+              ]
+            },
+            {
+              "en": "carbon footprint",
+              "cn": "碳足迹",
+              "phonetic": "/ˈkɑːrbən ˈfʊtprɪnt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Reduce your carbon footprint.",
+                  "cn": "减少你的碳足迹。"
+                },
+                {
+                  "en": "A large carbon footprint.",
+                  "cn": "大的碳足迹。"
+                }
+              ]
+            },
+            {
+              "en": "renewable energy",
+              "cn": "可再生能源",
+              "phonetic": "/rɪˈnjuːəbl ˈenərdʒi/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Use renewable energy.",
+                  "cn": "使用可再生能源。"
+                },
+                {
+                  "en": "Wind is renewable energy.",
+                  "cn": "风能是可再生能源。"
+                }
+              ]
+            },
+            {
+              "en": "deforestation",
+              "cn": "森林砍伐",
+              "phonetic": "/diːˌfɒrɪˈsteɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Stop deforestation.",
+                  "cn": "停止砍伐森林。"
+                },
+                {
+                  "en": "Deforestation harms animals.",
+                  "cn": "砍伐森林伤害动物。"
+                }
+              ]
+            },
+            {
+              "en": "conservation",
+              "cn": "保护",
+              "phonetic": "/ˌkɒnsərˈveɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Wildlife conservation.",
+                  "cn": "野生动物保护。"
+                },
+                {
+                  "en": "Water conservation.",
+                  "cn": "节约用水。"
+                }
+              ],
+              "synonyms": [
+                "preservation"
+              ]
+            },
+            {
+              "en": "sustainability",
+              "cn": "可持续性",
+              "phonetic": "/səˌsteɪnəˈbɪləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Practice sustainability.",
+                  "cn": "实践可持续发展。"
+                },
+                {
+                  "en": "Sustainability is key.",
+                  "cn": "可持续性是关键。"
+                }
+              ]
+            },
+            {
+              "en": "biodiversity",
+              "cn": "生物多样性",
+              "phonetic": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Protect biodiversity.",
+                  "cn": "保护生物多样性。"
+                },
+                {
+                  "en": "Biodiversity is declining.",
+                  "cn": "生物多样性在下降。"
+                }
+              ]
+            },
+            {
+              "en": "greenhouse effect",
+              "cn": "温室效应",
+              "phonetic": "/ˈɡriːnhaʊs ɪˈfekt/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "The greenhouse effect warms Earth.",
+                  "cn": "温室效应使地球变暖。"
+                },
+                {
+                  "en": "Learn about the greenhouse effect.",
+                  "cn": "了解温室效应。"
+                }
+              ]
+            },
+            {
+              "en": "ozone layer",
+              "cn": "臭氧层",
+              "phonetic": "/ˈoʊzoʊn ˈleɪər/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Protect the ozone layer.",
+                  "cn": "保护臭氧层。"
+                },
+                {
+                  "en": "The ozone layer shields us.",
+                  "cn": "臭氧层保护我们。"
+                }
+              ]
+            },
+            {
+              "en": "carbon dioxide",
+              "cn": "二氧化碳",
+              "phonetic": "/ˈkɑːrbən daɪˈɒksaɪd/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Trees absorb carbon dioxide.",
+                  "cn": "树吸收二氧化碳。"
+                },
+                {
+                  "en": "Reduce carbon dioxide.",
+                  "cn": "减少二氧化碳。"
+                }
+              ],
+              "synonyms": [
+                "CO2"
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Global warming is a serious problem.",
+              "cn": "全球变暖是一个严重的问题。"
+            },
+            {
+              "en": "We should reduce our carbon footprint.",
+              "cn": "我们应该减少碳足迹。"
+            },
+            {
+              "en": "Renewable energy is the future.",
+              "cn": "可再生能源是未来。"
+            },
+            {
+              "en": "Deforestation harms the environment.",
+              "cn": "森林砍伐破坏环境。"
+            },
+            {
+              "en": "Sustainability matters for future generations.",
+              "cn": "可持续性对后代很重要。"
+            }
+          ]
+        },
+        {
+          "title": "社会问题 Social Issues",
+          "words": [
+            {
+              "en": "poverty",
+              "cn": "贫困",
+              "phonetic": "/ˈpɒvərti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "End poverty.",
+                  "cn": "消除贫困。"
+                },
+                {
+                  "en": "Poverty is a global issue.",
+                  "cn": "贫困是全球问题。"
+                }
+              ]
+            },
+            {
+              "en": "inequality",
+              "cn": "不平等",
+              "phonetic": "/ˌɪnɪˈkwɒləti/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Fight inequality.",
+                  "cn": "对抗不平等。"
+                },
+                {
+                  "en": "Social inequality.",
+                  "cn": "社会不平等。"
+                }
+              ]
+            },
+            {
+              "en": "discrimination",
+              "cn": "歧视",
+              "phonetic": "/dɪˌskrɪmɪˈneɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "No discrimination.",
+                  "cn": "不歧视。"
+                },
+                {
+                  "en": "Fight discrimination.",
+                  "cn": "反对歧视。"
+                }
+              ],
+              "synonyms": [
+                "prejudice",
+                "bias"
+              ]
+            },
+            {
+              "en": "education",
+              "cn": "教育",
+              "phonetic": "/ˌedʒuˈkeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Education is important.",
+                  "cn": "教育很重要。"
+                },
+                {
+                  "en": "Free education for all.",
+                  "cn": "全民免费教育。"
+                }
+              ]
+            },
+            {
+              "en": "healthcare",
+              "cn": "医疗",
+              "phonetic": "/ˈhelθkɛr/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Access to healthcare.",
+                  "cn": "获得医疗服务。"
+                },
+                {
+                  "en": "Healthcare for all.",
+                  "cn": "全民医疗。"
+                }
+              ],
+              "synonyms": [
+                "medical care"
+              ]
+            },
+            {
+              "en": "human rights",
+              "cn": "人权",
+              "phonetic": "/ˈhjuːmən raɪts/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Protect human rights.",
+                  "cn": "保护人权。"
+                },
+                {
+                  "en": "Human rights are universal.",
+                  "cn": "人权是普世的。"
+                }
+              ]
+            },
+            {
+              "en": "migration",
+              "cn": "移民",
+              "phonetic": "/maɪˈɡreɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Global migration.",
+                  "cn": "全球人口迁移。"
+                },
+                {
+                  "en": "Migration patterns.",
+                  "cn": "迁移模式。"
+                }
+              ],
+              "synonyms": [
+                "immigration"
+              ]
+            },
+            {
+              "en": "globalization",
+              "cn": "全球化",
+              "phonetic": "/ˌɡloʊbəlaɪˈzeɪʃən/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Globalization connects us.",
+                  "cn": "全球化让我们相连。"
+                },
+                {
+                  "en": "The effects of globalization.",
+                  "cn": "全球化的影响。"
+                }
+              ]
+            },
+            {
+              "en": "digital divide",
+              "cn": "数字鸿沟",
+              "phonetic": "/ˈdɪdʒɪtl dɪˈvaɪd/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Bridge the digital divide.",
+                  "cn": "弥合数字鸿沟。"
+                },
+                {
+                  "en": "The digital divide is real.",
+                  "cn": "数字鸿沟是真实的。"
+                }
+              ]
+            },
+            {
+              "en": "access",
+              "cn": "获取/接入",
+              "phonetic": "/ˈækses/",
+              "pos": "n.",
+              "examples": [
+                {
+                  "en": "Access to education.",
+                  "cn": "获得教育的机会。"
+                },
+                {
+                  "en": "Equal access for all.",
+                  "cn": "人人平等获得机会。"
+                }
+              ]
+            }
+          ],
+          "sentences": [
+            {
+              "en": "Education can help end poverty.",
+              "cn": "教育可以帮助消除贫困。"
+            },
+            {
+              "en": "Everyone deserves equal rights.",
+              "cn": "每个人都值得拥有平等的权利。"
+            },
+            {
+              "en": "Healthcare should be available to all.",
+              "cn": "所有人都应该享有医疗服务。"
+            },
+            {
+              "en": "Globalization connects the world.",
+              "cn": "全球化连接了世界。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

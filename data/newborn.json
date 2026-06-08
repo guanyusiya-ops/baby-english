@@ -1,0 +1,77 @@
+{
+  "stage": "newborn",
+  "title": "Newborn",
+  "subtitle": "Listen & Explore",
+  "description": "Click on objects to hear their names. Just listen, no pressure.",
+  "scenes": [
+    {
+      "id": "bedroom",
+      "name": "Bedroom",
+      "icon": "🛏️",
+      "bgColor": "#f0e6ff",
+      "items": [
+        { "id": "bed", "word": "bed", "emoji": "🛏️", "x": 50, "y": 55, "phrase": "This is a bed." },
+        { "id": "pillow", "word": "pillow", "emoji": "🛋️", "x": 35, "y": 45, "phrase": "A soft pillow." },
+        { "id": "blanket", "word": "blanket", "emoji": "🧣", "x": 60, "y": 60, "phrase": "A warm blanket." },
+        { "id": "lamp", "word": "lamp", "emoji": "💡", "x": 20, "y": 30, "phrase": "Turn on the lamp." },
+        { "id": "window", "word": "window", "emoji": "🪟", "x": 75, "y": 25, "phrase": "Look at the window." },
+        { "id": "clock", "word": "clock", "emoji": "🕐", "x": 85, "y": 20, "phrase": "The clock says tick tock." },
+        { "id": "teddy", "word": "teddy bear", "emoji": "🧸", "x": 30, "y": 65, "phrase": "A cute teddy bear." },
+        { "id": "book", "word": "book", "emoji": "📖", "x": 15, "y": 55, "phrase": "Read a book." },
+        { "id": "star", "word": "star", "emoji": "⭐", "x": 70, "y": 15, "phrase": "A shining star." },
+        { "id": "moon", "word": "moon", "emoji": "🌙", "x": 55, "y": 12, "phrase": "Good night, moon." },
+        { "id": "door", "word": "door", "emoji": "🚪", "x": 90, "y": 50, "phrase": "Open the door." },
+        { "id": "shoes", "word": "shoes", "emoji": "👟", "x": 80, "y": 75, "phrase": "Put on your shoes." },
+        { "id": "mirror", "word": "mirror", "emoji": "🪞", "x": 10, "y": 35, "phrase": "Look in the mirror." },
+        { "id": "shirt", "word": "shirt", "emoji": "👕", "x": 42, "y": 30, "phrase": "A clean shirt." },
+        { "id": "socks", "word": "socks", "emoji": "🧦", "x": 70, "y": 72, "phrase": "Warm socks." }
+      ]
+    },
+    {
+      "id": "living_room",
+      "name": "Living Room",
+      "icon": "🛋️",
+      "bgColor": "#fff3e0",
+      "items": [
+        { "id": "sofa", "word": "sofa", "emoji": "🛋️", "x": 45, "y": 55, "phrase": "Sit on the sofa." },
+        { "id": "tv", "word": "television", "emoji": "📺", "x": 50, "y": 25, "phrase": "Watch television." },
+        { "id": "table", "word": "table", "emoji": "🪑", "x": 30, "y": 60, "phrase": "A wooden table." },
+        { "id": "flower", "word": "flower", "emoji": "🌸", "x": 20, "y": 40, "phrase": "A beautiful flower." },
+        { "id": "cat", "word": "cat", "emoji": "🐱", "x": 65, "y": 65, "phrase": "A cute cat." },
+        { "id": "dog", "word": "dog", "emoji": "🐶", "x": 80, "y": 70, "phrase": "A friendly dog." },
+        { "id": "phone", "word": "phone", "emoji": "📱", "x": 70, "y": 45, "phrase": "The phone is ringing." },
+        { "id": "key", "word": "key", "emoji": "🔑", "x": 25, "y": 50, "phrase": "Where is the key?" },
+        { "id": "photo", "word": "photo", "emoji": "🖼️", "x": 35, "y": 20, "phrase": "A family photo." },
+        { "id": "plant", "word": "plant", "emoji": "🪴", "x": 85, "y": 35, "phrase": "A green plant." },
+        { "id": "music", "word": "music", "emoji": "🎵", "x": 15, "y": 25, "phrase": "Listen to music." },
+        { "id": "candle", "word": "candle", "emoji": "🕯️", "x": 55, "y": 40, "phrase": "Light the candle." },
+        { "id": "carpet", "word": "carpet", "emoji": "🟫", "x": 50, "y": 78, "phrase": "A soft carpet." },
+        { "id": "baby", "word": "baby", "emoji": "👶", "x": 40, "y": 70, "phrase": "Hello, baby!" },
+        { "id": "mama", "word": "mama", "emoji": "👩", "x": 60, "y": 50, "phrase": "I love you, baby." }
+      ]
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "icon": "🍳",
+      "bgColor": "#e8f5e9",
+      "items": [
+        { "id": "water", "word": "water", "emoji": "💧", "x": 30, "y": 35, "phrase": "Drink some water." },
+        { "id": "milk", "word": "milk", "emoji": "🥛", "x": 45, "y": 40, "phrase": "A glass of milk." },
+        { "id": "apple", "word": "apple", "emoji": "🍎", "x": 60, "y": 45, "phrase": "A red apple." },
+        { "id": "banana", "word": "banana", "emoji": "🍌", "x": 70, "y": 40, "phrase": "A yellow banana." },
+        { "id": "bread", "word": "bread", "emoji": "🍞", "x": 35, "y": 50, "phrase": "Fresh bread." },
+        { "id": "egg", "word": "egg", "emoji": "🥚", "x": 50, "y": 55, "phrase": "A white egg." },
+        { "id": "cup", "word": "cup", "emoji": "☕", "x": 25, "y": 45, "phrase": "A warm cup." },
+        { "id": "plate", "word": "plate", "emoji": "🍽️", "x": 55, "y": 65, "phrase": "Put it on the plate." },
+        { "id": "spoon", "word": "spoon", "emoji": "🥄", "x": 65, "y": 60, "phrase": "Use a spoon." },
+        { "id": "rice", "word": "rice", "emoji": "🍚", "x": 40, "y": 60, "phrase": "A bowl of rice." },
+        { "id": "fish", "word": "fish", "emoji": "🐟", "x": 80, "y": 50, "phrase": "Fresh fish." },
+        { "id": "chicken", "word": "chicken", "emoji": "🍗", "x": 75, "y": 60, "phrase": "Yummy chicken." },
+        { "id": "orange", "word": "orange", "emoji": "🍊", "x": 15, "y": 40, "phrase": "An orange." },
+        { "id": "cookie", "word": "cookie", "emoji": "🍪", "x": 85, "y": 35, "phrase": "A sweet cookie." },
+        { "id": "fire", "word": "fire", "emoji": "🔥", "x": 20, "y": 55, "phrase": "Be careful, fire!" }
+      ]
+    }
+  ]
+}
