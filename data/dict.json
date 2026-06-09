@@ -1,0 +1,2841 @@
+[
+  {
+    "en": "act",
+    "cn": "表演；行动",
+    "phonetic": "/ækt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "She can act like a cat.",
+        "cn": "她能表演得像一只猫。"
+      },
+      {
+        "en": "We must act now.",
+        "cn": "我们必须现在行动。"
+      }
+    ],
+    "synonyms": [
+      "perform"
+    ],
+    "synonymDiff": "act侧重扮演角色或采取行动, perform侧重在观众面前表演"
+  },
+  {
+    "en": "action",
+    "cn": "行动；动作",
+    "phonetic": "/ˈækʃən/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Lights, camera, action!",
+        "cn": "灯光、摄像、开拍！"
+      },
+      {
+        "en": "We need to take action.",
+        "cn": "我们需要采取行动。"
+      }
+    ]
+  },
+  {
+    "en": "affects",
+    "cn": "影响",
+    "phonetic": "/əˈfekts/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Rain affects our picnic plan.",
+        "cn": "下雨影响了我们的野餐计划。"
+      },
+      {
+        "en": "What you eat affects your health.",
+        "cn": "你吃的东西会影响你的健康。"
+      }
+    ],
+    "synonyms": [
+      "influences"
+    ],
+    "synonymDiff": "affects侧重产生直接的作用或改变, influences侧重潜移默化的影响"
+  },
+  {
+    "en": "ai",
+    "cn": "人工智能",
+    "phonetic": "/ˌeɪˈaɪ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "AI can help us learn new things.",
+        "cn": "人工智能能帮我们学新东西。"
+      },
+      {
+        "en": "This robot uses AI.",
+        "cn": "这个机器人使用了人工智能。"
+      }
+    ]
+  },
+  {
+    "en": "allergic",
+    "cn": "过敏的",
+    "phonetic": "/əˈlɜːrdʒɪk/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "I am allergic to peanuts.",
+        "cn": "我对花生过敏。"
+      },
+      {
+        "en": "Are you allergic to cats?",
+        "cn": "你对猫过敏吗？"
+      }
+    ]
+  },
+  {
+    "en": "alone",
+    "cn": "独自的；单独地",
+    "phonetic": "/əˈloʊn/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Don't leave me alone.",
+        "cn": "别留我一个人。"
+      },
+      {
+        "en": "She likes to read alone.",
+        "cn": "她喜欢独自看书。"
+      }
+    ]
+  },
+  {
+    "en": "always",
+    "cn": "总是；一直",
+    "phonetic": "/ˈɔːlweɪz/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "I always brush my teeth.",
+        "cn": "我总是刷牙。"
+      },
+      {
+        "en": "Mom always helps me.",
+        "cn": "妈妈总是帮助我。"
+      }
+    ]
+  },
+  {
+    "en": "animals",
+    "cn": "动物",
+    "phonetic": "/ˈænɪməlz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I love animals.",
+        "cn": "我喜欢动物。"
+      },
+      {
+        "en": "There are many animals in the zoo.",
+        "cn": "动物园里有很多动物。"
+      }
+    ]
+  },
+  {
+    "en": "anxious",
+    "cn": "焦虑的；不安的",
+    "phonetic": "/ˈæŋkʃəs/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "I feel anxious before the test.",
+        "cn": "考试前我感到焦虑。"
+      },
+      {
+        "en": "Don't be anxious, you will be fine.",
+        "cn": "别紧张，你会没事的。"
+      }
+    ],
+    "synonyms": [
+      "nervous",
+      "worried"
+    ],
+    "synonymDiff": "anxious侧重内心的担忧和不安, nervous侧重紧张不自然, worried侧重对具体事情的担心"
+  },
+  {
+    "en": "ask",
+    "cn": "问；请求",
+    "phonetic": "/æsk/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Can I ask you a question?",
+        "cn": "我能问你一个问题吗？"
+      },
+      {
+        "en": "Ask your teacher for help.",
+        "cn": "向你的老师求助。"
+      }
+    ]
+  },
+  {
+    "en": "attract",
+    "cn": "吸引",
+    "phonetic": "/əˈtrækt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Flowers attract bees.",
+        "cn": "花朵吸引蜜蜂。"
+      },
+      {
+        "en": "Bright colors attract birds.",
+        "cn": "鲜艳的颜色吸引鸟儿。"
+      }
+    ]
+  },
+  {
+    "en": "autumn",
+    "cn": "秋天",
+    "phonetic": "/ˈɔːtəm/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Leaves turn red in autumn.",
+        "cn": "秋天树叶变红了。"
+      },
+      {
+        "en": "I like autumn best.",
+        "cn": "我最喜欢秋天。"
+      }
+    ],
+    "synonyms": [
+      "fall"
+    ],
+    "synonymDiff": "autumn是英式英语用法, fall是美式英语用法, 意思相同"
+  },
+  {
+    "en": "available",
+    "cn": "可用的；有空的",
+    "phonetic": "/əˈveɪləbl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Is this seat available?",
+        "cn": "这个座位有人吗？"
+      },
+      {
+        "en": "No more tickets are available.",
+        "cn": "没有票了。"
+      }
+    ]
+  },
+  {
+    "en": "bath",
+    "cn": "洗澡；浴缸",
+    "phonetic": "/bæθ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Time for a bath!",
+        "cn": "该洗澡啦！"
+      },
+      {
+        "en": "The baby loves bath time.",
+        "cn": "宝宝喜欢洗澡时间。"
+      }
+    ],
+    "synonyms": [
+      "shower"
+    ],
+    "synonymDiff": "bath指泡在浴缸里洗澡, shower指淋浴"
+  },
+  {
+    "en": "beautiful",
+    "cn": "美丽的",
+    "phonetic": "/ˈbjuːtɪfəl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "What a beautiful flower!",
+        "cn": "多么美丽的花！"
+      },
+      {
+        "en": "The sunset is beautiful.",
+        "cn": "日落很美。"
+      }
+    ],
+    "synonyms": [
+      "pretty",
+      "lovely"
+    ],
+    "synonymDiff": "beautiful强调令人赞叹的美, pretty指小巧精致的好看, lovely侧重令人愉悦的可爱"
+  },
+  {
+    "en": "becoming",
+    "cn": "变成；成为",
+    "phonetic": "/bɪˈkʌmɪŋ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "She is becoming a good reader.",
+        "cn": "她正在成为一个好读者。"
+      },
+      {
+        "en": "The weather is becoming warmer.",
+        "cn": "天气正在变暖。"
+      }
+    ]
+  },
+  {
+    "en": "beijing",
+    "cn": "北京",
+    "phonetic": "/beɪˈdʒɪŋ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Beijing is the capital of China.",
+        "cn": "北京是中国的首都。"
+      },
+      {
+        "en": "I want to visit Beijing.",
+        "cn": "我想去北京玩。"
+      }
+    ]
+  },
+  {
+    "en": "bit",
+    "cn": "一点；小块",
+    "phonetic": "/bɪt/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I am a bit tired.",
+        "cn": "我有点累了。"
+      },
+      {
+        "en": "Can I have a bit of cake?",
+        "cn": "我能吃一小块蛋糕吗？"
+      }
+    ]
+  },
+  {
+    "en": "bloom",
+    "cn": "开花",
+    "phonetic": "/bluːm/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Roses bloom in spring.",
+        "cn": "玫瑰在春天开花。"
+      },
+      {
+        "en": "The garden is in full bloom.",
+        "cn": "花园里百花盛开。"
+      }
+    ],
+    "synonyms": [
+      "blossom"
+    ],
+    "synonymDiff": "bloom泛指花朵绽放, blossom多指果树开花"
+  },
+  {
+    "en": "body",
+    "cn": "身体",
+    "phonetic": "/ˈbɑːdi/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Exercise is good for your body.",
+        "cn": "锻炼对你的身体有好处。"
+      },
+      {
+        "en": "Your body needs water.",
+        "cn": "你的身体需要水。"
+      }
+    ]
+  },
+  {
+    "en": "borrow",
+    "cn": "借入",
+    "phonetic": "/ˈbɑːroʊ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Can I borrow your pencil?",
+        "cn": "我能借你的铅笔吗？"
+      },
+      {
+        "en": "I borrow books from the library.",
+        "cn": "我从图书馆借书。"
+      }
+    ],
+    "synonyms": [
+      "lend"
+    ],
+    "synonymDiff": "borrow指从别人那里借入, lend指把自己的东西借出给别人"
+  },
+  {
+    "en": "both",
+    "cn": "两者都",
+    "phonetic": "/boʊθ/",
+    "pos": "pron.",
+    "examples": [
+      {
+        "en": "I like both cats and dogs.",
+        "cn": "我猫和狗都喜欢。"
+      },
+      {
+        "en": "Both hands are clean.",
+        "cn": "两只手都干净了。"
+      }
+    ]
+  },
+  {
+    "en": "breathe",
+    "cn": "呼吸",
+    "phonetic": "/briːð/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Take a deep breathe in.",
+        "cn": "深吸一口气。"
+      },
+      {
+        "en": "Fish breathe in water.",
+        "cn": "鱼在水中呼吸。"
+      }
+    ]
+  },
+  {
+    "en": "business",
+    "cn": "生意；商业",
+    "phonetic": "/ˈbɪznəs/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "My dad has a small business.",
+        "cn": "我爸爸有一个小生意。"
+      },
+      {
+        "en": "She wants to start a business.",
+        "cn": "她想创业。"
+      }
+    ]
+  },
+  {
+    "en": "buzzing",
+    "cn": "嗡嗡作响的",
+    "phonetic": "/ˈbʌzɪŋ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The bees are buzzing around.",
+        "cn": "蜜蜂在周围嗡嗡飞。"
+      },
+      {
+        "en": "I hear something buzzing.",
+        "cn": "我听到什么东西在嗡嗡响。"
+      }
+    ]
+  },
+  {
+    "en": "calculate",
+    "cn": "计算",
+    "phonetic": "/ˈkælkjəleɪt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Can you calculate 5 plus 3?",
+        "cn": "你能算5加3吗？"
+      },
+      {
+        "en": "We use a calculator to calculate.",
+        "cn": "我们用计算器来计算。"
+      }
+    ],
+    "synonyms": [
+      "count",
+      "compute"
+    ],
+    "synonymDiff": "calculate侧重数学运算, count侧重逐个数数, compute侧重用电脑计算"
+  },
+  {
+    "en": "cannot",
+    "cn": "不能",
+    "phonetic": "/ˈkænɑːt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I cannot swim yet.",
+        "cn": "我还不会游泳。"
+      },
+      {
+        "en": "You cannot run in the hall.",
+        "cn": "你不能在走廊里跑。"
+      }
+    ]
+  },
+  {
+    "en": "care",
+    "cn": "关心；照顾",
+    "phonetic": "/ker/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I care about my friends.",
+        "cn": "我关心我的朋友们。"
+      },
+      {
+        "en": "She takes care of her little brother.",
+        "cn": "她照顾她的小弟弟。"
+      }
+    ]
+  },
+  {
+    "en": "changing",
+    "cn": "改变；变化",
+    "phonetic": "/ˈtʃeɪndʒɪŋ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The seasons are always changing.",
+        "cn": "季节总是在变化。"
+      },
+      {
+        "en": "I am changing my clothes.",
+        "cn": "我正在换衣服。"
+      }
+    ]
+  },
+  {
+    "en": "charge",
+    "cn": "充电；收费",
+    "phonetic": "/tʃɑːrdʒ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I need to charge my phone.",
+        "cn": "我需要给手机充电。"
+      },
+      {
+        "en": "How much do they charge?",
+        "cn": "他们收费多少？"
+      }
+    ]
+  },
+  {
+    "en": "check",
+    "cn": "检查；核对",
+    "phonetic": "/tʃek/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Check your homework before you turn it in.",
+        "cn": "交作业前检查一下。"
+      },
+      {
+        "en": "Let me check the time.",
+        "cn": "让我看看几点了。"
+      }
+    ],
+    "synonyms": [
+      "examine"
+    ],
+    "synonymDiff": "check侧重快速确认, examine侧重仔细检查"
+  },
+  {
+    "en": "chemical",
+    "cn": "化学的；化学品",
+    "phonetic": "/ˈkemɪkəl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Don't touch the chemical bottles.",
+        "cn": "不要碰化学瓶子。"
+      },
+      {
+        "en": "Water is a chemical compound.",
+        "cn": "水是一种化合物。"
+      }
+    ]
+  },
+  {
+    "en": "chinese",
+    "cn": "中国的；中文",
+    "phonetic": "/tʃaɪˈniːz/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "I speak Chinese at home.",
+        "cn": "我在家说中文。"
+      },
+      {
+        "en": "We eat Chinese food today.",
+        "cn": "我们今天吃中餐。"
+      }
+    ]
+  },
+  {
+    "en": "class",
+    "cn": "课；班级",
+    "phonetic": "/klæs/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I have an English class today.",
+        "cn": "我今天有英语课。"
+      },
+      {
+        "en": "There are 30 students in my class.",
+        "cn": "我们班有30个学生。"
+      }
+    ],
+    "synonyms": [
+      "lesson"
+    ],
+    "synonymDiff": "class指一节课或一个班级, lesson侧重一节课的教学内容"
+  },
+  {
+    "en": "client",
+    "cn": "客户",
+    "phonetic": "/ˈklaɪənt/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "The client is happy with our work.",
+        "cn": "客户对我们的工作很满意。"
+      },
+      {
+        "en": "We have a new client.",
+        "cn": "我们有了一个新客户。"
+      }
+    ],
+    "synonyms": [
+      "customer"
+    ],
+    "synonymDiff": "client多指长期合作的专业服务客户, customer指普通购物的顾客"
+  },
+  {
+    "en": "clothes",
+    "cn": "衣服",
+    "phonetic": "/kloʊðz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Put on your clothes.",
+        "cn": "穿上你的衣服。"
+      },
+      {
+        "en": "I need new clothes for school.",
+        "cn": "我需要新的校服。"
+      }
+    ],
+    "synonyms": [
+      "clothing"
+    ],
+    "synonymDiff": "clothes是日常用语, clothing更正式, 也指衣物的总称"
+  },
+  {
+    "en": "color",
+    "cn": "颜色",
+    "phonetic": "/ˈkʌlər/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "What color do you like?",
+        "cn": "你喜欢什么颜色？"
+      },
+      {
+        "en": "Let's color the picture.",
+        "cn": "我们来给图画涂颜色吧。"
+      }
+    ]
+  },
+  {
+    "en": "common",
+    "cn": "常见的；普通的",
+    "phonetic": "/ˈkɑːmən/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Cats are common pets.",
+        "cn": "猫是常见的宠物。"
+      },
+      {
+        "en": "Colds are common in winter.",
+        "cn": "冬天感冒很常见。"
+      }
+    ],
+    "synonyms": [
+      "ordinary",
+      "usual"
+    ],
+    "synonymDiff": "common强调常见不稀奇, ordinary强调普通不特别, usual强调惯常的"
+  },
+  {
+    "en": "complex",
+    "cn": "复杂的",
+    "phonetic": "/ˈkɑːmpleks/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "This puzzle is too complex for me.",
+        "cn": "这个谜题对我来说太复杂了。"
+      },
+      {
+        "en": "The human body is very complex.",
+        "cn": "人体非常复杂。"
+      }
+    ],
+    "synonyms": [
+      "complicated"
+    ],
+    "synonymDiff": "complex指由多个部分组成的复杂, complicated指难以理解或处理的复杂"
+  },
+  {
+    "en": "concern",
+    "cn": "担心；关心",
+    "phonetic": "/kənˈsɜːrn/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Thank you for your concern.",
+        "cn": "谢谢你的关心。"
+      },
+      {
+        "en": "Safety is our main concern.",
+        "cn": "安全是我们最关心的事。"
+      }
+    ],
+    "synonyms": [
+      "worry"
+    ],
+    "synonymDiff": "concern语气较正式, 含关切之意, worry更偏向焦虑担忧"
+  },
+  {
+    "en": "connects",
+    "cn": "连接",
+    "phonetic": "/kəˈnekts/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "A bridge connects the two sides.",
+        "cn": "一座桥连接了两边。"
+      },
+      {
+        "en": "This road connects our town to the city.",
+        "cn": "这条路连接我们的镇和城市。"
+      }
+    ],
+    "synonyms": [
+      "links",
+      "joins"
+    ],
+    "synonymDiff": "connects侧重建立联系或连通, links侧重环环相扣的关联, joins侧重合在一起"
+  },
+  {
+    "en": "created",
+    "cn": "创造了；创建了",
+    "phonetic": "/kriˈeɪtɪd/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "She created a beautiful painting.",
+        "cn": "她创作了一幅美丽的画。"
+      },
+      {
+        "en": "Who created this game?",
+        "cn": "谁创造了这个游戏？"
+      }
+    ],
+    "synonyms": [
+      "made"
+    ],
+    "synonymDiff": "created强调从无到有的创造, made泛指制作或制造"
+  },
+  {
+    "en": "crossing",
+    "cn": "穿越；人行横道",
+    "phonetic": "/ˈkrɔːsɪŋ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Use the crossing to cross the street.",
+        "cn": "过马路要走人行横道。"
+      },
+      {
+        "en": "Look both ways before crossing.",
+        "cn": "过马路前要看两边。"
+      }
+    ]
+  },
+  {
+    "en": "cultural",
+    "cn": "文化的",
+    "phonetic": "/ˈkʌltʃərəl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "We had a cultural festival at school.",
+        "cn": "我们学校举办了文化节。"
+      },
+      {
+        "en": "Every country has its own cultural traditions.",
+        "cn": "每个国家都有自己的文化传统。"
+      }
+    ]
+  },
+  {
+    "en": "decision",
+    "cn": "决定",
+    "phonetic": "/dɪˈsɪʒən/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "It is a hard decision.",
+        "cn": "这是一个艰难的决定。"
+      },
+      {
+        "en": "You made a good decision.",
+        "cn": "你做了一个好决定。"
+      }
+    ],
+    "synonyms": [
+      "choice"
+    ],
+    "synonymDiff": "decision侧重经过思考后的决定, choice侧重在多个选项中做选择"
+  },
+  {
+    "en": "decorate",
+    "cn": "装饰",
+    "phonetic": "/ˈdekəreɪt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Let's decorate the Christmas tree.",
+        "cn": "我们来装饰圣诞树吧。"
+      },
+      {
+        "en": "We decorate our classroom for the party.",
+        "cn": "我们为派对装饰教室。"
+      }
+    ]
+  },
+  {
+    "en": "defended",
+    "cn": "保卫了；防守了",
+    "phonetic": "/dɪˈfendɪd/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The dog defended its owner.",
+        "cn": "狗保护了它的主人。"
+      },
+      {
+        "en": "He defended his little sister.",
+        "cn": "他保护了他的小妹妹。"
+      }
+    ],
+    "synonyms": [
+      "protected"
+    ],
+    "synonymDiff": "defended侧重面对攻击时的防卫, protected侧重提前采取措施保护"
+  },
+  {
+    "en": "degrees",
+    "cn": "度；学位",
+    "phonetic": "/dɪˈɡriːz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "It is 30 degrees today.",
+        "cn": "今天30度。"
+      },
+      {
+        "en": "Water boils at 100 degrees.",
+        "cn": "水在100度时沸腾。"
+      }
+    ]
+  },
+  {
+    "en": "delicious",
+    "cn": "美味的",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "This cake is delicious!",
+        "cn": "这个蛋糕真好吃！"
+      },
+      {
+        "en": "Mom makes delicious soup.",
+        "cn": "妈妈做的汤很好喝。"
+      }
+    ],
+    "synonyms": [
+      "tasty",
+      "yummy"
+    ],
+    "synonymDiff": "delicious较正式, 强调非常好吃, tasty日常用语指味道好, yummy是儿童常用的口语"
+  },
+  {
+    "en": "deserves",
+    "cn": "值得；应得",
+    "phonetic": "/dɪˈzɜːrvz/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "She deserves a gold star.",
+        "cn": "她值得一颗金星。"
+      },
+      {
+        "en": "Everyone deserves to be happy.",
+        "cn": "每个人都值得快乐。"
+      }
+    ]
+  },
+  {
+    "en": "destroyed",
+    "cn": "摧毁了；破坏了",
+    "phonetic": "/dɪˈstrɔɪd/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The storm destroyed many trees.",
+        "cn": "暴风雨摧毁了很多树。"
+      },
+      {
+        "en": "The old building was destroyed.",
+        "cn": "那栋旧楼被拆毁了。"
+      }
+    ]
+  },
+  {
+    "en": "dinner",
+    "cn": "晚餐",
+    "phonetic": "/ˈdɪnər/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "What's for dinner tonight?",
+        "cn": "今晚晚餐吃什么？"
+      },
+      {
+        "en": "We have dinner at six.",
+        "cn": "我们六点吃晚餐。"
+      }
+    ],
+    "synonyms": [
+      "supper"
+    ],
+    "synonymDiff": "dinner指一天中最正式的一餐, supper指较晚的简便晚餐"
+  },
+  {
+    "en": "during",
+    "cn": "在...期间",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "pos": "prep.",
+    "examples": [
+      {
+        "en": "Be quiet during class.",
+        "cn": "上课时要安静。"
+      },
+      {
+        "en": "We play outside during recess.",
+        "cn": "课间休息时我们在外面玩。"
+      }
+    ]
+  },
+  {
+    "en": "eighty-five",
+    "cn": "八十五",
+    "phonetic": "/ˈeɪti faɪv/",
+    "pos": "num.",
+    "examples": [
+      {
+        "en": "My grandma is eighty-five years old.",
+        "cn": "我奶奶八十五岁了。"
+      },
+      {
+        "en": "There are eighty-five apples in the box.",
+        "cn": "箱子里有八十五个苹果。"
+      }
+    ]
+  },
+  {
+    "en": "environment",
+    "cn": "环境",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "We should protect the environment.",
+        "cn": "我们应该保护环境。"
+      },
+      {
+        "en": "Trees help keep the environment clean.",
+        "cn": "树木帮助保持环境清洁。"
+      }
+    ],
+    "synonyms": [
+      "surroundings"
+    ],
+    "synonymDiff": "surroundings侧重周围的事物和空间, environment侧重自然生态环境或整体环境条件。"
+  },
+  {
+    "en": "equal",
+    "cn": "相等的",
+    "phonetic": "/ˈiːkwəl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Two plus two is equal to four.",
+        "cn": "二加二等于四。"
+      },
+      {
+        "en": "Everyone should have equal chances to play.",
+        "cn": "每个人都应该有平等的机会玩。"
+      }
+    ],
+    "synonyms": [
+      "same"
+    ],
+    "synonymDiff": "same强调完全一样, equal强调数量或价值上相等。"
+  },
+  {
+    "en": "erupt",
+    "cn": "喷发",
+    "phonetic": "/ɪˈrʌpt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The volcano may erupt at any time.",
+        "cn": "这座火山随时可能喷发。"
+      },
+      {
+        "en": "Hot lava erupted from the mountain.",
+        "cn": "滚烫的岩浆从山上喷发出来。"
+      }
+    ]
+  },
+  {
+    "en": "eve",
+    "cn": "前夕",
+    "phonetic": "/iːv/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "We stayed up late on New Year's Eve.",
+        "cn": "我们在新年前夕熬夜了。"
+      },
+      {
+        "en": "On Christmas Eve, we hang up stockings.",
+        "cn": "在圣诞前夕，我们挂上袜子。"
+      }
+    ]
+  },
+  {
+    "en": "everyone",
+    "cn": "每个人",
+    "phonetic": "/ˈevriwʌn/",
+    "pos": "pron.",
+    "examples": [
+      {
+        "en": "Everyone in my class likes music.",
+        "cn": "我们班每个人都喜欢音乐。"
+      },
+      {
+        "en": "Good morning, everyone!",
+        "cn": "大家早上好！"
+      }
+    ],
+    "synonyms": [
+      "everybody"
+    ],
+    "synonymDiff": "everybody和everyone意思相同, everyone更常用于书面语。"
+  },
+  {
+    "en": "everything",
+    "cn": "一切；每件事",
+    "phonetic": "/ˈevriθɪŋ/",
+    "pos": "pron.",
+    "examples": [
+      {
+        "en": "I put everything back in the box.",
+        "cn": "我把所有东西放回了箱子里。"
+      },
+      {
+        "en": "Everything is ready for the party.",
+        "cn": "派对的一切都准备好了。"
+      }
+    ]
+  },
+  {
+    "en": "exam",
+    "cn": "考试",
+    "phonetic": "/ɪɡˈzæm/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I have a math exam tomorrow.",
+        "cn": "我明天有一场数学考试。"
+      },
+      {
+        "en": "She did well on the exam.",
+        "cn": "她考试考得很好。"
+      }
+    ],
+    "synonyms": [
+      "test"
+    ],
+    "synonymDiff": "test常指小测验或随堂测试, exam常指较正式的考试。"
+  },
+  {
+    "en": "exciting",
+    "cn": "令人兴奋的",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The soccer game was so exciting!",
+        "cn": "那场足球赛太令人兴奋了！"
+      },
+      {
+        "en": "Going to the zoo is always exciting.",
+        "cn": "去动物园总是令人兴奋的。"
+      }
+    ],
+    "synonyms": [
+      "thrilling"
+    ],
+    "synonymDiff": "thrilling侧重惊险刺激的感觉, exciting侧重普遍的兴奋和激动。"
+  },
+  {
+    "en": "fairly",
+    "cn": "相当地；公平地",
+    "phonetic": "/ˈferli/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "The weather is fairly warm today.",
+        "cn": "今天天气相当暖和。"
+      },
+      {
+        "en": "The teacher treats everyone fairly.",
+        "cn": "老师公平地对待每个人。"
+      }
+    ]
+  },
+  {
+    "en": "favorite",
+    "cn": "最喜欢的",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Blue is my favorite color.",
+        "cn": "蓝色是我最喜欢的颜色。"
+      },
+      {
+        "en": "What is your favorite food?",
+        "cn": "你最喜欢的食物是什么？"
+      }
+    ]
+  },
+  {
+    "en": "flush",
+    "cn": "冲洗",
+    "phonetic": "/flʌʃ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Please flush the toilet after you use it.",
+        "cn": "用完厕所后请冲水。"
+      },
+      {
+        "en": "She flushed water over her hands.",
+        "cn": "她用水冲洗双手。"
+      }
+    ]
+  },
+  {
+    "en": "follow",
+    "cn": "跟随；跟着",
+    "phonetic": "/ˈfɑːloʊ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The little duck follows its mother.",
+        "cn": "小鸭子跟着它的妈妈。"
+      },
+      {
+        "en": "Please follow me to the classroom.",
+        "cn": "请跟我去教室。"
+      }
+    ]
+  },
+  {
+    "en": "forget",
+    "cn": "忘记",
+    "phonetic": "/fərˈɡet/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Don't forget to bring your lunch box.",
+        "cn": "别忘了带你的午餐盒。"
+      },
+      {
+        "en": "I always forget where I put my keys.",
+        "cn": "我总是忘记把钥匙放在哪里了。"
+      }
+    ]
+  },
+  {
+    "en": "form",
+    "cn": "形式；表格；形成",
+    "phonetic": "/fɔːrm/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "Water can form ice when it is cold.",
+        "cn": "水在寒冷时会结成冰。"
+      },
+      {
+        "en": "Please fill in this form with your name.",
+        "cn": "请在这张表格上填写你的名字。"
+      }
+    ]
+  },
+  {
+    "en": "fought",
+    "cn": "战斗（fight的过去式）",
+    "phonetic": "/fɔːt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The brave knight fought the dragon.",
+        "cn": "勇敢的骑士和龙战斗了。"
+      },
+      {
+        "en": "They fought hard to win the game.",
+        "cn": "他们奋力拼搏赢得了比赛。"
+      }
+    ]
+  },
+  {
+    "en": "future",
+    "cn": "未来",
+    "phonetic": "/ˈfjuːtʃər/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "What do you want to be in the future?",
+        "cn": "你将来想做什么？"
+      },
+      {
+        "en": "In the future, cars might fly.",
+        "cn": "在未来，汽车可能会飞。"
+      }
+    ]
+  },
+  {
+    "en": "gain",
+    "cn": "获得；增加",
+    "phonetic": "/ɡeɪn/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "You can gain knowledge by reading books.",
+        "cn": "你可以通过读书获得知识。"
+      },
+      {
+        "en": "The baby gained two pounds this month.",
+        "cn": "宝宝这个月增重了两磅。"
+      }
+    ],
+    "synonyms": [
+      "get"
+    ],
+    "synonymDiff": "get是最常用的口语表达, gain更强调通过努力逐步获得。"
+  },
+  {
+    "en": "generations",
+    "cn": "世代；几代人",
+    "phonetic": "/ˌdʒenəˈreɪʃənz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "This story has been told for generations.",
+        "cn": "这个故事已经讲了好几代了。"
+      },
+      {
+        "en": "Three generations live in our house.",
+        "cn": "我们家住着三代人。"
+      }
+    ]
+  },
+  {
+    "en": "genetic",
+    "cn": "基因的；遗传的",
+    "phonetic": "/dʒəˈnetɪk/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Eye color is genetic.",
+        "cn": "眼睛的颜色是遗传的。"
+      },
+      {
+        "en": "She studies genetic science at school.",
+        "cn": "她在学校学习遗传学。"
+      }
+    ]
+  },
+  {
+    "en": "gold",
+    "cn": "金子；黄金",
+    "phonetic": "/ɡoʊld/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "The ring is made of gold.",
+        "cn": "这枚戒指是金子做的。"
+      },
+      {
+        "en": "She won a gold medal in the race.",
+        "cn": "她在比赛中赢得了一枚金牌。"
+      }
+    ]
+  },
+  {
+    "en": "golden",
+    "cn": "金色的；金黄色的",
+    "phonetic": "/ˈɡoʊldən/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The sunset turned the sky golden.",
+        "cn": "日落把天空染成了金色。"
+      },
+      {
+        "en": "She has a golden retriever named Max.",
+        "cn": "她有一只叫Max的金毛犬。"
+      }
+    ]
+  },
+  {
+    "en": "great",
+    "cn": "很棒的；伟大的",
+    "phonetic": "/ɡreɪt/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "You did a great job on your homework!",
+        "cn": "你的作业做得很棒！"
+      },
+      {
+        "en": "The Great Wall is very long.",
+        "cn": "长城非常长。"
+      }
+    ],
+    "synonyms": [
+      "wonderful"
+    ],
+    "synonymDiff": "wonderful侧重令人赞叹和惊喜, great更通用，既可表示很好也可表示伟大。"
+  },
+  {
+    "en": "ground",
+    "cn": "地面；地上",
+    "phonetic": "/ɡraʊnd/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "The ball fell to the ground.",
+        "cn": "球掉到了地上。"
+      },
+      {
+        "en": "Don't sit on the wet ground.",
+        "cn": "不要坐在湿地上。"
+      }
+    ]
+  },
+  {
+    "en": "happens",
+    "cn": "发生",
+    "phonetic": "/ˈhæpənz/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "What happens when you mix red and blue?",
+        "cn": "把红色和蓝色混合会发生什么？"
+      },
+      {
+        "en": "Something funny happens in this story.",
+        "cn": "这个故事里发生了一件有趣的事。"
+      }
+    ],
+    "synonyms": [
+      "occurs"
+    ],
+    "synonymDiff": "occurs更正式和书面化, happens更口语化和日常。"
+  },
+  {
+    "en": "harms",
+    "cn": "伤害；损害",
+    "phonetic": "/hɑːrmz/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "Too much candy harms your teeth.",
+        "cn": "吃太多糖果会伤害你的牙齿。"
+      },
+      {
+        "en": "Pollution harms the animals in the sea.",
+        "cn": "污染伤害了海里的动物。"
+      }
+    ]
+  },
+  {
+    "en": "heat",
+    "cn": "热量；加热",
+    "phonetic": "/hiːt/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "We can feel the heat from the sun.",
+        "cn": "我们能感受到太阳的热量。"
+      },
+      {
+        "en": "Mom heats the soup for dinner.",
+        "cn": "妈妈把汤加热当晚餐。"
+      }
+    ]
+  },
+  {
+    "en": "hydrogen",
+    "cn": "氢",
+    "phonetic": "/ˈhaɪdrədʒən/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Water is made of hydrogen and oxygen.",
+        "cn": "水是由氢和氧组成的。"
+      },
+      {
+        "en": "Hydrogen is the lightest element.",
+        "cn": "氢是最轻的元素。"
+      }
+    ]
+  },
+  {
+    "en": "immersive",
+    "cn": "沉浸式的",
+    "phonetic": "/ɪˈmɜːrsɪv/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The game has an immersive 3D world.",
+        "cn": "这个游戏有一个沉浸式的3D世界。"
+      },
+      {
+        "en": "The museum has an immersive dinosaur show.",
+        "cn": "博物馆有一场沉浸式的恐龙展。"
+      }
+    ]
+  },
+  {
+    "en": "important",
+    "cn": "重要的",
+    "phonetic": "/ɪmˈpɔːrtənt/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "It is important to drink water every day.",
+        "cn": "每天喝水很重要。"
+      },
+      {
+        "en": "Breakfast is the most important meal.",
+        "cn": "早餐是最重要的一餐。"
+      }
+    ]
+  },
+  {
+    "en": "improves",
+    "cn": "改善；提高",
+    "phonetic": "/ɪmˈpruːvz/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Practice improves your reading skills.",
+        "cn": "练习能提高你的阅读能力。"
+      },
+      {
+        "en": "She improves a little every day.",
+        "cn": "她每天都进步一点点。"
+      }
+    ]
+  },
+  {
+    "en": "information",
+    "cn": "信息；资料",
+    "phonetic": "/ˌɪnfərˈmeɪʃən/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "You can find information in the library.",
+        "cn": "你可以在图书馆找到信息。"
+      },
+      {
+        "en": "This book has a lot of useful information.",
+        "cn": "这本书有很多有用的信息。"
+      }
+    ]
+  },
+  {
+    "en": "interesting",
+    "cn": "有趣的",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "This book is very interesting.",
+        "cn": "这本书非常有趣。"
+      },
+      {
+        "en": "The teacher told us an interesting story.",
+        "cn": "老师给我们讲了一个有趣的故事。"
+      }
+    ],
+    "synonyms": [
+      "fascinating"
+    ],
+    "synonymDiff": "fascinating强调深深吸引人、令人着迷, interesting指一般的有趣和引起兴趣。"
+  },
+  {
+    "en": "interests",
+    "cn": "兴趣；爱好",
+    "phonetic": "/ˈɪntrəsts/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Her interests include drawing and singing.",
+        "cn": "她的兴趣包括画画和唱歌。"
+      },
+      {
+        "en": "We share the same interests.",
+        "cn": "我们有相同的兴趣。"
+      }
+    ],
+    "synonyms": [
+      "hobbies"
+    ],
+    "synonymDiff": "hobbies指具体的业余爱好活动, interests范围更广，指感兴趣的事物或领域。"
+  },
+  {
+    "en": "just",
+    "cn": "只是；刚刚",
+    "phonetic": "/dʒʌst/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "I just finished my homework.",
+        "cn": "我刚刚完成了作业。"
+      },
+      {
+        "en": "It is just a little cat.",
+        "cn": "它只是一只小猫。"
+      }
+    ]
+  },
+  {
+    "en": "learn",
+    "cn": "学习；学会",
+    "phonetic": "/lɜːrn/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I want to learn how to swim.",
+        "cn": "我想学游泳。"
+      },
+      {
+        "en": "We learn new words every day.",
+        "cn": "我们每天学习新单词。"
+      }
+    ],
+    "synonyms": [
+      "study"
+    ],
+    "synonymDiff": "study侧重学习的过程和努力, learn侧重学会和掌握的结果。"
+  },
+  {
+    "en": "learned",
+    "cn": "学到了；学会了",
+    "phonetic": "/lɜːrnd/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I learned to ride a bike last summer.",
+        "cn": "我去年夏天学会了骑自行车。"
+      },
+      {
+        "en": "She learned ten new words today.",
+        "cn": "她今天学了十个新单词。"
+      }
+    ]
+  },
+  {
+    "en": "live",
+    "cn": "住；生活",
+    "phonetic": "/lɪv/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I live in a small town.",
+        "cn": "我住在一个小镇上。"
+      },
+      {
+        "en": "Fish live in the water.",
+        "cn": "鱼生活在水里。"
+      }
+    ]
+  },
+  {
+    "en": "main",
+    "cn": "主要的",
+    "phonetic": "/meɪn/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The main character in the story is a girl.",
+        "cn": "故事里的主要人物是一个女孩。"
+      },
+      {
+        "en": "What is the main idea of this book?",
+        "cn": "这本书的主要思想是什么？"
+      }
+    ]
+  },
+  {
+    "en": "manage",
+    "cn": "管理；设法做到",
+    "phonetic": "/ˈmænɪdʒ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "She manages to finish all her work on time.",
+        "cn": "她设法按时完成了所有的工作。"
+      },
+      {
+        "en": "He manages the school library.",
+        "cn": "他管理学校图书馆。"
+      }
+    ]
+  },
+  {
+    "en": "maybe",
+    "cn": "也许；可能",
+    "phonetic": "/ˈmeɪbi/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "Maybe it will rain tomorrow.",
+        "cn": "明天也许会下雨。"
+      },
+      {
+        "en": "Maybe we can go to the park later.",
+        "cn": "也许我们待会儿可以去公园。"
+      }
+    ],
+    "synonyms": [
+      "perhaps"
+    ],
+    "synonymDiff": "perhaps比maybe更正式, maybe更常用于日常口语。"
+  },
+  {
+    "en": "merry",
+    "cn": "快乐的；愉快的",
+    "phonetic": "/ˈmeri/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Merry Christmas, everyone!",
+        "cn": "大家圣诞快乐！"
+      },
+      {
+        "en": "The children had a merry time at the party.",
+        "cn": "孩子们在派对上玩得很开心。"
+      }
+    ],
+    "synonyms": [
+      "happy"
+    ],
+    "synonymDiff": "happy指一般的高兴和幸福, merry强调欢快热闹的气氛。"
+  },
+  {
+    "en": "metal",
+    "cn": "金属",
+    "phonetic": "/ˈmetəl/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "The spoon is made of metal.",
+        "cn": "这把勺子是金属做的。"
+      },
+      {
+        "en": "Iron and copper are common metals.",
+        "cn": "铁和铜是常见的金属。"
+      }
+    ]
+  },
+  {
+    "en": "mistake",
+    "cn": "错误；过失",
+    "phonetic": "/mɪˈsteɪk/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Everyone makes mistakes sometimes.",
+        "cn": "每个人有时都会犯错。"
+      },
+      {
+        "en": "I made a mistake on my test.",
+        "cn": "我在考试中犯了一个错误。"
+      }
+    ],
+    "synonyms": [
+      "error"
+    ],
+    "synonymDiff": "error更正式，常用于技术和科学场景, mistake更口语化，指日常的犯错。"
+  },
+  {
+    "en": "mom",
+    "cn": "妈妈",
+    "phonetic": "/mɑːm/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "My mom makes the best pancakes.",
+        "cn": "我妈妈做的煎饼最好吃了。"
+      },
+      {
+        "en": "I love my mom very much.",
+        "cn": "我非常爱我的妈妈。"
+      }
+    ]
+  },
+  {
+    "en": "neatly",
+    "cn": "整齐地；整洁地",
+    "phonetic": "/ˈniːtli/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "She folded her clothes neatly.",
+        "cn": "她把衣服叠得整整齐齐。"
+      },
+      {
+        "en": "Please write your name neatly.",
+        "cn": "请把你的名字写整齐。"
+      }
+    ]
+  },
+  {
+    "en": "never",
+    "cn": "从不；永远不",
+    "phonetic": "/ˈnevər/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "I have never seen snow before.",
+        "cn": "我以前从没见过雪。"
+      },
+      {
+        "en": "Never give up on your dreams.",
+        "cn": "永远不要放弃你的梦想。"
+      }
+    ]
+  },
+  {
+    "en": "ninety",
+    "cn": "九十",
+    "phonetic": "/ˈnaɪnti/",
+    "pos": "num.",
+    "examples": [
+      {
+        "en": "My great-grandma lived to be ninety.",
+        "cn": "我的曾祖母活到了九十岁。"
+      },
+      {
+        "en": "There are ninety students in our grade.",
+        "cn": "我们年级有九十个学生。"
+      }
+    ]
+  },
+  {
+    "en": "number",
+    "cn": "数字；号码",
+    "phonetic": "/ˈnʌmbər/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "What is your phone number?",
+        "cn": "你的电话号码是多少？"
+      },
+      {
+        "en": "Seven is my lucky number.",
+        "cn": "七是我的幸运数字。"
+      }
+    ]
+  },
+  {
+    "en": "online",
+    "cn": "在线的；网上的",
+    "phonetic": "/ˌɑːnˈlaɪn/",
+    "pos": "adj./adv.",
+    "examples": [
+      {
+        "en": "We can take online classes at home.",
+        "cn": "我们可以在家上网课。"
+      },
+      {
+        "en": "She likes to read stories online.",
+        "cn": "她喜欢在网上读故事。"
+      }
+    ]
+  },
+  {
+    "en": "options",
+    "cn": "选项；选择",
+    "phonetic": "/ˈɑːpʃənz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "There are three options for lunch today.",
+        "cn": "今天午餐有三个选项。"
+      },
+      {
+        "en": "You have two options: red or blue.",
+        "cn": "你有两个选择：红色或蓝色。"
+      }
+    ],
+    "synonyms": [
+      "choices"
+    ],
+    "synonymDiff": "choices强调做选择的行为, options强调可供选择的选项本身。"
+  },
+  {
+    "en": "our",
+    "cn": "我们的",
+    "phonetic": "/aʊər/",
+    "pos": "pron.",
+    "examples": [
+      {
+        "en": "This is our classroom.",
+        "cn": "这是我们的教室。"
+      },
+      {
+        "en": "Our dog likes to play in the yard.",
+        "cn": "我们的狗喜欢在院子里玩。"
+      }
+    ]
+  },
+  {
+    "en": "own",
+    "cn": "自己的；拥有",
+    "phonetic": "/oʊn/",
+    "pos": "adj./v.",
+    "examples": [
+      {
+        "en": "I have my own room at home.",
+        "cn": "我在家有自己的房间。"
+      },
+      {
+        "en": "She owns a cute little rabbit.",
+        "cn": "她拥有一只可爱的小兔子。"
+      }
+    ]
+  },
+  {
+    "en": "patience",
+    "cn": "耐心",
+    "phonetic": "/ˈpeɪʃəns/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Learning to draw takes a lot of patience.",
+        "cn": "学画画需要很多耐心。"
+      },
+      {
+        "en": "Thank you for your patience.",
+        "cn": "谢谢你的耐心。"
+      }
+    ]
+  },
+  {
+    "en": "percentage",
+    "cn": "百分比",
+    "phonetic": "/pərˈsentɪdʒ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "A large percentage of kids like ice cream.",
+        "cn": "很大比例的孩子喜欢冰淇淋。"
+      },
+      {
+        "en": "What percentage of the pie is left?",
+        "cn": "这个派还剩百分之多少？"
+      }
+    ]
+  },
+  {
+    "en": "perfect",
+    "cn": "完美的",
+    "phonetic": "/ˈpɜːrfɪkt/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "You drew a perfect circle!",
+        "cn": "你画了一个完美的圆！"
+      },
+      {
+        "en": "This is a perfect day for a picnic.",
+        "cn": "今天是野餐的完美日子。"
+      }
+    ],
+    "synonyms": [
+      "ideal"
+    ],
+    "synonymDiff": "ideal侧重理想中最好的状态，perfect侧重没有任何缺点。"
+  },
+  {
+    "en": "place",
+    "cn": "地方；放置",
+    "phonetic": "/pleɪs/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "This is a nice place to play.",
+        "cn": "这是一个玩耍的好地方。"
+      },
+      {
+        "en": "Please place the book on the table.",
+        "cn": "请把书放在桌子上。"
+      }
+    ],
+    "synonyms": [
+      "spot"
+    ],
+    "synonymDiff": "spot侧重某个具体的小位置，place侧重更大或更一般的地方。"
+  },
+  {
+    "en": "point",
+    "cn": "指；点；要点",
+    "phonetic": "/pɔɪnt/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "Can you point to the red ball?",
+        "cn": "你能指一下那个红色的球吗？"
+      },
+      {
+        "en": "I got ten points in the game.",
+        "cn": "我在游戏中得了十分。"
+      }
+    ]
+  },
+  {
+    "en": "points",
+    "cn": "分数；要点",
+    "phonetic": "/pɔɪnts/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Our team scored twenty points!",
+        "cn": "我们队得了二十分！"
+      },
+      {
+        "en": "The teacher made three important points.",
+        "cn": "老师讲了三个重要的要点。"
+      }
+    ]
+  },
+  {
+    "en": "popped",
+    "cn": "砰地爆开了",
+    "phonetic": "/pɑːpt/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The balloon popped with a loud bang.",
+        "cn": "气球砰的一声爆了。"
+      },
+      {
+        "en": "Dad popped some popcorn for us.",
+        "cn": "爸爸给我们爆了一些爆米花。"
+      }
+    ]
+  },
+  {
+    "en": "powers",
+    "cn": "力量；超能力",
+    "phonetic": "/ˈpaʊərz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Superheroes have special powers.",
+        "cn": "超级英雄有特殊的超能力。"
+      },
+      {
+        "en": "Reading gives you great powers.",
+        "cn": "阅读给你巨大的力量。"
+      }
+    ]
+  },
+  {
+    "en": "preserved",
+    "cn": "保存的；保护的",
+    "phonetic": "/prɪˈzɜːrvd/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The fruit is preserved in a jar.",
+        "cn": "水果保存在罐子里。"
+      },
+      {
+        "en": "The old toy was well preserved.",
+        "cn": "那个旧玩具保存得很好。"
+      }
+    ]
+  },
+  {
+    "en": "print",
+    "cn": "打印；印刷",
+    "phonetic": "/prɪnt/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "Can you print your name on the paper?",
+        "cn": "你能在纸上写上你的名字吗？"
+      },
+      {
+        "en": "Mom will print the picture for you.",
+        "cn": "妈妈会帮你把图片打印出来。"
+      }
+    ]
+  },
+  {
+    "en": "problem",
+    "cn": "问题；难题",
+    "phonetic": "/ˈprɑːbləm/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Can you solve this math problem?",
+        "cn": "你能解这道数学题吗？"
+      },
+      {
+        "en": "No problem! I can help you.",
+        "cn": "没问题！我可以帮你。"
+      }
+    ],
+    "synonyms": [
+      "trouble"
+    ],
+    "synonymDiff": "trouble侧重麻烦和困扰，problem侧重需要解决的具体问题。"
+  },
+  {
+    "en": "problems",
+    "cn": "问题（复数）",
+    "phonetic": "/ˈprɑːbləmz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I finished all the math problems.",
+        "cn": "我做完了所有的数学题。"
+      },
+      {
+        "en": "We can fix these problems together.",
+        "cn": "我们可以一起解决这些问题。"
+      }
+    ]
+  },
+  {
+    "en": "produce",
+    "cn": "生产；制造",
+    "phonetic": "/prəˈduːs/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Hens produce eggs every day.",
+        "cn": "母鸡每天产蛋。"
+      },
+      {
+        "en": "Trees produce oxygen for us.",
+        "cn": "树木为我们产生氧气。"
+      }
+    ],
+    "synonyms": [
+      "make"
+    ],
+    "synonymDiff": "make侧重动手做出东西，produce侧重通过过程生产出成果。"
+  },
+  {
+    "en": "pumps",
+    "cn": "泵；打气",
+    "phonetic": "/pʌmps/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "Dad pumps air into the bicycle tire.",
+        "cn": "爸爸给自行车轮胎打气。"
+      },
+      {
+        "en": "The water pumps are very useful.",
+        "cn": "这些水泵非常有用。"
+      }
+    ]
+  },
+  {
+    "en": "quickly",
+    "cn": "快速地",
+    "phonetic": "/ˈkwɪkli/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "The rabbit runs very quickly.",
+        "cn": "兔子跑得非常快。"
+      },
+      {
+        "en": "Please eat your breakfast quickly.",
+        "cn": "请快点吃你的早餐。"
+      }
+    ],
+    "synonyms": [
+      "fast",
+      "rapidly"
+    ],
+    "synonymDiff": "fast既可作副词也可作形容词，quickly只作副词，rapidly更正式。"
+  },
+  {
+    "en": "raise",
+    "cn": "举起；提高",
+    "phonetic": "/reɪz/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Raise your hand if you know the answer.",
+        "cn": "如果你知道答案就举手。"
+      },
+      {
+        "en": "The farmer raises chickens on the farm.",
+        "cn": "农民在农场养鸡。"
+      }
+    ],
+    "synonyms": [
+      "lift"
+    ],
+    "synonymDiff": "lift侧重把东西从低处搬到高处，raise侧重把东西升高或培养。"
+  },
+  {
+    "en": "reach",
+    "cn": "到达；够到",
+    "phonetic": "/riːtʃ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I can't reach the top shelf.",
+        "cn": "我够不到最上面的架子。"
+      },
+      {
+        "en": "We will reach the park in five minutes.",
+        "cn": "我们五分钟后到达公园。"
+      }
+    ]
+  },
+  {
+    "en": "risks",
+    "cn": "风险；冒险",
+    "phonetic": "/rɪsks/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Climbing too high has risks.",
+        "cn": "爬太高是有风险的。"
+      },
+      {
+        "en": "We should know the risks before we start.",
+        "cn": "我们在开始之前应该了解风险。"
+      }
+    ],
+    "synonyms": [
+      "dangers"
+    ],
+    "synonymDiff": "dangers侧重已经存在的危险，risks侧重可能发生坏事的可能性。"
+  },
+  {
+    "en": "rope",
+    "cn": "绳子",
+    "phonetic": "/roʊp/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "We jump rope at recess.",
+        "cn": "我们在课间跳绳。"
+      },
+      {
+        "en": "Hold the rope tightly!",
+        "cn": "紧紧抓住绳子！"
+      }
+    ]
+  },
+  {
+    "en": "runny",
+    "cn": "流鼻涕的；稀的",
+    "phonetic": "/ˈrʌni/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "I have a runny nose today.",
+        "cn": "我今天流鼻涕。"
+      },
+      {
+        "en": "The egg is too runny.",
+        "cn": "这个鸡蛋太稀了。"
+      }
+    ]
+  },
+  {
+    "en": "seek",
+    "cn": "寻找；寻求",
+    "phonetic": "/siːk/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Let's play hide and seek!",
+        "cn": "我们来玩捉迷藏吧！"
+      },
+      {
+        "en": "The bird seeks food in the garden.",
+        "cn": "小鸟在花园里寻找食物。"
+      }
+    ],
+    "synonyms": [
+      "search"
+    ],
+    "synonymDiff": "search侧重仔细查找某个地方，seek侧重努力追寻目标。"
+  },
+  {
+    "en": "sent",
+    "cn": "发送了；寄了",
+    "phonetic": "/sent/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "I sent a letter to Grandma.",
+        "cn": "我给奶奶寄了一封信。"
+      },
+      {
+        "en": "Mom sent me to buy some milk.",
+        "cn": "妈妈让我去买牛奶。"
+      }
+    ]
+  },
+  {
+    "en": "serious",
+    "cn": "严肃的；认真的",
+    "phonetic": "/ˈsɪriəs/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The teacher looks very serious today.",
+        "cn": "老师今天看起来很严肃。"
+      },
+      {
+        "en": "Are you serious about learning piano?",
+        "cn": "你是认真想学钢琴的吗？"
+      }
+    ]
+  },
+  {
+    "en": "set",
+    "cn": "放置；设置；一套",
+    "phonetic": "/set/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "Please set the cups on the table.",
+        "cn": "请把杯子放在桌上。"
+      },
+      {
+        "en": "I got a new set of crayons.",
+        "cn": "我得到了一套新蜡笔。"
+      }
+    ]
+  },
+  {
+    "en": "shopping",
+    "cn": "购物",
+    "phonetic": "/ˈʃɑːpɪŋ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "We go shopping every weekend.",
+        "cn": "我们每个周末去购物。"
+      },
+      {
+        "en": "Mom made a shopping list.",
+        "cn": "妈妈列了一份购物清单。"
+      }
+    ]
+  },
+  {
+    "en": "ski",
+    "cn": "滑雪",
+    "phonetic": "/skiː/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "We learned to ski in the mountains.",
+        "cn": "我们在山上学滑雪。"
+      },
+      {
+        "en": "She put on her skis and went down the hill.",
+        "cn": "她穿上滑雪板滑下山坡。"
+      }
+    ]
+  },
+  {
+    "en": "slowly",
+    "cn": "慢慢地",
+    "phonetic": "/ˈsloʊli/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "The turtle walks slowly.",
+        "cn": "乌龟走得很慢。"
+      },
+      {
+        "en": "Please read slowly so I can follow.",
+        "cn": "请慢慢读，这样我能跟上。"
+      }
+    ]
+  },
+  {
+    "en": "smells",
+    "cn": "闻起来；气味",
+    "phonetic": "/smelz/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "The flower smells so sweet.",
+        "cn": "这朵花闻起来好香。"
+      },
+      {
+        "en": "The cake smells delicious!",
+        "cn": "蛋糕闻起来好好吃！"
+      }
+    ]
+  },
+  {
+    "en": "solve",
+    "cn": "解决；解答",
+    "phonetic": "/sɑːlv/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Can you solve this puzzle?",
+        "cn": "你能解开这个谜题吗？"
+      },
+      {
+        "en": "Let's work together to solve the problem.",
+        "cn": "我们一起来解决这个问题。"
+      }
+    ]
+  },
+  {
+    "en": "song",
+    "cn": "歌曲",
+    "phonetic": "/sɔːŋ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Let's sing a song together.",
+        "cn": "我们一起唱首歌吧。"
+      },
+      {
+        "en": "That is my favorite song.",
+        "cn": "那是我最喜欢的歌。"
+      }
+    ]
+  },
+  {
+    "en": "speak",
+    "cn": "说话；讲",
+    "phonetic": "/spiːk/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Please speak louder, I can't hear you.",
+        "cn": "请说大声点，我听不到你。"
+      },
+      {
+        "en": "She can speak two languages.",
+        "cn": "她会说两种语言。"
+      }
+    ],
+    "synonyms": [
+      "talk"
+    ],
+    "synonymDiff": "talk侧重日常交谈、聊天，speak侧重正式地讲或具备语言能力。"
+  },
+  {
+    "en": "spell",
+    "cn": "拼写",
+    "phonetic": "/spel/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "Can you spell your name?",
+        "cn": "你能拼写你的名字吗？"
+      },
+      {
+        "en": "I learned to spell ten new words today.",
+        "cn": "我今天学会了拼写十个新单词。"
+      }
+    ]
+  },
+  {
+    "en": "starts",
+    "cn": "开始",
+    "phonetic": "/stɑːrts/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "School starts at eight o'clock.",
+        "cn": "学校八点开始上课。"
+      },
+      {
+        "en": "The movie starts in five minutes.",
+        "cn": "电影五分钟后开始。"
+      }
+    ],
+    "synonyms": [
+      "begins"
+    ],
+    "synonymDiff": "begins更正式一些，starts更口语化，日常生活中更常用。"
+  },
+  {
+    "en": "statement",
+    "cn": "陈述；声明",
+    "phonetic": "/ˈsteɪtmənt/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "I like dogs is a statement.",
+        "cn": "「我喜欢狗」是一个陈述句。"
+      },
+      {
+        "en": "The teacher asked us to write a statement.",
+        "cn": "老师让我们写一句陈述句。"
+      }
+    ]
+  },
+  {
+    "en": "step",
+    "cn": "步；踏；台阶",
+    "phonetic": "/step/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "Take one step forward.",
+        "cn": "向前迈一步。"
+      },
+      {
+        "en": "Be careful on the steps!",
+        "cn": "在台阶上要小心！"
+      }
+    ]
+  },
+  {
+    "en": "steps",
+    "cn": "步骤；台阶",
+    "phonetic": "/steps/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Follow these three steps to make a cake.",
+        "cn": "按照这三个步骤来做蛋糕。"
+      },
+      {
+        "en": "There are ten steps to the door.",
+        "cn": "到门口有十级台阶。"
+      }
+    ]
+  },
+  {
+    "en": "still",
+    "cn": "仍然；静止的",
+    "phonetic": "/stɪl/",
+    "pos": "adv./adj.",
+    "examples": [
+      {
+        "en": "Are you still hungry?",
+        "cn": "你还饿吗？"
+      },
+      {
+        "en": "Please sit still for the photo.",
+        "cn": "拍照的时候请坐着不要动。"
+      }
+    ]
+  },
+  {
+    "en": "stomp",
+    "cn": "跺脚；重踏",
+    "phonetic": "/stɑːmp/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The elephants stomp through the jungle.",
+        "cn": "大象在丛林中重重地踏步。"
+      },
+      {
+        "en": "Don't stomp your feet on the floor!",
+        "cn": "不要在地板上跺脚！"
+      }
+    ],
+    "synonyms": [
+      "stamp"
+    ],
+    "synonymDiff": "stamp侧重用脚用力踩某个地方，stomp侧重大声地跺脚走路。"
+  },
+  {
+    "en": "subject",
+    "cn": "科目；主题",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Math is my favorite subject.",
+        "cn": "数学是我最喜欢的科目。"
+      },
+      {
+        "en": "What is the subject of this book?",
+        "cn": "这本书的主题是什么？"
+      }
+    ],
+    "synonyms": [
+      "topic"
+    ],
+    "synonymDiff": "topic侧重谈话或文章的话题，subject侧重学科或更正式的主题。"
+  },
+  {
+    "en": "successful",
+    "cn": "成功的",
+    "phonetic": "/səkˈsesfəl/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "The science experiment was successful!",
+        "cn": "科学实验成功了！"
+      },
+      {
+        "en": "She is a successful student.",
+        "cn": "她是一个成功的学生。"
+      }
+    ]
+  },
+  {
+    "en": "sure",
+    "cn": "确定的；当然",
+    "phonetic": "/ʃʊr/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "Are you sure this is the right way?",
+        "cn": "你确定这是对的路吗？"
+      },
+      {
+        "en": "Sure, I will help you!",
+        "cn": "当然，我会帮你的！"
+      }
+    ],
+    "synonyms": [
+      "certain"
+    ],
+    "synonymDiff": "certain更正式、更强调有把握，sure更口语化、更随意。"
+  },
+  {
+    "en": "surprise",
+    "cn": "惊喜；使吃惊",
+    "phonetic": "/sərˈpraɪz/",
+    "pos": "n./v.",
+    "examples": [
+      {
+        "en": "We planned a surprise for Mom's birthday.",
+        "cn": "我们为妈妈的生日准备了惊喜。"
+      },
+      {
+        "en": "The gift was a big surprise!",
+        "cn": "这个礼物真是一个大惊喜！"
+      }
+    ]
+  },
+  {
+    "en": "tang",
+    "cn": "强烈的味道；酸味",
+    "phonetic": "/tæŋ/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "The lemon has a sharp tang.",
+        "cn": "这个柠檬有一股强烈的酸味。"
+      },
+      {
+        "en": "I like the tang of orange juice.",
+        "cn": "我喜欢橙汁那种酸酸的味道。"
+      }
+    ]
+  },
+  {
+    "en": "things",
+    "cn": "东西；事情",
+    "phonetic": "/θɪŋz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Put your things in your bag.",
+        "cn": "把你的东西放进书包。"
+      },
+      {
+        "en": "There are many fun things to do here.",
+        "cn": "这里有很多好玩的事情可以做。"
+      }
+    ]
+  },
+  {
+    "en": "travel",
+    "cn": "旅行",
+    "phonetic": "/ˈtrævəl/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "I want to travel around the world.",
+        "cn": "我想环游世界。"
+      },
+      {
+        "en": "We travel to Grandma's house every summer.",
+        "cn": "我们每年夏天去奶奶家。"
+      }
+    ],
+    "synonyms": [
+      "journey"
+    ],
+    "synonymDiff": "journey侧重一段较长的旅程，travel侧重旅行这个行为本身。"
+  },
+  {
+    "en": "treating",
+    "cn": "对待；治疗；请客",
+    "phonetic": "/ˈtriːtɪŋ/",
+    "pos": "v.",
+    "examples": [
+      {
+        "en": "The doctor is treating my cold.",
+        "cn": "医生在治疗我的感冒。"
+      },
+      {
+        "en": "Dad is treating us to ice cream.",
+        "cn": "爸爸请我们吃冰淇淋。"
+      }
+    ]
+  },
+  {
+    "en": "twist",
+    "cn": "扭；转动",
+    "phonetic": "/twɪst/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "Twist the cap to open the bottle.",
+        "cn": "扭开瓶盖。"
+      },
+      {
+        "en": "The story has a funny twist at the end.",
+        "cn": "这个故事结尾有个有趣的转折。"
+      }
+    ]
+  },
+  {
+    "en": "unexpected",
+    "cn": "意想不到的",
+    "phonetic": "/ˌʌnɪkˈspektɪd/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "We had an unexpected visitor today.",
+        "cn": "今天我们来了一位意想不到的客人。"
+      },
+      {
+        "en": "The rain was unexpected.",
+        "cn": "这场雨出乎意料。"
+      }
+    ],
+    "synonyms": [
+      "surprising"
+    ],
+    "synonymDiff": "surprising侧重让人吃惊的感受，unexpected侧重事先没有预料到。"
+  },
+  {
+    "en": "use",
+    "cn": "使用；用",
+    "phonetic": "/juːz/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "Can I use your pencil?",
+        "cn": "我能用一下你的铅笔吗？"
+      },
+      {
+        "en": "Use a spoon to eat the soup.",
+        "cn": "用勺子喝汤。"
+      }
+    ]
+  },
+  {
+    "en": "vegetables",
+    "cn": "蔬菜",
+    "phonetic": "/ˈvedʒtəbəlz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "Eat your vegetables, they are good for you.",
+        "cn": "吃蔬菜，它们对你有好处。"
+      },
+      {
+        "en": "We grow vegetables in our garden.",
+        "cn": "我们在花园里种蔬菜。"
+      }
+    ]
+  },
+  {
+    "en": "very",
+    "cn": "非常；很",
+    "phonetic": "/ˈveri/",
+    "pos": "adv.",
+    "examples": [
+      {
+        "en": "The puppy is very cute.",
+        "cn": "这只小狗非常可爱。"
+      },
+      {
+        "en": "I am very happy today.",
+        "cn": "我今天很开心。"
+      }
+    ]
+  },
+  {
+    "en": "visit",
+    "cn": "拜访；参观",
+    "phonetic": "/ˈvɪzɪt/",
+    "pos": "v./n.",
+    "examples": [
+      {
+        "en": "We visit Grandma every Sunday.",
+        "cn": "我们每个星期天去看奶奶。"
+      },
+      {
+        "en": "Let's visit the zoo this weekend.",
+        "cn": "我们这个周末去参观动物园吧。"
+      }
+    ]
+  },
+  {
+    "en": "ways",
+    "cn": "方式；方法",
+    "phonetic": "/weɪz/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "There are many ways to say hello.",
+        "cn": "打招呼有很多种方式。"
+      },
+      {
+        "en": "We found two ways to solve the puzzle.",
+        "cn": "我们找到了两种解谜的方法。"
+      }
+    ]
+  },
+  {
+    "en": "well",
+    "cn": "好地；健康的；井",
+    "phonetic": "/wel/",
+    "pos": "adv./adj./n.",
+    "examples": [
+      {
+        "en": "You sing very well!",
+        "cn": "你唱得非常好！"
+      },
+      {
+        "en": "I don't feel well today.",
+        "cn": "我今天感觉不舒服。"
+      }
+    ]
+  },
+  {
+    "en": "world",
+    "cn": "世界",
+    "phonetic": "/wɜːrld/",
+    "pos": "n.",
+    "examples": [
+      {
+        "en": "There are many animals in the world.",
+        "cn": "世界上有许多动物。"
+      },
+      {
+        "en": "She wants to travel the world.",
+        "cn": "她想去环游世界。"
+      }
+    ]
+  },
+  {
+    "en": "wrong",
+    "cn": "错误的",
+    "phonetic": "/rɔːŋ/",
+    "pos": "adj.",
+    "examples": [
+      {
+        "en": "This answer is wrong. Try again.",
+        "cn": "这个答案是错的。再试一次。"
+      },
+      {
+        "en": "What's wrong? Are you sad?",
+        "cn": "怎么了？你不开心吗？"
+      }
+    ]
+  },
+  {
+    "en": "like",
+    "cn": "喜欢；像",
+    "phonetic": "/laɪk/",
+    "pos": "v./prep.",
+    "examples": [
+      {
+        "en": "I like to eat apples.",
+        "cn": "我喜欢吃苹果。"
+      },
+      {
+        "en": "She runs fast like a cheetah.",
+        "cn": "她跑得像猎豹一样快。"
+      }
+    ]
+  },
+  {
+    "en": "as",
+    "cn": "作为；当……时；像……一样",
+    "phonetic": "/æz/",
+    "pos": "conj./prep.",
+    "examples": [
+      {
+        "en": "She works as a teacher.",
+        "cn": "她作为一名老师工作。"
+      },
+      {
+        "en": "As I walked home, it started to rain.",
+        "cn": "当我走回家时，开始下雨了。"
+      }
+    ]
+  }
+]

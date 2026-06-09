@@ -6,12 +6,20 @@ import { renderMastered } from './stages/mastered.js';
 const app = document.getElementById('app');
 
 let levelData = {};
+let dictData = null;
 
 export async function getLevelData(level) {
   if (levelData[level]) return levelData[level];
   const res = await fetch(`./data/level-${level}.json`);
   levelData[level] = await res.json();
   return levelData[level];
+}
+
+export async function getDictData() {
+  if (dictData) return dictData;
+  const res = await fetch('./data/dict.json');
+  dictData = await res.json();
+  return dictData;
 }
 
 const routes = {

@@ -2435,7 +2435,8 @@
               ],
               "synonyms": [
                 "grandfather"
-              ]
+              ],
+              "synonymDiff": "grandpa是口语称呼，grandfather是正式说法"
             },
             {
               "en": "baby",
@@ -2626,7 +2627,8 @@
               ],
               "synonyms": [
                 "lad"
-              ]
+              ],
+              "synonymDiff": "boy泛指男孩，lad偏英式口语"
             },
             {
               "en": "girl",
@@ -3699,7 +3701,8 @@
               ],
               "synonyms": [
                 "sense"
-              ]
+              ],
+              "synonymDiff": "feel侧重感觉体验，sense偏理性感知"
             },
             {
               "en": "strong",
@@ -3719,7 +3722,8 @@
               ],
               "synonyms": [
                 "powerful"
-              ]
+              ],
+              "synonymDiff": "strong强调力气大，powerful强调力量和影响力"
             },
             {
               "en": "tall",
@@ -4541,7 +4545,8 @@
               ],
               "synonyms": [
                 "fresh"
-              ]
+              ],
+              "synonymDiff": "new指新的、刚有的，fresh指新鲜的"
             },
             {
               "en": "old",
@@ -4560,7 +4565,8 @@
               ],
               "synonyms": [
                 "ancient"
-              ]
+              ],
+              "synonymDiff": "old指旧的或年老，ancient指非常古老的"
             },
             {
               "en": "pretty",
@@ -5273,7 +5279,8 @@
               ],
               "synonyms": [
                 "soon"
-              ]
+              ],
+              "synonymDiff": "early指时间早，soon指不久之后"
             },
             {
               "en": "late",
@@ -5310,7 +5317,8 @@
               "synonyms": [
                 "drowsy",
                 "tired"
-              ]
+              ],
+              "synonymDiff": "sleepy想睡觉，drowsy昏昏欲睡，tired疲劳"
             },
             {
               "en": "awake",
@@ -6094,7 +6102,8 @@
               ],
               "synonyms": [
                 "tale"
-              ]
+              ],
+              "synonymDiff": "story泛指故事，tale偏文学性或传说"
             },
             {
               "en": "book",
@@ -6383,7 +6392,8 @@
               ],
               "synonyms": [
                 "dim"
-              ]
+              ],
+              "synonymDiff": "dark指黑暗，dim指光线昏暗微弱"
             },
             {
               "en": "quiet",
@@ -6446,7 +6456,8 @@
               "synonyms": [
                 "drowsy",
                 "tired"
-              ]
+              ],
+              "synonymDiff": "sleepy想睡觉，drowsy昏昏欲睡，tired疲劳"
             },
             {
               "en": "scared",
@@ -6487,7 +6498,8 @@
               ],
               "synonyms": [
                 "secure"
-              ]
+              ],
+              "synonymDiff": "safe日常口语用，secure更正式、强调防护"
             },
             {
               "en": "night",
@@ -7185,7 +7197,8 @@
               ],
               "synonyms": [
                 "sketch"
-              ]
+              ],
+              "synonymDiff": "draw泛指画画，sketch指快速素描"
             },
             {
               "en": "build",
@@ -7204,7 +7217,8 @@
               ],
               "synonyms": [
                 "construct"
-              ]
+              ],
+              "synonymDiff": "build日常口语建造，construct正式用语"
             },
             {
               "en": "push",
@@ -7734,7 +7748,8 @@
               ],
               "synonyms": [
                 "discover"
-              ]
+              ],
+              "synonymDiff": "find指找到，discover强调首次发现"
             },
             {
               "en": "get",
@@ -7818,7 +7833,8 @@
               "synonyms": [
                 "grip",
                 "grasp"
-              ]
+              ],
+              "synonymDiff": "hold泛指拿着，grip/grasp强调紧紧抓住"
             },
             {
               "en": "make",
@@ -7837,7 +7853,8 @@
               ],
               "synonyms": [
                 "create"
-              ]
+              ],
+              "synonymDiff": "make泛指做、制作，create强调创造"
             },
             {
               "en": "pick",
@@ -7877,7 +7894,8 @@
               ],
               "synonyms": [
                 "place"
-              ]
+              ],
+              "synonymDiff": "put口语放置，place更正式、强调位置"
             },
             {
               "en": "say",
@@ -8426,7 +8444,8 @@
               ],
               "synonyms": [
                 "stone"
-              ]
+              ],
+              "synonymDiff": "rock可指岩石也可指摇晃，stone专指石头"
             },
             {
               "en": "water",
@@ -8611,7 +8630,8 @@
               ],
               "synonyms": [
                 "road"
-              ]
+              ],
+              "synonymDiff": "street指城市街道，road泛指道路"
             },
             {
               "en": "home",
@@ -9180,7 +9200,8 @@
               ],
               "synonyms": [
                 "woods"
-              ]
+              ],
+              "synonymDiff": "forest指大片森林，woods指小树林"
             },
             {
               "en": "picnic",
@@ -9466,7 +9487,8 @@
               ],
               "synonyms": [
                 "rock"
-              ]
+              ],
+              "synonymDiff": "stone偏小石块，rock偏大岩石"
             },
             {
               "en": "hose",
@@ -9695,7 +9717,8 @@
               ],
               "synonyms": [
                 "plane"
-              ]
+              ],
+              "synonymDiff": "airplane是完整说法，plane是日常简称"
             },
             {
               "en": "boat",
@@ -9736,7 +9759,8 @@
               ],
               "synonyms": [
                 "bike"
-              ]
+              ],
+              "synonymDiff": "bicycle是完整说法，bike是日常简称"
             },
             {
               "en": "motorcycle",
@@ -9790,7 +9814,8 @@
               ],
               "synonyms": [
                 "cab"
-              ]
+              ],
+              "synonymDiff": "taxi较通用，cab偏美式口语"
             }
           ],
           "sentences": [
@@ -9970,7 +9995,8 @@
               ],
               "synonyms": [
                 "metro"
-              ]
+              ],
+              "synonymDiff": "subway是美式说法，metro偏欧洲用法"
             },
             {
               "en": "rocket",
@@ -12150,7 +12176,8 @@
               ],
               "synonyms": [
                 "weighty"
-              ]
+              ],
+              "synonymDiff": "heavy日常说重，weighty更正式或比喻义"
             },
             {
               "en": "light",
@@ -12185,7 +12212,8 @@
               ],
               "synonyms": [
                 "fat"
-              ]
+              ],
+              "synonymDiff": "thick指厚或粗，fat特指人胖或物体肥厚"
             },
             {
               "en": "thin",
@@ -12205,7 +12233,8 @@
               "synonyms": [
                 "slim",
                 "skinny"
-              ]
+              ],
+              "synonymDiff": "thin泛指瘦/薄，slim身材苗条，skinny偏瘦弱"
             },
             {
               "en": "same",
@@ -12224,7 +12253,8 @@
               ],
               "synonyms": [
                 "identical"
-              ]
+              ],
+              "synonymDiff": "same日常说相同，identical强调完全一模一样"
             },
             {
               "en": "different",
@@ -12276,7 +12306,8 @@
               ],
               "synonyms": [
                 "fewer"
-              ]
+              ],
+              "synonymDiff": "less修饰不可数名词，fewer修饰可数名词"
             }
           ],
           "sentences": [
@@ -12440,7 +12471,8 @@
               ],
               "synonyms": [
                 "timid"
-              ]
+              ],
+              "synonymDiff": "shy指害羞，timid强调胆小怯懦"
             },
             {
               "en": "excited",
@@ -12460,7 +12492,8 @@
               ],
               "synonyms": [
                 "thrilled"
-              ]
+              ],
+              "synonymDiff": "excited日常说兴奋，thrilled非常激动兴奋"
             },
             {
               "en": "surprised",
@@ -12502,7 +12535,8 @@
               "synonyms": [
                 "anxious",
                 "concerned"
-              ]
+              ],
+              "synonymDiff": "worried日常担心，anxious焦虑，concerned关切"
             },
             {
               "en": "lonely",
@@ -12557,7 +12591,8 @@
               ],
               "synonyms": [
                 "envious"
-              ]
+              ],
+              "synonymDiff": "jealous含占有欲的嫉妒，envious羡慕嫉妒"
             }
           ],
           "sentences": [
@@ -12742,7 +12777,8 @@
               "synonyms": [
                 "drowsy",
                 "tired"
-              ]
+              ],
+              "synonymDiff": "sleepy想睡觉，drowsy昏昏欲睡，tired疲劳"
             }
           ],
           "sentences": [
@@ -12892,7 +12928,8 @@
               ],
               "synonyms": [
                 "believe"
-              ]
+              ],
+              "synonymDiff": "think泛指想，believe强调相信、认为"
             },
             {
               "en": "try",
@@ -12911,7 +12948,8 @@
               ],
               "synonyms": [
                 "attempt"
-              ]
+              ],
+              "synonymDiff": "try口语说尝试，attempt更正式"
             },
             {
               "en": "good",
@@ -12931,7 +12969,8 @@
               "synonyms": [
                 "great",
                 "nice"
-              ]
+              ],
+              "synonymDiff": "good泛指好，great很棒，nice友善或令人愉快"
             },
             {
               "en": "bad",
@@ -12992,7 +13031,8 @@
               ],
               "synonyms": [
                 "courageous"
-              ]
+              ],
+              "synonymDiff": "brave口语说勇敢，courageous更正式庄重"
             }
           ],
           "sentences": [
@@ -13062,7 +13102,8 @@
               ],
               "synonyms": [
                 "demonstrate"
-              ]
+              ],
+              "synonymDiff": "show口语展示，demonstrate正式演示或证明"
             },
             {
               "en": "smile",
@@ -13255,7 +13296,8 @@
               "synonyms": [
                 "small",
                 "tiny"
-              ]
+              ],
+              "synonymDiff": "little强调小巧，small指尺寸小，tiny极小"
             },
             {
               "en": "nice",
@@ -13275,7 +13317,8 @@
               "synonyms": [
                 "kind",
                 "pleasant"
-              ]
+              ],
+              "synonymDiff": "nice泛指好/友善，kind善良，pleasant令人愉快"
             },
             {
               "en": "loud",
@@ -13315,7 +13358,8 @@
               ],
               "synonyms": [
                 "gentle"
-              ]
+              ],
+              "synonymDiff": "soft指柔软，gentle指温柔轻柔"
             },
             {
               "en": "broken",
@@ -13350,7 +13394,8 @@
               ],
               "synonyms": [
                 "vacant"
-              ]
+              ],
+              "synonymDiff": "empty日常说空的，vacant多指房间或职位空缺"
             },
             {
               "en": "better",
@@ -13407,7 +13452,8 @@
               "synonyms": [
                 "little",
                 "small"
-              ]
+              ],
+              "synonymDiff": "tiny极其小，little/small程度较轻"
             },
             {
               "en": "gentle",
@@ -13427,7 +13473,8 @@
               "synonyms": [
                 "soft",
                 "tender"
-              ]
+              ],
+              "synonymDiff": "gentle温柔，soft柔软，tender温柔体贴"
             },
             {
               "en": "mad",
@@ -13447,7 +13494,8 @@
               ],
               "synonyms": [
                 "angry"
-              ]
+              ],
+              "synonymDiff": "mad口语说生气或疯狂，angry专指生气"
             },
             {
               "en": "naughty",
@@ -13466,7 +13514,8 @@
               ],
               "synonyms": [
                 "mischievous"
-              ]
+              ],
+              "synonymDiff": "naughty指小孩淘气，mischievous更书面"
             },
             {
               "en": "noisy",
@@ -13533,7 +13582,8 @@
               ],
               "synonyms": [
                 "sleeping"
-              ]
+              ],
+              "synonymDiff": "asleep是形容词已睡着，sleeping是正在睡觉"
             },
             {
               "en": "allgone",
@@ -13568,7 +13618,8 @@
               ],
               "synonyms": [
                 "okay"
-              ]
+              ],
+              "synonymDiff": "fine较正式说还行，okay更口语化"
             },
             {
               "en": "first",
@@ -13603,7 +13654,8 @@
               ],
               "synonyms": [
                 "final"
-              ]
+              ],
+              "synonymDiff": "last可指上一个或最后，final专指最终的"
             },
             {
               "en": "poor",
@@ -13638,7 +13690,8 @@
               ],
               "synonyms": [
                 "goofy"
-              ]
+              ],
+              "synonymDiff": "silly指傻乎乎的，goofy更俏皮滑稽"
             },
             {
               "en": "scary",
@@ -13658,7 +13711,8 @@
               "synonyms": [
                 "frightening",
                 "creepy"
-              ]
+              ],
+              "synonymDiff": "scary口语说吓人，frightening正式，creepy令人毛骨悚然"
             },
             {
               "en": "ugly",
@@ -13694,7 +13748,8 @@
               "synonyms": [
                 "wild",
                 "insane"
-              ]
+              ],
+              "synonymDiff": "crazy口语说疯狂，wild狂野，insane更极端"
             },
             {
               "en": "mean",
@@ -13714,7 +13769,8 @@
               "synonyms": [
                 "unkind",
                 "nasty"
-              ]
+              ],
+              "synonymDiff": "mean口语说刻薄，unkind不友善，nasty更恶劣"
             },
             {
               "en": "terrible",
@@ -13734,7 +13790,8 @@
               "synonyms": [
                 "awful",
                 "horrible"
-              ]
+              ],
+              "synonymDiff": "terrible很糟糕，awful很可怕，horrible令人恐惧"
             }
           ],
           "sentences": [
@@ -13837,7 +13894,8 @@
               ],
               "synonyms": [
                 "restroom"
-              ]
+              ],
+              "synonymDiff": "bathroom家里的浴室/厕所，restroom公共洗手间"
             },
             {
               "en": "kitchen",
@@ -13922,7 +13980,8 @@
               ],
               "synonyms": [
                 "ground"
-              ]
+              ],
+              "synonymDiff": "floor指室内地板，ground指室外地面"
             },
             {
               "en": "wall",
@@ -13957,7 +14016,8 @@
               ],
               "synonyms": [
                 "steps"
-              ]
+              ],
+              "synonymDiff": "stairs指整段楼梯，steps可指台阶"
             },
             {
               "en": "balcony",
@@ -14036,7 +14096,8 @@
               ],
               "synonyms": [
                 "seat"
-              ]
+              ],
+              "synonymDiff": "chair指椅子，seat泛指座位"
             },
             {
               "en": "sofa",
@@ -14142,7 +14203,8 @@
               ],
               "synonyms": [
                 "television"
-              ]
+              ],
+              "synonymDiff": "TV是日常简称，television是完整正式说法"
             },
             {
               "en": "fan",
@@ -14257,7 +14319,8 @@
               ],
               "synonyms": [
                 "cellphone"
-              ]
+              ],
+              "synonymDiff": "phone泛指电话，cellphone特指手机"
             },
             {
               "en": "clock",
@@ -14439,7 +14502,8 @@
               ],
               "synonyms": [
                 "unlock"
-              ]
+              ],
+              "synonymDiff": "open泛指打开，unlock特指开锁"
             },
             {
               "en": "close",
@@ -14563,7 +14627,8 @@
               ],
               "synonyms": [
                 "repair"
-              ]
+              ],
+              "synonymDiff": "fix口语说修理，repair更正式"
             },
             {
               "en": "move",
@@ -14598,7 +14663,8 @@
               ],
               "synonyms": [
                 "hold"
-              ]
+              ],
+              "synonymDiff": "carry指搬运携带，hold指拿着握着"
             },
             {
               "en": "shut",
@@ -14617,7 +14683,8 @@
               ],
               "synonyms": [
                 "close"
-              ]
+              ],
+              "synonymDiff": "shut口语关上，close更通用"
             }
           ],
           "sentences": [
@@ -14775,7 +14842,8 @@
               ],
               "synonyms": [
                 "cash"
-              ]
+              ],
+              "synonymDiff": "money泛指钱，cash特指现金"
             },
             {
               "en": "picture",
@@ -14879,7 +14947,8 @@
               ],
               "synonyms": [
                 "pail"
-              ]
+              ],
+              "synonymDiff": "bucket和pail都指桶，pail偏美式或文学"
             },
             {
               "en": "broom",
@@ -15016,7 +15085,8 @@
               ],
               "synonyms": [
                 "handbag"
-              ]
+              ],
+              "synonymDiff": "purse美式指女士手提包，handbag更通用"
             },
             {
               "en": "hammer",
@@ -15327,7 +15397,8 @@
               ],
               "synonyms": [
                 "remain"
-              ]
+              ],
+              "synonymDiff": "stay口语说待着，remain更正式"
             },
             {
               "en": "wake",
@@ -15535,7 +15606,8 @@
               "synonyms": [
                 "bye",
                 "see you"
-              ]
+              ],
+              "synonymDiff": "goodbye正式告别，bye口语，see you下次见"
             },
             {
               "en": "please",
@@ -15591,7 +15663,8 @@
               ],
               "synonyms": [
                 "apologize"
-              ]
+              ],
+              "synonymDiff": "sorry是形容词抱歉，apologize是动词道歉"
             },
             {
               "en": "excuse me",
@@ -15747,7 +15820,8 @@
               ],
               "synonyms": [
                 "nope"
-              ]
+              ],
+              "synonymDiff": "no是正式否定，nope是口语随意说法"
             },
             {
               "en": "okay",
@@ -15901,7 +15975,8 @@
               ],
               "synonyms": [
                 "cautious"
-              ]
+              ],
+              "synonymDiff": "careful日常说小心，cautious更正式谨慎"
             },
             {
               "en": "hurry",
@@ -15920,7 +15995,8 @@
               ],
               "synonyms": [
                 "rush"
-              ]
+              ],
+              "synonymDiff": "hurry口语说快点，rush强调匆忙赶"
             },
             {
               "en": "quiet",
@@ -16503,7 +16579,8 @@
               ],
               "synonyms": [
                 "lots of"
-              ]
+              ],
+              "synonymDiff": "many较正式修饰可数，lots of口语化更随意"
             },
             {
               "en": "no",
@@ -16523,7 +16600,8 @@
               ],
               "synonyms": [
                 "nope"
-              ]
+              ],
+              "synonymDiff": "no是正式否定，nope是口语随意说法"
             },
             {
               "en": "not",
@@ -16865,7 +16943,8 @@
               "synonyms": [
                 "below",
                 "beneath"
-              ]
+              ],
+              "synonymDiff": "under在正下方，below在下面，beneath更书面"
             },
             {
               "en": "behind",
@@ -16900,7 +16979,8 @@
               ],
               "synonyms": [
                 "beside"
-              ]
+              ],
+              "synonymDiff": "next to口语说在旁边，beside较正式"
             },
             {
               "en": "up",
@@ -16920,7 +17000,8 @@
               ],
               "synonyms": [
                 "above"
-              ]
+              ],
+              "synonymDiff": "up向上/在上面，above在上方不接触"
             },
             {
               "en": "down",
@@ -16940,7 +17021,8 @@
               ],
               "synonyms": [
                 "below"
-              ]
+              ],
+              "synonymDiff": "down向下，below在下方"
             },
             {
               "en": "in front of",
@@ -17122,7 +17204,8 @@
               ],
               "synonyms": [
                 "however"
-              ]
+              ],
+              "synonymDiff": "but口语说但是，however更正式书面"
             },
             {
               "en": "or",
@@ -17157,7 +17240,8 @@
               ],
               "synonyms": [
                 "since"
-              ]
+              ],
+              "synonymDiff": "because口语说因为，since语气较轻"
             },
             {
               "en": "if",
@@ -17192,7 +17276,8 @@
               ],
               "synonyms": [
                 "therefore"
-              ]
+              ],
+              "synonymDiff": "so口语说所以，therefore更正式书面"
             },
             {
               "en": "then",
@@ -18010,7 +18095,8 @@
               ],
               "synonyms": [
                 "next to"
-              ]
+              ],
+              "synonymDiff": "beside在旁边，next to口语化更常用"
             },
             {
               "en": "by",
@@ -18332,7 +18418,8 @@
               ],
               "synonyms": [
                 "also"
-              ]
+              ],
+              "synonymDiff": "too口语说也，also更通用正式"
             }
           ],
           "sentences": [
@@ -18705,7 +18792,8 @@
               ],
               "synonyms": [
                 "till"
-              ]
+              ],
+              "synonymDiff": "until正式说直到，till口语简写"
             },
             {
               "en": "than",
@@ -18756,7 +18844,8 @@
               ],
               "synonyms": [
                 "although"
-              ]
+              ],
+              "synonymDiff": "though口语化，although更正式书面"
             },
             {
               "en": "till",

@@ -50,7 +50,8 @@
               ],
               "synonyms": [
                 "whiteboard"
-              ]
+              ],
+              "synonymDiff": "blackboard指黑板，whiteboard指白板，材质颜色不同"
             },
             {
               "en": "chalk",
@@ -119,7 +120,8 @@
               ],
               "synonyms": [
                 "school bag"
-              ]
+              ],
+              "synonymDiff": "backpack泛指双肩背包，school bag特指上学用的书包"
             },
             {
               "en": "lunchbox",
@@ -265,7 +267,8 @@
               ],
               "synonyms": [
                 "assignment"
-              ]
+              ],
+              "synonymDiff": "homework指家庭作业，assignment泛指老师布置的任务"
             },
             {
               "en": "recess",
@@ -326,7 +329,8 @@
               "synonyms": [
                 "score",
                 "mark"
-              ]
+              ],
+              "synonymDiff": "grade指等级成绩，score指具体分数，mark是英式说法"
             },
             {
               "en": "lesson",
@@ -345,7 +349,8 @@
               ],
               "synonyms": [
                 "class"
-              ]
+              ],
+              "synonymDiff": "lesson侧重一节课的内容，class侧重上课这个活动"
             },
             {
               "en": "project",
@@ -430,7 +435,8 @@
               "synonyms": [
                 "award",
                 "reward"
-              ]
+              ],
+              "synonymDiff": "prize指比赛奖品，award指正式奖项，reward指做事的回报"
             }
           ],
           "sentences": [
@@ -476,7 +482,8 @@
               ],
               "synonyms": [
                 "mathematics"
-              ]
+              ],
+              "synonymDiff": "math是日常口语缩写，mathematics是正式全称"
             },
             {
               "en": "science",
@@ -945,7 +952,8 @@
               ],
               "synonyms": [
                 "stalk"
-              ]
+              ],
+              "synonymDiff": "stem泛指植物的茎，stalk指较粗较长的茎秆"
             },
             {
               "en": "petal",
@@ -996,7 +1004,8 @@
               ],
               "synonyms": [
                 "shrub"
-              ]
+              ],
+              "synonymDiff": "bush是口语常用词，shrub更正式，常用于园艺"
             },
             {
               "en": "weed",
@@ -1137,7 +1146,8 @@
               ],
               "synonyms": [
                 "world"
-              ]
+              ],
+              "synonymDiff": "earth指地球这个星球，world侧重人类生活的世界"
             },
             {
               "en": "planet",
@@ -1172,7 +1182,8 @@
               ],
               "synonyms": [
                 "outer space"
-              ]
+              ],
+              "synonymDiff": "space泛指太空或空间，outer space特指外太空"
             },
             {
               "en": "astronaut",
@@ -1274,7 +1285,8 @@
               ],
               "synonyms": [
                 "cosmos"
-              ]
+              ],
+              "synonymDiff": "universe强调整个宇宙，cosmos更文学化、强调秩序"
             },
             {
               "en": "solar system",
@@ -1369,7 +1381,8 @@
               ],
               "synonyms": [
                 "bug"
-              ]
+              ],
+              "synonymDiff": "insect是正式科学用语，bug是口语泛指小虫子"
             },
             {
               "en": "habitat",
@@ -2165,7 +2178,8 @@
               ],
               "synonyms": [
                 "midday"
-              ]
+              ],
+              "synonymDiff": "noon和midday意思相同，noon更常用，midday较正式"
             },
             {
               "en": "midnight",
@@ -2274,7 +2288,8 @@
               ],
               "synonyms": [
                 "painter"
-              ]
+              ],
+              "synonymDiff": "artist泛指艺术家，painter特指画画的人"
             },
             {
               "en": "chef",
@@ -2331,7 +2346,8 @@
               ],
               "synonyms": [
                 "veterinarian"
-              ]
+              ],
+              "synonymDiff": "vet是口语缩写，veterinarian是兽医的正式全称"
             },
             {
               "en": "dentist",
@@ -2433,7 +2449,8 @@
               ],
               "synonyms": [
                 "trainer"
-              ]
+              ],
+              "synonymDiff": "coach侧重指导比赛战术，trainer侧重体能训练"
             }
           ],
           "sentences": [
@@ -2479,7 +2496,8 @@
               ],
               "synonyms": [
                 "community"
-              ]
+              ],
+              "synonymDiff": "neighborhood指居住的街区，community强调社区人群"
             },
             {
               "en": "post office",
@@ -2636,7 +2654,8 @@
               ],
               "synonyms": [
                 "drugstore"
-              ]
+              ],
+              "synonymDiff": "pharmacy较正式，drugstore是美式口语说法"
             },
             {
               "en": "hospital",
@@ -3037,7 +3056,8 @@
               ],
               "synonyms": [
                 "visitor"
-              ]
+              ],
+              "synonymDiff": "guest指受邀的客人，visitor泛指来访者"
             },
             {
               "en": "stranger",
@@ -3100,7 +3120,8 @@
               "synonyms": [
                 "quarrel",
                 "fight"
-              ]
+              ],
+              "synonymDiff": "argue指争论讲理，quarrel指吵架，fight指打架或激烈争吵"
             },
             {
               "en": "apologize",
@@ -3119,7 +3140,8 @@
               ],
               "synonyms": [
                 "say sorry"
-              ]
+              ],
+              "synonymDiff": "apologize是正式用语，say sorry是日常口语表达"
             },
             {
               "en": "forgive",
@@ -3138,7 +3160,8 @@
               ],
               "synonyms": [
                 "pardon"
-              ]
+              ],
+              "synonymDiff": "forgive指内心原谅，pardon更正式，也指法律赦免"
             },
             {
               "en": "agree",
@@ -3189,7 +3212,8 @@
               ],
               "synonyms": [
                 "vow"
-              ]
+              ],
+              "synonymDiff": "promise是日常承诺，vow更庄重，指郑重誓言"
             },
             {
               "en": "respect",
@@ -3224,7 +3248,8 @@
               ],
               "synonyms": [
                 "collaborate"
-              ]
+              ],
+              "synonymDiff": "cooperate指一般合作，collaborate指深度协作共创"
             },
             {
               "en": "fair",
@@ -3243,7 +3268,8 @@
               ],
               "synonyms": [
                 "just"
-              ]
+              ],
+              "synonymDiff": "fair侧重公平合理，just侧重正义、合乎道义"
             },
             {
               "en": "unfair",
@@ -3262,7 +3288,8 @@
               ],
               "synonyms": [
                 "unjust"
-              ]
+              ],
+              "synonymDiff": "unfair是日常用语，unjust更正式，强调不正义"
             },
             {
               "en": "truth",
@@ -3297,7 +3324,8 @@
               ],
               "synonyms": [
                 "fib"
-              ]
+              ],
+              "synonymDiff": "lie指正式的说谎，fib指无伤大雅的小谎话"
             }
           ],
           "sentences": [
@@ -3363,7 +3391,8 @@
               ],
               "synonyms": [
                 "trust"
-              ]
+              ],
+              "synonymDiff": "believe指相信某事为真，trust指信任某个人"
             },
             {
               "en": "prefer",
@@ -3398,7 +3427,8 @@
               ],
               "synonyms": [
                 "view"
-              ]
+              ],
+              "synonymDiff": "opinion指个人看法，view指观点立场，更正式"
             },
             {
               "en": "idea",
@@ -3417,7 +3447,8 @@
               ],
               "synonyms": [
                 "thought"
-              ]
+              ],
+              "synonymDiff": "idea强调灵感想法，thought强调思考过程的念头"
             },
             {
               "en": "reason",
@@ -3436,7 +3467,8 @@
               ],
               "synonyms": [
                 "cause"
-              ]
+              ],
+              "synonymDiff": "reason侧重理性原因，cause侧重导致结果的起因"
             },
             {
               "en": "explain",
@@ -3455,7 +3487,8 @@
               ],
               "synonyms": [
                 "clarify"
-              ]
+              ],
+              "synonymDiff": "explain指解释说明，clarify指澄清使更清楚"
             },
             {
               "en": "decide",
@@ -3474,7 +3507,8 @@
               ],
               "synonyms": [
                 "choose"
-              ]
+              ],
+              "synonymDiff": "decide强调做出决定，choose强调在选项中挑选"
             },
             {
               "en": "choose",
@@ -3494,7 +3528,8 @@
               "synonyms": [
                 "pick",
                 "select"
-              ]
+              ],
+              "synonymDiff": "choose是日常选择，pick口语化随意选，select更正式精挑"
             },
             {
               "en": "suggest",
@@ -3513,7 +3548,8 @@
               ],
               "synonyms": [
                 "recommend"
-              ]
+              ],
+              "synonymDiff": "suggest语气较轻地建议，recommend更强烈地推荐"
             }
           ],
           "sentences": [
@@ -3571,7 +3607,8 @@
               ],
               "synonyms": [
                 "envious"
-              ]
+              ],
+              "synonymDiff": "jealous含嫉妒和占有欲，envious侧重羡慕想拥有"
             },
             {
               "en": "frustrated",
@@ -3638,7 +3675,8 @@
               ],
               "synonyms": [
                 "puzzled"
-              ]
+              ],
+              "synonymDiff": "confused指困惑不理解，puzzled指被难题难住了"
             },
             {
               "en": "disappointed",
@@ -3673,7 +3711,8 @@
               ],
               "synonyms": [
                 "anxious"
-              ]
+              ],
+              "synonymDiff": "nervous指紧张不安，anxious侧重焦虑担忧"
             },
             {
               "en": "grateful",
@@ -3692,7 +3731,8 @@
               ],
               "synonyms": [
                 "thankful"
-              ]
+              ],
+              "synonymDiff": "grateful和thankful都是感激，grateful更正式深沉"
             },
             {
               "en": "curious",
@@ -3760,7 +3800,8 @@
               "synonyms": [
                 "anxious",
                 "concerned"
-              ]
+              ],
+              "synonymDiff": "worried指担心，anxious更焦虑，concerned较理性地关切"
             }
           ],
           "sentences": [
@@ -3811,7 +3852,8 @@
               "synonyms": [
                 "nice",
                 "gentle"
-              ]
+              ],
+              "synonymDiff": "kind指善良好心，nice泛指友好，gentle指温柔轻和"
             },
             {
               "en": "honest",
@@ -3830,7 +3872,8 @@
               ],
               "synonyms": [
                 "truthful"
-              ]
+              ],
+              "synonymDiff": "honest指诚实不骗人，truthful强调说的话是真实的"
             },
             {
               "en": "patient",
@@ -3865,7 +3908,8 @@
               ],
               "synonyms": [
                 "imaginative"
-              ]
+              ],
+              "synonymDiff": "creative强调能创造新东西，imaginative强调想象力丰富"
             },
             {
               "en": "confident",
@@ -3884,7 +3928,8 @@
               ],
               "synonyms": [
                 "self-assured"
-              ]
+              ],
+              "synonymDiff": "confident是日常用语，self-assured更正式，指沉稳自信"
             },
             {
               "en": "generous",
@@ -3935,7 +3980,8 @@
               ],
               "synonyms": [
                 "courteous"
-              ]
+              ],
+              "synonymDiff": "polite指有礼貌，courteous更正式，指彬彬有礼"
             },
             {
               "en": "lazy",
@@ -4054,7 +4100,8 @@
               ],
               "synonyms": [
                 "mind"
-              ]
+              ],
+              "synonymDiff": "brain指大脑这个器官，mind指心智、思维、精神"
             },
             {
               "en": "heart",
@@ -4107,7 +4154,8 @@
               "synonyms": [
                 "tummy",
                 "belly"
-              ]
+              ],
+              "synonymDiff": "stomach是正式用语，tummy是幼儿说法，belly指肚子"
             },
             {
               "en": "bone",
@@ -4193,7 +4241,8 @@
               ],
               "synonyms": [
                 "backbone"
-              ]
+              ],
+              "synonymDiff": "spine是医学正式用语，backbone是日常说法，指脊椎骨"
             },
             {
               "en": "rib",
@@ -4364,7 +4413,8 @@
               ],
               "synonyms": [
                 "band-aid"
-              ]
+              ],
+              "synonymDiff": "bandage指绷带纱布，band-aid特指创可贴"
             },
             {
               "en": "injection",
@@ -4420,7 +4470,8 @@
               ],
               "synonyms": [
                 "sign"
-              ]
+              ],
+              "synonymDiff": "symptom特指疾病症状，sign泛指任何迹象信号"
             },
             {
               "en": "recover",
@@ -4439,7 +4490,8 @@
               ],
               "synonyms": [
                 "heal"
-              ]
+              ],
+              "synonymDiff": "recover强调恢复康复，heal强调伤口愈合"
             }
           ],
           "sentences": [
@@ -4485,7 +4537,8 @@
               ],
               "synonyms": [
                 "work out"
-              ]
+              ],
+              "synonymDiff": "exercise泛指锻炼运动，work out特指去健身"
             },
             {
               "en": "healthy",
@@ -4504,7 +4557,8 @@
               ],
               "synonyms": [
                 "fit"
-              ]
+              ],
+              "synonymDiff": "healthy指身体健康，fit强调体能好、身材好"
             },
             {
               "en": "nutrition",
@@ -4603,7 +4657,8 @@
               ],
               "synonyms": [
                 "relax"
-              ]
+              ],
+              "synonymDiff": "rest指休息不活动，relax指放松身心减压"
             },
             {
               "en": "junk food",
@@ -4936,7 +4991,8 @@
               ],
               "synonyms": [
                 "plus"
-              ]
+              ],
+              "synonymDiff": "add指数学加法运算，plus是加号的读法"
             },
             {
               "en": "subtract",
@@ -4955,7 +5011,8 @@
               ],
               "synonyms": [
                 "minus"
-              ]
+              ],
+              "synonymDiff": "subtract指数学减法运算，minus是减号的读法"
             },
             {
               "en": "plus",
@@ -5022,7 +5079,8 @@
               ],
               "synonyms": [
                 "sum"
-              ]
+              ],
+              "synonymDiff": "total指总数总计，sum特指数学求和结果"
             },
             {
               "en": "count",
@@ -5355,7 +5413,8 @@
               ],
               "synonyms": [
                 "tale"
-              ]
+              ],
+              "synonymDiff": "story泛指故事，tale指传说或有趣的故事"
             },
             {
               "en": "chapter",
@@ -5406,7 +5465,8 @@
               ],
               "synonyms": [
                 "writer"
-              ]
+              ],
+              "synonymDiff": "author指书的作者，writer泛指写作的人"
             },
             {
               "en": "title",
@@ -5521,7 +5581,8 @@
               ],
               "synonyms": [
                 "verse"
-              ]
+              ],
+              "synonymDiff": "poem指一首完整的诗，verse指诗的一段或诗体"
             },
             {
               "en": "fairy tale",
@@ -5583,7 +5644,8 @@
               ],
               "synonyms": [
                 "start"
-              ]
+              ],
+              "synonymDiff": "beginning和start都指开始，beginning更正式"
             },
             {
               "en": "middle",
@@ -5602,7 +5664,8 @@
               ],
               "synonyms": [
                 "center"
-              ]
+              ],
+              "synonymDiff": "middle指中间位置，center指正中心点"
             },
             {
               "en": "end",
@@ -5621,7 +5684,8 @@
               ],
               "synonyms": [
                 "finish"
-              ]
+              ],
+              "synonymDiff": "end指结束终点，finish强调完成做完"
             },
             {
               "en": "describe",
@@ -5705,7 +5769,8 @@
               "synonyms": [
                 "reply",
                 "response"
-              ]
+              ],
+              "synonymDiff": "answer是一般回答，reply指回复，response更正式"
             },
             {
               "en": "instructions",
@@ -5724,7 +5789,8 @@
               ],
               "synonyms": [
                 "directions"
-              ]
+              ],
+              "synonymDiff": "instructions指操作步骤说明，directions指方向指引"
             },
             {
               "en": "list",
@@ -5795,7 +5861,8 @@
               ],
               "synonyms": [
                 "PC"
-              ]
+              ],
+              "synonymDiff": "computer泛指电脑，PC特指个人台式电脑"
             },
             {
               "en": "tablet",
@@ -5815,7 +5882,8 @@
               ],
               "synonyms": [
                 "iPad"
-              ]
+              ],
+              "synonymDiff": "tablet泛指平板电脑，iPad是苹果品牌的平板"
             },
             {
               "en": "keyboard",
@@ -5868,7 +5936,8 @@
               ],
               "synonyms": [
                 "display"
-              ]
+              ],
+              "synonymDiff": "screen泛指屏幕，display更技术化，指显示器"
             },
             {
               "en": "speaker",
@@ -5905,7 +5974,8 @@
               ],
               "synonyms": [
                 "earphones"
-              ]
+              ],
+              "synonymDiff": "headphones指头戴式耳机，earphones指入耳式耳机"
             },
             {
               "en": "printer",
@@ -6002,7 +6072,8 @@
               "synonyms": [
                 "web",
                 "WiFi"
-              ]
+              ],
+              "synonymDiff": "internet指互联网，web指万维网，WiFi指无线网络"
             },
             {
               "en": "website",
@@ -6120,7 +6191,8 @@
               ],
               "synonyms": [
                 "text"
-              ]
+              ],
+              "synonymDiff": "message泛指消息，text特指手机短信"
             },
             {
               "en": "photo",
@@ -6140,7 +6212,8 @@
               ],
               "synonyms": [
                 "picture"
-              ]
+              ],
+              "synonymDiff": "photo特指照片，picture泛指图片或画"
             },
             {
               "en": "app",
@@ -6159,7 +6232,8 @@
               ],
               "synonyms": [
                 "application"
-              ]
+              ],
+              "synonymDiff": "app是日常口语缩写，application是应用程序全称"
             }
           ],
           "sentences": [
@@ -6370,7 +6444,8 @@
               ],
               "synonyms": [
                 "ping pong"
-              ]
+              ],
+              "synonymDiff": "table tennis是正式说法，ping pong是口语说法"
             }
           ],
           "sentences": [
@@ -6480,7 +6555,8 @@
               ],
               "synonyms": [
                 "draw"
-              ]
+              ],
+              "synonymDiff": "tie指比赛平局，draw在英式英语中表示平局"
             },
             {
               "en": "race",
@@ -6608,7 +6684,8 @@
               ],
               "synonyms": [
                 "pastime"
-              ]
+              ],
+              "synonymDiff": "hobby指业余爱好，pastime指消遣活动打发时间"
             },
             {
               "en": "collect",
@@ -6627,7 +6704,8 @@
               ],
               "synonyms": [
                 "gather"
-              ]
+              ],
+              "synonymDiff": "collect指有目的地收集，gather指聚集到一起"
             },
             {
               "en": "stamp",
@@ -7248,7 +7326,8 @@
               ],
               "synonyms": [
                 "USA"
-              ]
+              ],
+              "synonymDiff": "America指美洲或美国，USA特指美利坚合众国"
             },
             {
               "en": "England",
@@ -7382,7 +7461,8 @@
               ],
               "synonyms": [
                 "custom"
-              ]
+              ],
+              "synonymDiff": "tradition指代代相传的传统，custom指风俗习惯"
             },
             {
               "en": "language",
@@ -7501,7 +7581,8 @@
               ],
               "synonyms": [
                 "get ready"
-              ]
+              ],
+              "synonymDiff": "prepare是正式用语，get ready是口语说法"
             },
             {
               "en": "arrive",
@@ -7520,7 +7601,8 @@
               ],
               "synonyms": [
                 "reach"
-              ]
+              ],
+              "synonymDiff": "arrive强调到达目的地，reach强调经过努力抵达"
             },
             {
               "en": "leave",
@@ -7539,7 +7621,8 @@
               ],
               "synonyms": [
                 "depart"
-              ]
+              ],
+              "synonymDiff": "leave指离开某地，depart更正式，常用于航班出发"
             },
             {
               "en": "return",
@@ -7558,7 +7641,8 @@
               ],
               "synonyms": [
                 "come back"
-              ]
+              ],
+              "synonymDiff": "return较正式指返回，come back是口语说法"
             },
             {
               "en": "chore",
@@ -7593,7 +7677,8 @@
               ],
               "synonyms": [
                 "arrange"
-              ]
+              ],
+              "synonymDiff": "organize侧重系统地组织，arrange侧重安排布置"
             },
             {
               "en": "tidy up",
@@ -7612,7 +7697,8 @@
               ],
               "synonyms": [
                 "clean up"
-              ]
+              ],
+              "synonymDiff": "tidy up指整理收拾，clean up侧重打扫干净"
             },
             {
               "en": "hang up",
@@ -7711,7 +7797,8 @@
               "synonyms": [
                 "trash",
                 "rubbish"
-              ]
+              ],
+              "synonymDiff": "garbage美式厨余垃圾，trash美式干垃圾，rubbish英式垃圾"
             },
             {
               "en": "recycle",
@@ -8368,7 +8455,8 @@
               ],
               "synonyms": [
                 "wish"
-              ]
+              ],
+              "synonymDiff": "hope指有可能实现的希望，wish指不太可能的愿望"
             },
             {
               "en": "expect",
@@ -8387,7 +8475,8 @@
               ],
               "synonyms": [
                 "anticipate"
-              ]
+              ],
+              "synonymDiff": "expect指有根据地预期，anticipate指提前预料并准备"
             },
             {
               "en": "someday",
@@ -8422,7 +8511,8 @@
               ],
               "synonyms": [
                 "maybe"
-              ]
+              ],
+              "synonymDiff": "perhaps和maybe都表也许，perhaps稍正式"
             },
             {
               "en": "probably",
@@ -8441,7 +8531,8 @@
               ],
               "synonyms": [
                 "likely"
-              ]
+              ],
+              "synonymDiff": "probably可能性较高(约80%)，likely意思相近更口语"
             },
             {
               "en": "definitely",
@@ -8461,7 +8552,8 @@
               "synonyms": [
                 "certainly",
                 "surely"
-              ]
+              ],
+              "synonymDiff": "definitely语气最强肯定，certainly正式，surely带期待"
             },
             {
               "en": "eventually",
@@ -8480,7 +8572,8 @@
               ],
               "synonyms": [
                 "finally"
-              ]
+              ],
+              "synonymDiff": "eventually强调经过很久终于，finally强调最后一步"
             }
           ],
           "sentences": [
@@ -8526,7 +8619,8 @@
               ],
               "synonyms": [
                 "though"
-              ]
+              ],
+              "synonymDiff": "although更正式用于句首，though更口语可放句末"
             },
             {
               "en": "however",
@@ -8546,7 +8640,8 @@
               "synonyms": [
                 "but",
                 "nevertheless"
-              ]
+              ],
+              "synonymDiff": "however最正式，but最口语，nevertheless更强调转折"
             },
             {
               "en": "therefore",
@@ -8565,7 +8660,8 @@
               ],
               "synonyms": [
                 "so"
-              ]
+              ],
+              "synonymDiff": "therefore较正式表因此，so是日常口语中的说法"
             },
             {
               "en": "meanwhile",
@@ -8780,7 +8876,8 @@
               ],
               "synonyms": [
                 "decrease"
-              ]
+              ],
+              "synonymDiff": "reduce和decrease都表减少，reduce更口语常用"
             },
             {
               "en": "waste",
@@ -8831,7 +8928,8 @@
               ],
               "synonyms": [
                 "guard"
-              ]
+              ],
+              "synonymDiff": "protect侧重保护不受伤害，guard侧重看守防卫"
             },
             {
               "en": "clean energy",
@@ -8942,7 +9040,8 @@
               "synonyms": [
                 "earth",
                 "dirt"
-              ]
+              ],
+              "synonymDiff": "soil指可种植的土壤，earth泛指泥土，dirt指脏土"
             },
             {
               "en": "oxygen",

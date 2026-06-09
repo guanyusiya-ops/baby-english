@@ -1,6 +1,6 @@
 import { speak, speakSlow } from '../audio.js';
 import { loadProgress, toggleMastered, toggleMasteredSentence, getSceneMasteredCount } from '../storage.js';
-import { getLevelData } from '../app.js';
+import { getLevelData, getDictData } from '../app.js';
 
 let isFirstRender = true;
 let scrollObserver = null;
@@ -166,6 +166,17 @@ function escapeAttr(str) {
 }
 
 function findWordInScene(scene, en) {
+  const enLower = en.toLowerCase().trim();
+  for (const group of scene.groups) {
+    for (const w of group.words) {
+      if (w.en === en) return w;
+    }
+  }
+  for (const group of scene.groups) {
+    for (const w of group.words) {
+      if (w.en.toLowerCase().trim() === enLower) return w;
+    }
+  }
   const forms = getBaseforms(en);
   for (const group of scene.groups) {
     for (const w of group.words) {
@@ -196,6 +207,33 @@ async function findWordGlobal(en) {
       }
     } catch (e) {}
   }
+  return null;
+}
+
+function findPhraseContaining(scene, word) {
+  const wLower = word.toLowerCase();
+  for (const group of scene.groups) {
+    for (const w of group.words) {
+      if (w.en.includes(' ') && w.en.toLowerCase().split(/\s+/).includes(wLower)) {
+        return w;
+      }
+    }
+  }
+  return null;
+}
+
+async function findWordInDict(en) {
+  try {
+    const dict = await getDictData();
+    const forms = getBaseforms(en);
+    for (const w of dict) {
+      const wLower = w.en.toLowerCase();
+      if (wLower === en.toLowerCase()) return w;
+      for (const form of forms) {
+        if (wLower === form) return w;
+      }
+    }
+  } catch (e) {}
   return null;
 }
 
@@ -431,14 +469,14 @@ function bindEvents(container, level, scene) {
       if (e.target.closest('.btn-speak') || e.target.closest('.btn-master')) return;
       const en = row.dataset.en.replace(/&quot;/g, '"').replace(/&#39;/g, "'");
       let word = findWordInScene(scene, en);
+      if (!word) word = await findWordGlobal(en);
+      if (!word) word = await findWordInDict(en);
       if (!word) {
-        word = await findWordGlobal(en);
+        const cn = row.querySelector('.row-cn')?.textContent || '';
+        const emoji = row.querySelector('.item-emoji')?.textContent || '';
+        word = { en, cn, emoji: emoji || undefined };
       }
-      if (word) {
-        showWordDetail(word);
-      } else {
-        speakSlow(en);
-      }
+      showWordDetail(word);
     });
   });
 
@@ -447,14 +485,11 @@ function bindEvents(container, level, scene) {
       e.stopPropagation();
       const wordText = span.dataset.word;
       let word = findWordInScene(scene, wordText) || findWordInScene(scene, wordText.toLowerCase());
-      if (!word) {
-        word = await findWordGlobal(wordText);
-      }
-      if (word) {
-        showWordDetail(word);
-      } else {
-        speakSlow(wordText);
-      }
+      if (!word) word = await findWordGlobal(wordText);
+      if (!word) word = findPhraseContaining(scene, wordText);
+      if (!word) word = await findWordInDict(wordText);
+      if (!word) word = { en: wordText, cn: '' };
+      showWordDetail(word);
     });
   });
 
@@ -471,11 +506,7 @@ function bindEvents(container, level, scene) {
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
       const text = btn.dataset.speak;
-      if (text.split(' ').length <= 2) {
-        speakSlow(text);
-      } else {
-        speak(text, 0.8);
-      }
+      speak(text, text.split(' ').length <= 2 ? 0.85 : 0.8);
     });
   });
 
@@ -485,7 +516,23 @@ function bindEvents(container, level, scene) {
       const word = btn.dataset.word;
       const wasMastered = btn.classList.contains('mastered');
       toggleMastered(word);
-      render(container, level, scene);
+
+      if (!wasMastered) {
+        const row = btn.closest('.learn-row');
+        if (row) {
+          container.style.pointerEvents = 'none';
+          row.classList.add('mastering');
+          setTimeout(() => {
+            render(container, level, scene);
+            setTimeout(() => { container.style.pointerEvents = ''; }, 300);
+          }, 300);
+        } else {
+          render(container, level, scene);
+        }
+      } else {
+        render(container, level, scene);
+      }
+
       showUndoToast(wasMastered ? `已取消掌握：${word}` : `已掌握：${word}`, () => {
         toggleMastered(word);
         render(container, level, scene);
@@ -499,7 +546,23 @@ function bindEvents(container, level, scene) {
       const sentence = btn.dataset.sentence;
       const wasMastered = btn.classList.contains('mastered');
       toggleMasteredSentence(sentence);
-      render(container, level, scene);
+
+      if (!wasMastered) {
+        const row = btn.closest('.learn-row');
+        if (row) {
+          container.style.pointerEvents = 'none';
+          row.classList.add('mastering');
+          setTimeout(() => {
+            render(container, level, scene);
+            setTimeout(() => { container.style.pointerEvents = ''; }, 300);
+          }, 300);
+        } else {
+          render(container, level, scene);
+        }
+      } else {
+        render(container, level, scene);
+      }
+
       const short = sentence.length > 20 ? sentence.slice(0, 20) + '...' : sentence;
       showUndoToast(wasMastered ? `已取消掌握` : `已掌握：${short}`, () => {
         toggleMasteredSentence(sentence);
