@@ -457,7 +457,7 @@ body {
   color: var(--accent);
 }
 
-@media (hover: hover) {
+@media (hover: hover) and (pointer: fine) {
   .btn-speak:hover {
     background: var(--baby-yellow);
   }
@@ -481,7 +481,7 @@ body {
   transition: all 0.15s;
 }
 
-@media (hover: hover) {
+@media (hover: hover) and (pointer: fine) {
   .btn-master:hover, .btn-master-sentence:hover {
     background: var(--baby-green);
   }
@@ -505,7 +505,7 @@ body {
   transition: background 0.15s;
 }
 
-@media (hover: hover) {
+@media (hover: hover) and (pointer: fine) {
   .btn-unmaster:hover, .btn-unmaster-sentence:hover {
     background: var(--baby-pink);
   }
