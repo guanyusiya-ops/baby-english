@@ -1,4 +1,5 @@
 .DS_Store
 .claude/
+.wrangler/
 *.pyc
 __pycache__/
